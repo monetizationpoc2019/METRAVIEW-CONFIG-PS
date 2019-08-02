@@ -1,0 +1,44 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "metratech.com/flatdiscount",
+        "locale_entry": [
+            {
+                "Value": "Pauschalrabatt",
+                "Name": "metratech.com/flatdiscount"
+            },
+            {
+                "Value": "Enddatum des Rabattintervalls",
+                "Name": "metratech.com/flatdiscount/DiscountIntervalEnd"
+            },
+            {
+                "Value": "Anfangsdatum des Rabattintervalls",
+                "Name": "metratech.com/flatdiscount/DiscountIntervalStart"
+            },
+            {
+                "Value": "Ende der Rabattintervallnutzung",
+                "Name": "metratech.com/flatdiscount/DiscountIntervalSubEnd"
+            },
+            {
+                "Value": "Beginn der Rabattintervallnutzung",
+                "Name": "metratech.com/flatdiscount/DiscountIntervalSubStart"
+            },
+            {
+                "Value": "Pauschaltarifkennung",
+                "Name": "metratech.com/flatdiscount/FlatRateQualifier"
+            },
+            {
+                "Value": "Gruppennutzungsanmeldung",
+                "Name": "metratech.com/flatdiscount/GroupSubscriptionName"
+            },
+            {
+                "Value": "Ende der Nutzungsanmeldung",
+                "Name": "metratech.com/flatdiscount/SubscriptionEnd"
+            },
+            {
+                "Value": "Beginn der Nutzungsanmeldung",
+                "Name": "metratech.com/flatdiscount/SubscriptionStart"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,72 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "metratech.com/AddCharge",
+        "locale_entry": [
+            {
+                "Value": "Frais supplémentaires",
+                "Name": "metratech.com/AddCharge"
+            },
+            {
+                "Value": "Date de facturation",
+                "Name": "metratech.com/AddCharge/ChargeDate"
+            },
+            {
+                "Value": "Type de frais",
+                "Name": "metratech.com/AddCharge/chargetype"
+            },
+            {
+                "Value": "Autre",
+                "Name": "metratech.com/addCharge/ChargeType/Other"
+            },
+            {
+                "Value": "ID du conseiller",
+                "Name": "metratech.com/AddCharge/CsrID"
+            },
+            {
+                "Value": "Code comptable",
+                "Name": "metratech.com/AddCharge/generalledgercode"
+            },
+            {
+                "Value": "Remarques internes",
+                "Name": "metratech.com/AddCharge/internalcomment"
+            },
+            {
+                "Value": "Commentaire",
+                "Name": "metratech.com/AddCharge/invoicecomment"
+            },
+            {
+                "Value": "Emetteur",
+                "Name": "metratech.com/AddCharge/issuer"
+            },
+            {
+                "Value": "Espace de nommage",
+                "Name": "metratech.com/AddCharge/NameSpace"
+            },
+            {
+                "Value": "Description des frais",
+                "Name": "metratech.com/AddCharge/otherchargetypecomment"
+            },
+            {
+                "Value": "Payeur",
+                "Name": "metratech.com/AddCharge/Payer"
+            },
+            {
+                "Value": "Lien aux frais précédents",
+                "Name": "metratech.com/AddCharge/relatetopreviouscharge"
+            },
+            {
+                "Value": "Résoudre avec ID de compte",
+                "Name": "metratech.com/AddCharge/ResolveWithAccountIDFlag"
+            },
+            {
+                "Value": "Montant de la taxe",
+                "Name": "metratech.com/AddCharge/taxamount"
+            },
+            {
+                "Value": "Imposable",
+                "Name": "metratech.com/AddCharge/taxtype"
+            }
+        ]
+    }
+}}

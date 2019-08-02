@@ -1,0 +1,10 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "BusinessEntity/Core.UI.UserProfile",
+        "locale_entry": {
+            "Value": "Fuso horário",
+            "Name": "BusinessEntity/Core.UI.UserProfile/Timezone/Label"
+        }
+    }
+}}

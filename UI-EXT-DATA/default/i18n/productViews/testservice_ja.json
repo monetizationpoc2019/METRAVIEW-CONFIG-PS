@@ -1,0 +1,40 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/testservice",
+        "locale_entry": [
+            {
+                "Value": "テスト サービス",
+                "Name": "metratech.com/testservice"
+            },
+            {
+                "Value": "十進プロパティ 1",
+                "Name": "metratech.com/testservice/DecProp1"
+            },
+            {
+                "Value": "十進プロパティ 2",
+                "Name": "metratech.com/testservice/DecProp2"
+            },
+            {
+                "Value": "十進プロパティ 3",
+                "Name": "metratech.com/testservice/DecProp3"
+            },
+            {
+                "Value": "内容",
+                "Name": "metratech.com/testservice/Description"
+            },
+            {
+                "Value": "オプション時間",
+                "Name": "metratech.com/testservice/optionaltime"
+            },
+            {
+                "Value": "時間",
+                "Name": "metratech.com/testservice/Time"
+            },
+            {
+                "Value": "単位",
+                "Name": "metratech.com/testservice/Units"
+            }
+        ]
+    }
+}}

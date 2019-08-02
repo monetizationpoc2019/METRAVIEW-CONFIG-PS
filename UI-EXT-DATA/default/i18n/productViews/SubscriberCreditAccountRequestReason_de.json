@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "metratech.com/SubscriberCreditAccountRequestReason",
+        "locale_entry": [
+            {
+                "Value": "Schlechter Service",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/BadService"
+            },
+            {
+                "Value": "Abgebrochener Anruf",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/DroppedCall"
+            },
+            {
+                "Value": "Allgemeine Unzufriedenheit",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/GeneralDissatisfaction"
+            },
+            {
+                "Value": "Andere",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/Other"
+            },
+            {
+                "Value": "Schlechte Verbindung",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/PoorConnection"
+            }
+        ]
+    }
+}}

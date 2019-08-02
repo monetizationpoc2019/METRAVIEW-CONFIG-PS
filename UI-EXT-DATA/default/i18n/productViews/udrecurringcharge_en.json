@@ -1,0 +1,76 @@
+{"mt_config": {
+    "language_code": "US",
+    "locale_space": {
+        "name": "metratech.com/udrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "Unit Dependent Recurring Charge",
+                "Name": "metratech.com/udrecurringcharge"
+            },
+            {
+                "Value": "Advance",
+                "Name": "metratech.com/udrecurringcharge/Advance"
+            },
+            {
+                "Value": "Billing Interval End",
+                "Name": "metratech.com/udrecurringcharge/BillingIntervalEnd"
+            },
+            {
+                "Value": "Billing Interval Start",
+                "Name": "metratech.com/udrecurringcharge/BillingIntervalStart"
+            },
+            {
+                "Value": "Prorated Daily Rate",
+                "Name": "metratech.com/udrecurringcharge/ProratedDailyRate"
+            },
+            {
+                "Value": "Prorated Days",
+                "Name": "metratech.com/udrecurringcharge/ProratedDays"
+            },
+            {
+                "Value": "Prorated Interval End",
+                "Name": "metratech.com/udrecurringcharge/ProratedIntervalEnd"
+            },
+            {
+                "Value": "Prorated Interval Start",
+                "Name": "metratech.com/udrecurringcharge/ProratedIntervalStart"
+            },
+            {
+                "Value": "Prorated Because Of Subscription",
+                "Name": "metratech.com/udrecurringcharge/ProratedOnSubscription"
+            },
+            {
+                "Value": "Prorated Because Of Unsubscription",
+                "Name": "metratech.com/udrecurringcharge/ProratedOnUnSubscription"
+            },
+            {
+                "Value": "Prorate Because Of Subscription",
+                "Name": "metratech.com/udrecurringcharge/ProrateOnSubscription"
+            },
+            {
+                "Value": "Prorate Because Of Unsubscription",
+                "Name": "metratech.com/udrecurringcharge/ProrateOnUnSubscription"
+            },
+            {
+                "Value": "Recurring Charge Amount",
+                "Name": "metratech.com/udrecurringcharge/RCAmount"
+            },
+            {
+                "Value": "Recurring Charge End Date",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalEnd"
+            },
+            {
+                "Value": "Recurring Charge Start Date",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalStart"
+            },
+            {
+                "Value": "Recurring Charge Subscription End Date",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Recurring Charge Subscription Start Date",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

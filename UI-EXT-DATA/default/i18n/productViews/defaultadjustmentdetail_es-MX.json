@@ -1,0 +1,100 @@
+{"mt_config": {
+    "language_code": "es-MX",
+    "locale_space": {
+        "name": "metratech.com/defaultadjustmentdetail",
+        "locale_entry": [
+            {
+                "Value": "Detalle del ajuste",
+                "Name": "metratech.com/DefaultAdjustmentDetail"
+            },
+            {
+                "Value": "Monto ajustado",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustedAmount"
+            },
+            {
+                "Value": "Monto ajustado",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustedAmountAsString"
+            },
+            {
+                "Value": "Monto ajustado con impuesto",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustedAmountWithTax"
+            },
+            {
+                "Value": "Monto ajustado con impuesto",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustedAmountWithTaxAsString"
+            },
+            {
+                "Value": "Monto del ajuste",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustmentAmount"
+            },
+            {
+                "Value": "Monto del ajuste",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustmentAmountAsString"
+            },
+            {
+                "Value": "Monto del ajuste con impuesto",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustmentAmountWithTax"
+            },
+            {
+                "Value": "Monto del ajuste con impuesto",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustmentAmountWithTaxAsString"
+            },
+            {
+                "Value": "Nombre para mostrar de la instancia de ajuste",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustmentInstanceDisplayName"
+            },
+            {
+                "Value": "Motivo del ajuste",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustmentReason"
+            },
+            {
+                "Value": "Nombre para mostrar de la plantilla de ajuste",
+                "Name": "metratech.com/DefaultAdjustmentDetail/AdjustmentTemplateDisplayName"
+            },
+            {
+                "Value": "Impuesto del condado",
+                "Name": "metratech.com/DefaultAdjustmentDetail/CountyTax"
+            },
+            {
+                "Value": "Descripción",
+                "Name": "metratech.com/DefaultAdjustmentDetail/Description"
+            },
+            {
+                "Value": "Impuesto federal",
+                "Name": "metratech.com/DefaultAdjustmentDetail/FederalTax"
+            },
+            {
+                "Value": "Impuesto local",
+                "Name": "metratech.com/DefaultAdjustmentDetail/LocalTax"
+            },
+            {
+                "Value": "Otro impuesto",
+                "Name": "metratech.com/DefaultAdjustmentDetail/OtherTax"
+            },
+            {
+                "Value": "Sesión",
+                "Name": "metratech.com/DefaultAdjustmentDetail/SessionID"
+            },
+            {
+                "Value": "Impuesto estatal",
+                "Name": "metratech.com/DefaultAdjustmentDetail/StateTax"
+            },
+            {
+                "Value": "Monto no ajustado",
+                "Name": "metratech.com/DefaultAdjustmentDetail/UnadjustedAmount"
+            },
+            {
+                "Value": "Monto no ajustado",
+                "Name": "metratech.com/DefaultAdjustmentDetail/UnadjustedAmountAsString"
+            },
+            {
+                "Value": "Monto no ajustado con impuesto",
+                "Name": "metratech.com/DefaultAdjustmentDetail/UnadjustedAmountWithTax"
+            },
+            {
+                "Value": "Monto no ajustado con impuesto",
+                "Name": "metratech.com/DefaultAdjustmentDetail/UnadjustedAmountWithTaxAsString"
+            }
+        ]
+    }
+}}

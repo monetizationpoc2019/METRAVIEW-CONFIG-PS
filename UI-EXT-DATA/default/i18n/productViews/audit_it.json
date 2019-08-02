@@ -1,0 +1,48 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "metratech.com/audit",
+        "locale_entry": [
+            {
+                "Value": "Registro verifiche",
+                "Name": "metratech.com/audit"
+            },
+            {
+                "Value": "ID RSC",
+                "Name": "metratech.com/audit/CsrID"
+            },
+            {
+                "Value": "Descrizione",
+                "Name": "metratech.com/audit/description"
+            },
+            {
+                "Value": "MAM",
+                "Name": "metratech.com/audit/enmApplicationID/MAM"
+            },
+            {
+                "Value": "MPS",
+                "Name": "metratech.com/audit/enmApplicationID/MPS"
+            },
+            {
+                "Value": "UNKNOWN",
+                "Name": "metratech.com/audit/enmApplicationID/UNKNOWN"
+            },
+            {
+                "Value": "Add",
+                "Name": "metratech.com/audit/enmAuditOperation/Add"
+            },
+            {
+                "Value": "Delete",
+                "Name": "metratech.com/audit/enmAuditOperation/Delete"
+            },
+            {
+                "Value": "Update",
+                "Name": "metratech.com/audit/enmAuditOperation/Update"
+            },
+            {
+                "Value": "ID account abbonato",
+                "Name": "metratech.com/audit/subscriberaccountID"
+            }
+        ]
+    }
+}}

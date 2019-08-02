@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "gb",
+    "locale_space": {
+        "name": "LayoutText",
+        "locale_entry": [
+            {
+                "Value": "Conference Details",
+                "Name": "LayoutText/AudioConfCall/Title"
+            },
+            {
+                "Value": "Approve",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_APPROVE"
+            },
+            {
+                "Value": "Approve All",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_APPROVE_ALL"
+            },
+            {
+                "Value": "Deny",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_DENY"
+            },
+            {
+                "Value": "Deny All",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_DENY_ALL"
+            }
+        ]
+    }
+}}

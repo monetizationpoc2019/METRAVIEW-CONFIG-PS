@@ -1,0 +1,36 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "metratech.com/Events",
+        "locale_entry": [
+            {
+                "Value": "Executar",
+                "Name": "metratech.com/Events/Action/Execute"
+            },
+            {
+                "Value": "Reverso",
+                "Name": "metratech.com/Events/Action/Reverse"
+            },
+            {
+                "Value": "Fracassado",
+                "Name": "metratech.com/Events/Status/Failed"
+            },
+            {
+                "Value": "É executado Ainda",
+                "Name": "metratech.com/Events/Status/NotYetRun"
+            },
+            {
+                "Value": "Pronto para funcionar",
+                "Name": "metratech.com/Events/Status/ReadyToRun"
+            },
+            {
+                "Value": "Sucedido",
+                "Name": "metratech.com/Events/Status/Succeeded"
+            },
+            {
+                "Value": "Êxito com Avisos",
+                "Name": "metratech.com/Events/Status/SucceededWithWarning"
+            }
+        ]
+    }
+}}

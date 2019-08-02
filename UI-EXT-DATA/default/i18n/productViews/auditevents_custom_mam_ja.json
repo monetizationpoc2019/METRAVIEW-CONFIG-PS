@@ -1,0 +1,16 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/auditevents/custom/mam",
+        "locale_entry": [
+            {
+                "Value": "CSR 表記",
+                "Name": "metratech.com/auditevents/custom/mam/note"
+            },
+            {
+                "Value": "利用者が呼び出されました",
+                "Name": "metratech.com/auditevents/custom/mam/telephone"
+            }
+        ]
+    }
+}}

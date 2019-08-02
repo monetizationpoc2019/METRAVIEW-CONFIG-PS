@@ -1,0 +1,52 @@
+{"mt_config": {
+    "language_code": "US",
+    "locale_space": {
+        "name": "metratech.com/percentdiscount",
+        "locale_entry": [
+            {
+                "Value": "Percent Discount",
+                "Name": "metratech.com/percentdiscount"
+            },
+            {
+                "Value": "Discount Interval End Date",
+                "Name": "metratech.com/percentdiscount/DiscountIntervalEnd"
+            },
+            {
+                "Value": "Discount Interval Start Date",
+                "Name": "metratech.com/percentdiscount/DiscountIntervalStart"
+            },
+            {
+                "Value": "Discount Interval Subscription End Date",
+                "Name": "metratech.com/percentdiscount/DiscountIntervalSubEnd"
+            },
+            {
+                "Value": "Discount Interval Subscription Start Date",
+                "Name": "metratech.com/percentdiscount/DiscountIntervalSubStart"
+            },
+            {
+                "Value": "Discount Percent",
+                "Name": "metratech.com/percentdiscount/DiscountPercent"
+            },
+            {
+                "Value": "Group Subscription",
+                "Name": "metratech.com/percentdiscount/GroupSubscriptionName"
+            },
+            {
+                "Value": "Qualifier Value",
+                "Name": "metratech.com/percentdiscount/Qualifier"
+            },
+            {
+                "Value": "Subscription End Date",
+                "Name": "metratech.com/percentdiscount/SubscriptionEnd"
+            },
+            {
+                "Value": "Subscription Start Date",
+                "Name": "metratech.com/percentdiscount/SubscriptionStart"
+            },
+            {
+                "Value": "Target Value",
+                "Name": "metratech.com/percentdiscount/Target"
+            }
+        ]
+    }
+}}

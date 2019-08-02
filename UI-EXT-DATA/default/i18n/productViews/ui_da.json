@@ -1,0 +1,108 @@
+{"mt_config": {
+    "language_code": "da",
+    "locale_space": {
+        "name": "UI",
+        "locale_entry": [
+            {
+                "Value": "UI/AuthenticationType/MetraNet",
+                "Name": "UI/AuthenticationType/MetraNet"
+            },
+            {
+                "Value": "UI/DashboardColumnWidth/ExtraLarge",
+                "Name": "UI/DashboardColumnWidth/ExtraLarge"
+            },
+            {
+                "Value": "UI/DashboardColumnWidth/ExtraSmall",
+                "Name": "UI/DashboardColumnWidth/ExtraSmall"
+            },
+            {
+                "Value": "UI/DashboardColumnWidth/Large",
+                "Name": "UI/DashboardColumnWidth/Large"
+            },
+            {
+                "Value": "UI/DashboardColumnWidth/Medium",
+                "Name": "UI/DashboardColumnWidth/Medium"
+            },
+            {
+                "Value": "UI/DashboardColumnWidth/Small",
+                "Name": "UI/DashboardColumnWidth/Small"
+            },
+            {
+                "Value": "UI/ReportType/Chart",
+                "Name": "UI/ReportType/Chart"
+            },
+            {
+                "Value": "UI/ReportType/Grid",
+                "Name": "UI/ReportType/Grid"
+            },
+            {
+                "Value": "UI/Themes/blue",
+                "Name": "UI/Themes/blue"
+            },
+            {
+                "Value": "UI/Themes/gold",
+                "Name": "UI/Themes/gold"
+            },
+            {
+                "Value": "UI/Themes/gray",
+                "Name": "UI/Themes/gray"
+            },
+            {
+                "Value": "UI/Themes/green",
+                "Name": "UI/Themes/green"
+            },
+            {
+                "Value": "UI/Themes/orange",
+                "Name": "UI/Themes/orange"
+            },
+            {
+                "Value": "UI/Themes/purple",
+                "Name": "UI/Themes/purple"
+            },
+            {
+                "Value": "UI/Themes/red",
+                "Name": "UI/Themes/red"
+            },
+            {
+                "Value": "UI/UICultures/Arabic",
+                "Name": "UI/UICultures/Arabic"
+            },
+            {
+                "Value": "UI/UICultures/English",
+                "Name": "UI/UICultures/English"
+            },
+            {
+                "Value": "UI/UICultures/English GB",
+                "Name": "UI/UICultures/English GB"
+            },
+            {
+                "Value": "UI/UICultures/French",
+                "Name": "UI/UICultures/French"
+            },
+            {
+                "Value": "UI/UICultures/German",
+                "Name": "UI/UICultures/German"
+            },
+            {
+                "Value": "UI/UICultures/Italian",
+                "Name": "UI/UICultures/Italian"
+            },
+            {
+                "Value": "UI/UICultures/Japanese",
+                "Name": "UI/UICultures/Japanese"
+            },
+            {
+                "Value": "UI/UICultures/Portuguese - Brazil",
+                "Name": "UI/UICultures/Portuguese - Brazil"
+            },
+            {
+                "Value": "UI/UICultures/Spanish",
+                "Name": "UI/UICultures/Spanish"
+            },
+            {
+                "Value": "UI/UICultures/Spanish - Mexican",
+                "Name": "UI/UICultures/Spanish - Mexican"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,76 @@
+{"mt_config": {
+    "language_code": "es",
+    "locale_space": {
+        "name": "metratech.com/flatrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "Cargo a tarifa constante",
+                "Name": "metratech.com/flatrecurringcharge"
+            },
+            {
+                "Value": "Anticipo",
+                "Name": "metratech.com/flatrecurringcharge/Advance"
+            },
+            {
+                "Value": "Fin del intervalo de facturación",
+                "Name": "metratech.com/flatrecurringcharge/BillingIntervalEnd"
+            },
+            {
+                "Value": "Inicio del intervalo de facturación",
+                "Name": "metratech.com/flatrecurringcharge/BillingIntervalStart"
+            },
+            {
+                "Value": "Tasa de prorrateo diaria",
+                "Name": "metratech.com/flatrecurringcharge/ProratedDailyRate"
+            },
+            {
+                "Value": "Días prorrateados",
+                "Name": "metratech.com/flatrecurringcharge/ProratedDays"
+            },
+            {
+                "Value": "Final del intervalo de prorrateo",
+                "Name": "metratech.com/flatrecurringcharge/ProratedIntervalEnd"
+            },
+            {
+                "Value": "Inicio del intervalo de prorrateo",
+                "Name": "metratech.com/flatrecurringcharge/ProratedIntervalStart"
+            },
+            {
+                "Value": "Prorratear debido a suscripción",
+                "Name": "metratech.com/flatrecurringcharge/ProratedOnSubscription"
+            },
+            {
+                "Value": "Prorratear debido a cancelación de suscripción",
+                "Name": "metratech.com/flatrecurringcharge/ProratedOnUnSubscription"
+            },
+            {
+                "Value": "Prorratear debido a suscripción",
+                "Name": "metratech.com/flatrecurringcharge/ProrateOnSubscription"
+            },
+            {
+                "Value": "Prorratear debido a cancelación de suscripción",
+                "Name": "metratech.com/flatrecurringcharge/ProrateOnUnSubscription"
+            },
+            {
+                "Value": "Importe de cargo recurrente",
+                "Name": "metratech.com/flatrecurringcharge/RCAmount"
+            },
+            {
+                "Value": "Fecha de finalización de cargo recurrente",
+                "Name": "metratech.com/flatrecurringcharge/RCIntervalEnd"
+            },
+            {
+                "Value": "Fecha de inicio de cargo recurrente",
+                "Name": "metratech.com/flatrecurringcharge/RCIntervalStart"
+            },
+            {
+                "Value": "Fecha de finalización de suscripción a cargo recurrente",
+                "Name": "metratech.com/flatrecurringcharge/RCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Fecha de inicio de suscripción a cargo recurrente",
+                "Name": "metratech.com/flatrecurringcharge/RCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

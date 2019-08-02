@@ -1,0 +1,68 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "Approvals",
+        "locale_entry": [
+            {
+                "Value": "Aggiornamento proprietà account",
+                "Name": "Approvals/ChangeType/AccountUpdate"
+            },
+            {
+                "Value": "Aggiornamento regole programmazione tariffe",
+                "Name": "Approvals/ChangeType/RateUpdate"
+            },
+            {
+                "Value": "In sospeso",
+                "Name": "Approvals/ChangeState/Pending"
+            },
+            {
+                "Value": "Approvato in attesa di essere applicato",
+                "Name": "Approvals/ChangeState/ApprovedWaitingToBeApplied"
+            },
+            {
+                "Value": "Impossibile applicare",
+                "Name": "Approvals/ChangeState/FailedToApply"
+            },
+            {
+                "Value": "Applicato",
+                "Name": "Approvals/ChangeState/Applied"
+            },
+            {
+                "Value": "Respinto",
+                "Name": "Approvals/ChangeState/Dismissed"
+            },
+            {
+                "Value": "Data offerta di prodotti aggiornata",
+                "Name": "Approvals/ChangeType/ProductOfferingUpdate"
+            },
+            {
+                "Value": "New Subscription",
+                "Name": "Approvals/ChangeType/Subscription.Add"
+            },
+            {
+                "Value": "Subscription Update",
+                "Name": "Approvals/ChangeType/Subscription.Update"
+            },
+            {
+                "Value": "Abbonamento di gruppo: Aggiungi gerarchia membro",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMemberHierarchies"
+            },
+            {
+                "Value": "Abbonamento di gruppo: Aggiungi membro",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMembers"
+            },
+            {
+                "Value": "Abbonamento di gruppo: Annulla membro",
+                "Name": "Approvals/ChangeType/GroupSubscription.UnsubscribeMembers"
+            },
+            {
+                "Value": "Abbonamento di gruppo: Aggiorna membro",
+                "Name": "Approvals/ChangeType/GroupSubscription.UpdateMember"
+            },
+            {
+                "Value": "Abbonamento di gruppo: Elimina membro",
+                "Name": "Approvals/ChangeType/GroupSubscription.DeleteMembers"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "LayoutText",
+        "locale_entry": [
+            {
+                "Value": "会議の詳細",
+                "Name": "LayoutText/AudioConfCall/Title"
+            },
+            {
+                "Value": "承認",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_APPROVE"
+            },
+            {
+                "Value": "すべて承認",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_APPROVE_ALL"
+            },
+            {
+                "Value": "拒否",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_DENY"
+            },
+            {
+                "Value": "すべて拒否",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_DENY_ALL"
+            }
+        ]
+    }
+}}

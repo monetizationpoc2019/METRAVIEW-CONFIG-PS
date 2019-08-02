@@ -1,0 +1,48 @@
+{"mt_config": {
+    "language_code": "FR",
+    "locale_space": {
+        "name": "metratech.com/audit",
+        "locale_entry": [
+            {
+                "Value": "Journal d'audit",
+                "Name": "metratech.com/audit"
+            },
+            {
+                "Value": "ID du conseiller",
+                "Name": "metratech.com/audit/CsrID"
+            },
+            {
+                "Value": "Description",
+                "Name": "metratech.com/audit/description"
+            },
+            {
+                "Value": "MAM",
+                "Name": "metratech.com/audit/enmApplicationID/MAM"
+            },
+            {
+                "Value": "MPS",
+                "Name": "metratech.com/audit/enmApplicationID/MPS"
+            },
+            {
+                "Value": "INCONNU",
+                "Name": "metratech.com/audit/enmApplicationID/UNKNOWN"
+            },
+            {
+                "Value": "Ajouter",
+                "Name": "metratech.com/audit/enmAuditOperation/Add"
+            },
+            {
+                "Value": "Supprimer",
+                "Name": "metratech.com/audit/enmAuditOperation/Delete"
+            },
+            {
+                "Value": "Mettre à jour",
+                "Name": "metratech.com/audit/enmAuditOperation/Update"
+            },
+            {
+                "Value": "ID du compte souscripteur",
+                "Name": "metratech.com/audit/subscriberaccountID"
+            }
+        ]
+    }
+}}

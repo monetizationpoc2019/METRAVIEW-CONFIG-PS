@@ -1,0 +1,24 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "metratech.com/calendar",
+        "locale_entry": [
+            {
+                "Value": "Feriado",
+                "Name": "metratech.com/calendar/CalendarCode/Holiday"
+            },
+            {
+                "Value": "Fora do pico",
+                "Name": "metratech.com/calendar/CalendarCode/Off-Peak"
+            },
+            {
+                "Value": "Pico",
+                "Name": "metratech.com/calendar/CalendarCode/Peak"
+            },
+            {
+                "Value": "Fim de semana",
+                "Name": "metratech.com/calendar/CalendarCode/Weekend"
+            }
+        ]
+    }
+}}

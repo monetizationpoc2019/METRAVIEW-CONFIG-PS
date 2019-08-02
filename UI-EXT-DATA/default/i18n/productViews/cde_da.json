@@ -1,0 +1,16 @@
+{"mt_config": {
+    "language_code": "da",
+    "locale_space": {
+        "name": "CDE",
+        "locale_entry": [
+            {
+                "Value": "CDE/BucketType/MULTIBUCKET",
+                "Name": "CDE/BucketType/MULTIBUCKET"
+            },
+            {
+                "Value": "CDE/BucketType/SINGLEBUCKET",
+                "Name": "CDE/BucketType/SINGLEBUCKET"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,76 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "pipeline/error",
+        "locale_entry": [
+            {
+                "Value": "システム障害",
+                "Name": "pipeline/error"
+            },
+            {
+                "Value": "コード",
+                "Name": "pipeline/error/Code"
+            },
+            {
+                "Value": "エラー メッセージ",
+                "Name": "pipeline/error/ErrorMessage"
+            },
+            {
+                "Value": "失敗の複合 ID",
+                "Name": "pipeline/error/FailureCompoundID"
+            },
+            {
+                "Value": "失敗 ID",
+                "Name": "pipeline/error/FailureID"
+            },
+            {
+                "Value": "失敗のサービス名",
+                "Name": "pipeline/error/FailureServiceName"
+            },
+            {
+                "Value": "失敗の時刻",
+                "Name": "pipeline/error/FailureTime"
+            },
+            {
+                "Value": "行",
+                "Name": "pipeline/error/Line"
+            },
+            {
+                "Value": "測定された時間",
+                "Name": "pipeline/error/MeteredTime"
+            },
+            {
+                "Value": "方式",
+                "Name": "pipeline/error/Method"
+            },
+            {
+                "Value": "モジュール",
+                "Name": "pipeline/error/Module"
+            },
+            {
+                "Value": "プラグイン",
+                "Name": "pipeline/error/PlugIn"
+            },
+            {
+                "Value": "可能なお客様 ID",
+                "Name": "pipeline/error/PossibleAccountID"
+            },
+            {
+                "Value": "送信者",
+                "Name": "pipeline/error/Sender"
+            },
+            {
+                "Value": "ステージ名",
+                "Name": "pipeline/error/StageName"
+            },
+            {
+                "Value": "都道府県",
+                "Name": "pipeline/error/State"
+            },
+            {
+                "Value": "バッチ",
+                "Name": "pipeline/error/tx_batch"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,48 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/nonrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "非定額料金",
+                "Name": "metratech.com/nonrecurringcharge"
+            },
+            {
+                "Value": "イベント",
+                "Name": "metratech.com/nonrecurringcharge/NRCEventType"
+            },
+            {
+                "Value": "非定額料金の期間終了",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalEnd"
+            },
+            {
+                "Value": "非定額料金の期間開始",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalStart"
+            },
+            {
+                "Value": "非定額料金のご利用期間終了",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "非定額料金のご利用期間開始",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionStart"
+            },
+            {
+                "Value": "非定額料金の期間終了",
+                "Name": "metratech.com/NRCIntervalEnd"
+            },
+            {
+                "Value": "非定額料金の期間開始",
+                "Name": "metratech.com/NRCIntervalStart"
+            },
+            {
+                "Value": "非定額料金のご利用終了",
+                "Name": "metratech.com/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "非定額料金のご利用開始",
+                "Name": "metratech.com/NRCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

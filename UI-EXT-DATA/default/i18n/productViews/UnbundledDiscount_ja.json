@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/UnbundledDiscount",
+        "locale_entry": [
+            {
+                "Value": "個別割引",
+                "Name": "metratech.com/UnbundledDiscount"
+            },
+            {
+                "Value": "割引金額",
+                "Name": "metratech.com/UnbundledDiscount/DiscountAmount"
+            },
+            {
+                "Value": "割引 ID",
+                "Name": "metratech.com/UnbundledDiscount/DiscountID"
+            },
+            {
+                "Value": "割引名",
+                "Name": "metratech.com/UnbundledDiscount/DiscountName"
+            },
+            {
+                "Value": "割引税額",
+                "Name": "metratech.com/UnbundledDiscount/DiscountTaxAmount"
+            }
+        ]
+    }
+}}

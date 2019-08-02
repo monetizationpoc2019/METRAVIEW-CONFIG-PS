@@ -1,0 +1,76 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/udrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "単位型定期定額料金",
+                "Name": "metratech.com/udrecurringcharge"
+            },
+            {
+                "Value": "前払い",
+                "Name": "metratech.com/udrecurringcharge/Advance"
+            },
+            {
+                "Value": "請求期間の終わり",
+                "Name": "metratech.com/udrecurringcharge/BillingIntervalEnd"
+            },
+            {
+                "Value": "請求期間のはじめ",
+                "Name": "metratech.com/udrecurringcharge/BillingIntervalStart"
+            },
+            {
+                "Value": "日割り計算された日額",
+                "Name": "metratech.com/udrecurringcharge/ProratedDailyRate"
+            },
+            {
+                "Value": "日割り計算日数",
+                "Name": "metratech.com/udrecurringcharge/ProratedDays"
+            },
+            {
+                "Value": "日割り計算期間の終わり",
+                "Name": "metratech.com/udrecurringcharge/ProratedIntervalEnd"
+            },
+            {
+                "Value": "日割り計算期間のはじめ",
+                "Name": "metratech.com/udrecurringcharge/ProratedIntervalStart"
+            },
+            {
+                "Value": "サービス利用による日割り計算済み",
+                "Name": "metratech.com/udrecurringcharge/ProratedOnSubscription"
+            },
+            {
+                "Value": "サービス利用停止による日割り計算済み",
+                "Name": "metratech.com/udrecurringcharge/ProratedOnUnSubscription"
+            },
+            {
+                "Value": "サービス利用による日割り計算",
+                "Name": "metratech.com/udrecurringcharge/ProrateOnSubscription"
+            },
+            {
+                "Value": "サービス利用停止による日割り計算",
+                "Name": "metratech.com/udrecurringcharge/ProrateOnUnSubscription"
+            },
+            {
+                "Value": "定期定額金額",
+                "Name": "metratech.com/udrecurringcharge/RCAmount"
+            },
+            {
+                "Value": "定期定額料金の終了日",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalEnd"
+            },
+            {
+                "Value": "定期定額料金の開始日",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalStart"
+            },
+            {
+                "Value": "定期定額料金のご利用終了日",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "定期定額料金のご利用開始日",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

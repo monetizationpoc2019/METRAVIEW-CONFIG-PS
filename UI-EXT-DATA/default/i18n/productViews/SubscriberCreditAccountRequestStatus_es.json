@@ -1,0 +1,20 @@
+{"mt_config": {
+    "language_code": "es",
+    "locale_space": {
+        "name": "metratech.com/SubscriberCreditAccountRequestStatus",
+        "locale_entry": [
+            {
+                "Value": "Aprobada",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/APPROVED"
+            },
+            {
+                "Value": "Denegado",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/DENIED"
+            },
+            {
+                "Value": "Pendiente",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/PENDING"
+            }
+        ]
+    }
+}}

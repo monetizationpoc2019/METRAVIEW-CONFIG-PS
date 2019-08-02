@@ -1,0 +1,40 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/flatdiscount_nocond",
+        "locale_entry": [
+            {
+                "Value": "無条件の均一割引",
+                "Name": "metratech.com/flatdiscount_nocond"
+            },
+            {
+                "Value": "割引期間の終了日",
+                "Name": "metratech.com/flatdiscount_nocond/DiscountIntervalEnd"
+            },
+            {
+                "Value": "割引期間の開始日",
+                "Name": "metratech.com/flatdiscount_nocond/DiscountIntervalStart"
+            },
+            {
+                "Value": "割引期間のご利用終了日",
+                "Name": "metratech.com/flatdiscount_nocond/DiscountIntervalSubEnd"
+            },
+            {
+                "Value": "割引期間のご利用開始日",
+                "Name": "metratech.com/flatdiscount_nocond/DiscountIntervalSubStart"
+            },
+            {
+                "Value": "グループ利用",
+                "Name": "metratech.com/flatdiscount_nocond/GroupSubscriptionName"
+            },
+            {
+                "Value": "ご利用終了日",
+                "Name": "metratech.com/flatdiscount_nocond/SubscriptionEnd"
+            },
+            {
+                "Value": "ご利用開始日",
+                "Name": "metratech.com/flatdiscount_nocond/SubscriptionStart"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,32 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "metratech.com/NonStandardCharge",
+        "locale_entry": [
+            {
+                "Value": "Frais non standard",
+                "Name": "metratech.com/NonStandardCharge"
+            },
+            {
+                "Value": "Autre",
+                "Name": "metratech.com/NonStandardCharge/AdditionalCode/Other"
+            },
+            {
+                "Value": "Crédit",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Credit"
+            },
+            {
+                "Value": "Débit",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Debit"
+            },
+            {
+                "Value": "Autre",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Other"
+            },
+            {
+                "Value": "Autre",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeType/Other"
+            }
+        ]
+    }
+}}

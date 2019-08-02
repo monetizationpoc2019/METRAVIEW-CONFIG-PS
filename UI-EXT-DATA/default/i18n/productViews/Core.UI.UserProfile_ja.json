@@ -1,0 +1,10 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "BusinessEntity/Core.UI.UserProfile",
+        "locale_entry": {
+            "Value": "タイム ゾーン",
+            "Name": "BusinessEntity/Core.UI.UserProfile/Timezone/Label"
+        }
+    }
+}}

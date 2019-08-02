@@ -1,0 +1,1492 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "Global",
+        "locale_entry": [
+            {
+                "Value": "READ",
+                "Name": "Global/AccessLevel/READ"
+            },
+            {
+                "Value": "WRITE",
+                "Name": "Global/AccessLevel/WRITE"
+            },
+            {
+                "Value": "IN",
+                "Name": "Global/APIParameterDirection/IN"
+            },
+            {
+                "Value": "INOUT",
+                "Name": "Global/APIParameterDirection/INOUT"
+            },
+            {
+                "Value": "OUT",
+                "Name": "Global/APIParameterDirection/OUT"
+            },
+            {
+                "Value": "MetraCare",
+                "Name": "Global/Application/Application/MAM"
+            },
+            {
+                "Value": "MetraOffer",
+                "Name": "Global/Application/Application/MCM"
+            },
+            {
+                "Value": "MDM",
+                "Name": "Global/Application/Application/MDM"
+            },
+            {
+                "Value": "MetraControl",
+                "Name": "Global/Application/Application/MOM"
+            },
+            {
+                "Value": "MetraView",
+                "Name": "Global/Application/Application/MPS"
+            },
+            {
+                "Value": "MetraCare",
+                "Name": "Global/Application/MAM"
+            },
+            {
+                "Value": "MetraOffer",
+                "Name": "Global/Application/MCM"
+            },
+            {
+                "Value": "MetraControl",
+                "Name": "Global/Application/MOM"
+            },
+            {
+                "Value": "MetraView",
+                "Name": "Global/Application/MPS"
+            },
+            {
+                "Value": "Non",
+                "Name": "Global/Boolean/False"
+            },
+            {
+                "Value": "Oui",
+                "Name": "Global/Boolean/True"
+            },
+            {
+                "Value": "Non",
+                "Name": "Global/BooleanYN/No"
+            },
+            {
+                "Value": "Oui",
+                "Name": "Global/BooleanYN/Yes"
+            },
+            {
+                "Value": "Afghanistan",
+                "Name": "Global/CountryName/Afghanistan"
+            },
+            {
+                "Value": "Aaland",
+                "Name": "Global/CountryName/Åland Islands"
+            },
+            {
+                "Value": "Albanie",
+                "Name": "Global/CountryName/Albania"
+            },
+            {
+                "Value": "Algérie",
+                "Name": "Global/CountryName/Algeria"
+            },
+            {
+                "Value": "Samoa (États-Unis)",
+                "Name": "Global/CountryName/American Samoa"
+            },
+            {
+                "Value": "Andorre",
+                "Name": "Global/CountryName/Andorra"
+            },
+            {
+                "Value": "Angola",
+                "Name": "Global/CountryName/Angola"
+            },
+            {
+                "Value": "Anguilla",
+                "Name": "Global/CountryName/Anguilla"
+            },
+            {
+                "Value": "Antarctique",
+                "Name": "Global/CountryName/Antarctica"
+            },
+            {
+                "Value": "Antigua-et-Barbuda",
+                "Name": "Global/CountryName/Antigua and Barbuda"
+            },
+            {
+                "Value": "Argentine",
+                "Name": "Global/CountryName/Argentina"
+            },
+            {
+                "Value": "Arménie",
+                "Name": "Global/CountryName/Armenia"
+            },
+            {
+                "Value": "Aruba",
+                "Name": "Global/CountryName/Aruba"
+            },
+            {
+                "Value": "Australie",
+                "Name": "Global/CountryName/Australia"
+            },
+            {
+                "Value": "Autriche",
+                "Name": "Global/CountryName/Austria"
+            },
+            {
+                "Value": "Azerbaïdjan",
+                "Name": "Global/CountryName/Azerbaijan"
+            },
+            {
+                "Value": "Bahamas",
+                "Name": "Global/CountryName/Bahamas"
+            },
+            {
+                "Value": "Bahreïn",
+                "Name": "Global/CountryName/Bahrain"
+            },
+            {
+                "Value": "Bangladesh",
+                "Name": "Global/CountryName/Bangladesh"
+            },
+            {
+                "Value": "Barbade",
+                "Name": "Global/CountryName/Barbados"
+            },
+            {
+                "Value": "Biélorussie",
+                "Name": "Global/CountryName/Belarus"
+            },
+            {
+                "Value": "Belgique",
+                "Name": "Global/CountryName/Belgium"
+            },
+            {
+                "Value": "Belize",
+                "Name": "Global/CountryName/Belize"
+            },
+            {
+                "Value": "Bénin",
+                "Name": "Global/CountryName/Benin"
+            },
+            {
+                "Value": "Bermudes",
+                "Name": "Global/CountryName/Bermuda"
+            },
+            {
+                "Value": "Bhoutan",
+                "Name": "Global/CountryName/Bhutan"
+            },
+            {
+                "Value": "Bolivie",
+                "Name": "Global/CountryName/Bolivia"
+            },
+            {
+                "Value": "Bonaire, Saint-Eustache et Saba",
+                "Name": "Global/CountryName/Bonaire, Sint Eustatius and Saba"
+            },
+            {
+                "Value": "Bosnie-et-Herzégovine",
+                "Name": "Global/CountryName/Bosnia and Herzegovina"
+            },
+            {
+                "Value": "Botswana",
+                "Name": "Global/CountryName/Botswana"
+            },
+            {
+                "Value": "Île Bouvet",
+                "Name": "Global/CountryName/Bouvet Island"
+            },
+            {
+                "Value": "Brésil",
+                "Name": "Global/CountryName/Brazil"
+            },
+            {
+                "Value": "Territoire britannique de l'océan Indien",
+                "Name": "Global/CountryName/British Indian Ocean Territory"
+            },
+            {
+                "Value": "Brunei Darussalam",
+                "Name": "Global/CountryName/Brunei"
+            },
+            {
+                "Value": "Bulgarie",
+                "Name": "Global/CountryName/Bulgaria"
+            },
+            {
+                "Value": "Burkina Faso",
+                "Name": "Global/CountryName/Burkina Faso"
+            },
+            {
+                "Value": "Burundi",
+                "Name": "Global/CountryName/Burundi"
+            },
+            {
+                "Value": "Cap-Vert",
+                "Name": "Global/CountryName/Cabo Verde"
+            },
+            {
+                "Value": "Cambodge",
+                "Name": "Global/CountryName/Cambodia"
+            },
+            {
+                "Value": "Cameroun",
+                "Name": "Global/CountryName/Cameroon"
+            },
+            {
+                "Value": "Canada",
+                "Name": "Global/CountryName/Canada"
+            },
+            {
+                "Value": "Iles Caïmans",
+                "Name": "Global/CountryName/Cayman Islands"
+            },
+            {
+                "Value": "République Centrafricaine",
+                "Name": "Global/CountryName/Central African Republic"
+            },
+            {
+                "Value": "Tchad",
+                "Name": "Global/CountryName/Chad"
+            },
+            {
+                "Value": "Chili",
+                "Name": "Global/CountryName/Chile"
+            },
+            {
+                "Value": "Chine",
+                "Name": "Global/CountryName/China"
+            },
+            {
+                "Value": "Ile Christmas",
+                "Name": "Global/CountryName/Christmas Island"
+            },
+            {
+                "Value": "Commonwealth des Mariannes du Nord",
+                "Name": "Global/CountryName/CNMI"
+            },
+            {
+                "Value": "Îles Cocos (Keeling)",
+                "Name": "Global/CountryName/Cocos (Keeling) Islands"
+            },
+            {
+                "Value": "Colombie",
+                "Name": "Global/CountryName/Colombia"
+            },
+            {
+                "Value": "Comores",
+                "Name": "Global/CountryName/Comoros"
+            },
+            {
+                "Value": "Congo",
+                "Name": "Global/CountryName/Congo"
+            },
+            {
+                "Value": "Iles Cook",
+                "Name": "Global/CountryName/Cook Islands"
+            },
+            {
+                "Value": "Costa Rica",
+                "Name": "Global/CountryName/Costa Rica"
+            },
+            {
+                "Value": "Croatie",
+                "Name": "Global/CountryName/Croatia"
+            },
+            {
+                "Value": "Cuba",
+                "Name": "Global/CountryName/Cuba"
+            },
+            {
+                "Value": "Curaçao",
+                "Name": "Global/CountryName/Curaçao"
+            },
+            {
+                "Value": "Chypre",
+                "Name": "Global/CountryName/Cyprus"
+            },
+            {
+                "Value": "République Tchèque",
+                "Name": "Global/CountryName/Czech Republic"
+            },
+            {
+                "Value": "Danemark",
+                "Name": "Global/CountryName/Denmark"
+            },
+            {
+                "Value": "Djibouti",
+                "Name": "Global/CountryName/Djibouti"
+            },
+            {
+                "Value": "Dominique",
+                "Name": "Global/CountryName/Dominica"
+            },
+            {
+                "Value": "République Dominicaine",
+                "Name": "Global/CountryName/Dominican Republic"
+            },
+            {
+                "Value": "Equateur",
+                "Name": "Global/CountryName/Ecuador"
+            },
+            {
+                "Value": "Egypte",
+                "Name": "Global/CountryName/Egypt"
+            },
+            {
+                "Value": "Salvador",
+                "Name": "Global/CountryName/El Salvador"
+            },
+            {
+                "Value": "Guinée équatoriale",
+                "Name": "Global/CountryName/Equatorial Guinea"
+            },
+            {
+                "Value": "Erythrée",
+                "Name": "Global/CountryName/Eritrea"
+            },
+            {
+                "Value": "Estonie",
+                "Name": "Global/CountryName/Estonia"
+            },
+            {
+                "Value": "Ethiopie",
+                "Name": "Global/CountryName/Ethiopia"
+            },
+            {
+                "Value": "Iles Féroé",
+                "Name": "Global/CountryName/Faeroe Islands"
+            },
+            {
+                "Value": "Iles Malouines",
+                "Name": "Global/CountryName/Falkland Islands"
+            },
+            {
+                "Value": "Fidji",
+                "Name": "Global/CountryName/Fiji"
+            },
+            {
+                "Value": "Finlande",
+                "Name": "Global/CountryName/Finland"
+            },
+            {
+                "Value": "France",
+                "Name": "Global/CountryName/France"
+            },
+            {
+                "Value": "Guyane française",
+                "Name": "Global/CountryName/French Guiana"
+            },
+            {
+                "Value": "Polynésie française",
+                "Name": "Global/CountryName/French Polynesia"
+            },
+            {
+                "Value": "Terres australes et antarctiques françaises",
+                "Name": "Global/CountryName/French Southern Territories"
+            },
+            {
+                "Value": "Gabon",
+                "Name": "Global/CountryName/Gabon"
+            },
+            {
+                "Value": "Gambie",
+                "Name": "Global/CountryName/Gambia"
+            },
+            {
+                "Value": "Géorgie",
+                "Name": "Global/CountryName/Georgia"
+            },
+            {
+                "Value": "Allemagne",
+                "Name": "Global/CountryName/Germany"
+            },
+            {
+                "Value": "Ghana",
+                "Name": "Global/CountryName/Ghana"
+            },
+            {
+                "Value": "Gibraltar",
+                "Name": "Global/CountryName/Gibraltar"
+            },
+            {
+                "Value": "Grèce",
+                "Name": "Global/CountryName/Greece"
+            },
+            {
+                "Value": "Groenland",
+                "Name": "Global/CountryName/Greenland"
+            },
+            {
+                "Value": "Grenade",
+                "Name": "Global/CountryName/Grenada"
+            },
+            {
+                "Value": "Guadeloupe",
+                "Name": "Global/CountryName/Guadeloupe"
+            },
+            {
+                "Value": "Guam",
+                "Name": "Global/CountryName/Guam"
+            },
+            {
+                "Value": "Guatemala",
+                "Name": "Global/CountryName/Guatemala"
+            },
+            {
+                "Value": "Bailliage de Guernesey",
+                "Name": "Global/CountryName/Guernsey"
+            },
+            {
+                "Value": "Guinée",
+                "Name": "Global/CountryName/Guinea"
+            },
+            {
+                "Value": "Guinée-Bissau",
+                "Name": "Global/CountryName/Guinea-Bissau"
+            },
+            {
+                "Value": "Guyana",
+                "Name": "Global/CountryName/Guyana"
+            },
+            {
+                "Value": "Haïti",
+                "Name": "Global/CountryName/Haiti"
+            },
+            {
+                "Value": "Honduras",
+                "Name": "Global/CountryName/Honduras"
+            },
+            {
+                "Value": "Hong Kong",
+                "Name": "Global/CountryName/Hong Kong"
+            },
+            {
+                "Value": "Hongrie",
+                "Name": "Global/CountryName/Hungary"
+            },
+            {
+                "Value": "Islande",
+                "Name": "Global/CountryName/Iceland"
+            },
+            {
+                "Value": "Inde",
+                "Name": "Global/CountryName/India"
+            },
+            {
+                "Value": "Indonésie",
+                "Name": "Global/CountryName/Indonesia"
+            },
+            {
+                "Value": "Inmarsat - Océan Atlantique Est",
+                "Name": "Global/CountryName/Inmarsat - East Atlantic Ocean"
+            },
+            {
+                "Value": "Inmarsat - Océan Indien",
+                "Name": "Global/CountryName/Inmarsat - Indian Ocean"
+            },
+            {
+                "Value": "Inmarsat - Océan Pacifique",
+                "Name": "Global/CountryName/Inmarsat - Pacific Ocean"
+            },
+            {
+                "Value": "Inmarsat - Océan Pacifique Ouest",
+                "Name": "Global/CountryName/Inmarsat - West Atlantic Ocean"
+            },
+            {
+                "Value": "Iran",
+                "Name": "Global/CountryName/Iran"
+            },
+            {
+                "Value": "Iraq",
+                "Name": "Global/CountryName/Iraq"
+            },
+            {
+                "Value": "Irlande",
+                "Name": "Global/CountryName/Ireland"
+            },
+            {
+                "Value": "Île de Man",
+                "Name": "Global/CountryName/Isle of Man"
+            },
+            {
+                "Value": "Israël",
+                "Name": "Global/CountryName/Israel"
+            },
+            {
+                "Value": "Italie",
+                "Name": "Global/CountryName/Italy"
+            },
+            {
+                "Value": "Côte d'Ivoire",
+                "Name": "Global/CountryName/Ivory Coast"
+            },
+            {
+                "Value": "Jamaïque",
+                "Name": "Global/CountryName/Jamaica"
+            },
+            {
+                "Value": "Japon",
+                "Name": "Global/CountryName/Japan"
+            },
+            {
+                "Value": "Jersey",
+                "Name": "Global/CountryName/Jersey"
+            },
+            {
+                "Value": "Jordanie",
+                "Name": "Global/CountryName/Jordan"
+            },
+            {
+                "Value": "Kazakhstan",
+                "Name": "Global/CountryName/Kazakhstan"
+            },
+            {
+                "Value": "Kenya",
+                "Name": "Global/CountryName/Kenya"
+            },
+            {
+                "Value": "Kiribati",
+                "Name": "Global/CountryName/Kiribati"
+            },
+            {
+                "Value": "Koweït",
+                "Name": "Global/CountryName/Kuwait"
+            },
+            {
+                "Value": "Kirghizstan",
+                "Name": "Global/CountryName/Kyrgyzstan"
+            },
+            {
+                "Value": "République démocratique populaire du Laos",
+                "Name": "Global/CountryName/Laos"
+            },
+            {
+                "Value": "Lettonie",
+                "Name": "Global/CountryName/Latvia"
+            },
+            {
+                "Value": "Liban",
+                "Name": "Global/CountryName/Lebanon"
+            },
+            {
+                "Value": "Lesotho",
+                "Name": "Global/CountryName/Lesotho"
+            },
+            {
+                "Value": "Libéria",
+                "Name": "Global/CountryName/Liberia"
+            },
+            {
+                "Value": "Libye",
+                "Name": "Global/CountryName/Libya"
+            },
+            {
+                "Value": "Liechtenstein",
+                "Name": "Global/CountryName/Liechtenstein"
+            },
+            {
+                "Value": "Lituanie",
+                "Name": "Global/CountryName/Lithuania"
+            },
+            {
+                "Value": "Luxembourg",
+                "Name": "Global/CountryName/Luxembourg"
+            },
+            {
+                "Value": "Macao",
+                "Name": "Global/CountryName/Macau"
+            },
+            {
+                "Value": "Macédoine",
+                "Name": "Global/CountryName/Macedonia"
+            },
+            {
+                "Value": "Madagascar",
+                "Name": "Global/CountryName/Madagascar"
+            },
+            {
+                "Value": "Malawi",
+                "Name": "Global/CountryName/Malawi"
+            },
+            {
+                "Value": "Malaisie",
+                "Name": "Global/CountryName/Malaysia"
+            },
+            {
+                "Value": "Maldives",
+                "Name": "Global/CountryName/Maldives"
+            },
+            {
+                "Value": "Mali",
+                "Name": "Global/CountryName/Mali Republic"
+            },
+            {
+                "Value": "Malte",
+                "Name": "Global/CountryName/Malta"
+            },
+            {
+                "Value": "Iles Marshall",
+                "Name": "Global/CountryName/Marshall Islands"
+            },
+            {
+                "Value": "Martinique",
+                "Name": "Global/CountryName/Martinique"
+            },
+            {
+                "Value": "Mauritanie",
+                "Name": "Global/CountryName/Mauritania"
+            },
+            {
+                "Value": "Ile Maurice",
+                "Name": "Global/CountryName/Mauritius"
+            },
+            {
+                "Value": "Mayotte",
+                "Name": "Global/CountryName/Mayotte Island"
+            },
+            {
+                "Value": "Mexique",
+                "Name": "Global/CountryName/Mexico"
+            },
+            {
+                "Value": "Micronésie",
+                "Name": "Global/CountryName/Micronesia"
+            },
+            {
+                "Value": "Moldavie",
+                "Name": "Global/CountryName/Moldova"
+            },
+            {
+                "Value": "Monaco",
+                "Name": "Global/CountryName/Monaco"
+            },
+            {
+                "Value": "Mongolie",
+                "Name": "Global/CountryName/Mongolia"
+            },
+            {
+                "Value": "Monténégro",
+                "Name": "Global/CountryName/Montenegro"
+            },
+            {
+                "Value": "Montserrat",
+                "Name": "Global/CountryName/MontSerrat"
+            },
+            {
+                "Value": "Maroc",
+                "Name": "Global/CountryName/Morocco"
+            },
+            {
+                "Value": "Mozambique",
+                "Name": "Global/CountryName/Mozambique"
+            },
+            {
+                "Value": "Myanmar",
+                "Name": "Global/CountryName/Myanmar"
+            },
+            {
+                "Value": "Namibie",
+                "Name": "Global/CountryName/Namibia"
+            },
+            {
+                "Value": "Nauru",
+                "Name": "Global/CountryName/Nauru"
+            },
+            {
+                "Value": "Népal",
+                "Name": "Global/CountryName/Nepal"
+            },
+            {
+                "Value": "Pays-Bas",
+                "Name": "Global/CountryName/Netherlands"
+            },
+            {
+                "Value": "Antilles néerlandaises",
+                "Name": "Global/CountryName/Netherlands Antilles"
+            },
+            {
+                "Value": "Îles Heard-et-MacDonald",
+                "Name": "Global/CountryName/Nevis"
+            },
+            {
+                "Value": "Nouvelle-Calédonie",
+                "Name": "Global/CountryName/New Caledonia"
+            },
+            {
+                "Value": "Nouvelle-Zélande",
+                "Name": "Global/CountryName/New Zealand"
+            },
+            {
+                "Value": "Nicaragua",
+                "Name": "Global/CountryName/Nicaragua"
+            },
+            {
+                "Value": "Niger",
+                "Name": "Global/CountryName/Niger"
+            },
+            {
+                "Value": "Nigéria",
+                "Name": "Global/CountryName/Nigeria"
+            },
+            {
+                "Value": "Niue",
+                "Name": "Global/CountryName/Niue"
+            },
+            {
+                "Value": "Ile Norfolk",
+                "Name": "Global/CountryName/Norfolk Island"
+            },
+            {
+                "Value": "République Populaire Démocratique de Corée",
+                "Name": "Global/CountryName/North Korea"
+            },
+            {
+                "Value": "Norvège",
+                "Name": "Global/CountryName/Norway"
+            },
+            {
+                "Value": "Oman",
+                "Name": "Global/CountryName/Oman"
+            },
+            {
+                "Value": "Pakistan",
+                "Name": "Global/CountryName/Pakistan"
+            },
+            {
+                "Value": "Palaos",
+                "Name": "Global/CountryName/Palau"
+            },
+            {
+                "Value": "Palestine",
+                "Name": "Global/CountryName/Palestine"
+            },
+            {
+                "Value": "Panama",
+                "Name": "Global/CountryName/Panama"
+            },
+            {
+                "Value": "Papouasie-Nouvelle-Guinée",
+                "Name": "Global/CountryName/Papua New Guinea"
+            },
+            {
+                "Value": "Paraguay",
+                "Name": "Global/CountryName/Paraguay"
+            },
+            {
+                "Value": "Pérou",
+                "Name": "Global/CountryName/Peru"
+            },
+            {
+                "Value": "Philippines",
+                "Name": "Global/CountryName/Philippines"
+            },
+            {
+                "Value": "Pitcairn",
+                "Name": "Global/CountryName/Pitcairn"
+            },
+            {
+                "Value": "Pologne",
+                "Name": "Global/CountryName/Poland"
+            },
+            {
+                "Value": "Portugal",
+                "Name": "Global/CountryName/Portugal"
+            },
+            {
+                "Value": "Puerto Rico",
+                "Name": "Global/CountryName/Puerto Rico"
+            },
+            {
+                "Value": "Qatar",
+                "Name": "Global/CountryName/Qatar"
+            },
+            {
+                "Value": "La Réunion",
+                "Name": "Global/CountryName/Reunion"
+            },
+            {
+                "Value": "Roumanie",
+                "Name": "Global/CountryName/Romania"
+            },
+            {
+                "Value": "Fédération Russe",
+                "Name": "Global/CountryName/Russia"
+            },
+            {
+                "Value": "Rwanda",
+                "Name": "Global/CountryName/Rwanda"
+            },
+            {
+                "Value": "Saint-Barthélemy",
+                "Name": "Global/CountryName/Saint Barthélemy"
+            },
+            {
+                "Value": "Sainte-Hélène, Ascension et Tristan da Cunha",
+                "Name": "Global/CountryName/Saint Helena, Ascension and Tristan da Cunha"
+            },
+            {
+                "Value": "Saint-Kitts-et-Nevis",
+                "Name": "Global/CountryName/Saint Kitts and Nevis"
+            },
+            {
+                "Value": "Sainte-Lucie",
+                "Name": "Global/CountryName/Saint Lucia"
+            },
+            {
+                "Value": "Saint-Martin (Antilles françaises)",
+                "Name": "Global/CountryName/Saint Martin (French part)"
+            },
+            {
+                "Value": "Saint-Pierre-et-Miquelon",
+                "Name": "Global/CountryName/Saint Pierre and Miquelon"
+            },
+            {
+                "Value": "Saint-Vincent-et-les-Grenadines",
+                "Name": "Global/CountryName/Saint Vincent and the Grenadines"
+            },
+            {
+                "Value": "Samoa",
+                "Name": "Global/CountryName/Samoa"
+            },
+            {
+                "Value": "Saint-Marin",
+                "Name": "Global/CountryName/San Marino"
+            },
+            {
+                "Value": "Sao Tomé",
+                "Name": "Global/CountryName/Sao Tome and Principe"
+            },
+            {
+                "Value": "Arabie Saoudite",
+                "Name": "Global/CountryName/Saudi Arabia"
+            },
+            {
+                "Value": "Sénégal",
+                "Name": "Global/CountryName/Senegal"
+            },
+            {
+                "Value": "Serbie",
+                "Name": "Global/CountryName/Serbia"
+            },
+            {
+                "Value": "Serbie-et-Monténégro",
+                "Name": "Global/CountryName/Serbia and Montenegro"
+            },
+            {
+                "Value": "Seychelles",
+                "Name": "Global/CountryName/Seychelles"
+            },
+            {
+                "Value": "Sierra Leone",
+                "Name": "Global/CountryName/Sierra Leone"
+            },
+            {
+                "Value": "Singapour",
+                "Name": "Global/CountryName/Singapore"
+            },
+            {
+                "Value": "Saint-Martin (Royaume des Pays-Bas)",
+                "Name": "Global/CountryName/Sint Maarten (Dutch part)"
+            },
+            {
+                "Value": "Slovaquie",
+                "Name": "Global/CountryName/Slovakia"
+            },
+            {
+                "Value": "Slovénie",
+                "Name": "Global/CountryName/Slovenia"
+            },
+            {
+                "Value": "Iles Salomon",
+                "Name": "Global/CountryName/Solomon Islands"
+            },
+            {
+                "Value": "Somalie",
+                "Name": "Global/CountryName/Somalia"
+            },
+            {
+                "Value": "Afrique du Sud",
+                "Name": "Global/CountryName/South Africa"
+            },
+            {
+                "Value": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+                "Name": "Global/CountryName/South Georgia and The South Sandwich Islands"
+            },
+            {
+                "Value": "République de Corée",
+                "Name": "Global/CountryName/South Korea"
+            },
+            {
+                "Value": "Soudan du Sud",
+                "Name": "Global/CountryName/South Sudan"
+            },
+            {
+                "Value": "Espagne",
+                "Name": "Global/CountryName/Spain"
+            },
+            {
+                "Value": "Sri Lanka",
+                "Name": "Global/CountryName/Sri Lanka"
+            },
+            {
+                "Value": "Soudan",
+                "Name": "Global/CountryName/Sudan"
+            },
+            {
+                "Value": "Suriname",
+                "Name": "Global/CountryName/Suriname"
+            },
+            {
+                "Value": "Svalbard et Jan Mayen",
+                "Name": "Global/CountryName/Svalbard and Jan Mayen"
+            },
+            {
+                "Value": "Swaziland",
+                "Name": "Global/CountryName/Swaziland"
+            },
+            {
+                "Value": "Suède",
+                "Name": "Global/CountryName/Sweden"
+            },
+            {
+                "Value": "Suisse",
+                "Name": "Global/CountryName/Switzerland"
+            },
+            {
+                "Value": "République arabe syrienne",
+                "Name": "Global/CountryName/Syria"
+            },
+            {
+                "Value": "Taïwan",
+                "Name": "Global/CountryName/Taiwan"
+            },
+            {
+                "Value": "Tadjikistan",
+                "Name": "Global/CountryName/Tajikistan"
+            },
+            {
+                "Value": "Tanzanie",
+                "Name": "Global/CountryName/Tanzania"
+            },
+            {
+                "Value": "Thaïlande",
+                "Name": "Global/CountryName/Thailand"
+            },
+            {
+                "Value": "Timor-Leste",
+                "Name": "Global/CountryName/Timor-Leste"
+            },
+            {
+                "Value": "Togo",
+                "Name": "Global/CountryName/Togo"
+            },
+            {
+                "Value": "Tokelau",
+                "Name": "Global/CountryName/Tokelau"
+            },
+            {
+                "Value": "Tonga",
+                "Name": "Global/CountryName/Tonga"
+            },
+            {
+                "Value": "Trinité-et-Tobago",
+                "Name": "Global/CountryName/Trinidad and Tobago"
+            },
+            {
+                "Value": "Tunisie",
+                "Name": "Global/CountryName/Tunisia"
+            },
+            {
+                "Value": "Turquie",
+                "Name": "Global/CountryName/Turkey"
+            },
+            {
+                "Value": "Turkménistan",
+                "Name": "Global/CountryName/Turkmenistan"
+            },
+            {
+                "Value": "Îles Turques-et-Caïques",
+                "Name": "Global/CountryName/Turks and Caicos Islands"
+            },
+            {
+                "Value": "Tuvalu",
+                "Name": "Global/CountryName/Tuvalu"
+            },
+            {
+                "Value": "Ouganda",
+                "Name": "Global/CountryName/Uganda"
+            },
+            {
+                "Value": "Ukraine",
+                "Name": "Global/CountryName/Ukraine"
+            },
+            {
+                "Value": "Emirats Arabes Unis",
+                "Name": "Global/CountryName/United Arab Emirates"
+            },
+            {
+                "Value": "Royaume-Uni",
+                "Name": "Global/CountryName/United Kingdom"
+            },
+            {
+                "Value": "Îles mineures éloignées des États-Unis",
+                "Name": "Global/CountryName/United States Minor Outlying Islands"
+            },
+            {
+                "Value": "Uruguay",
+                "Name": "Global/CountryName/Uruguay"
+            },
+            {
+                "Value": "Iles Vierges (Etats-Unis)",
+                "Name": "Global/CountryName/US Virgin Islands"
+            },
+            {
+                "Value": "États-Unis",
+                "Name": "Global/CountryName/USA"
+            },
+            {
+                "Value": "Ouzbékistan",
+                "Name": "Global/CountryName/Uzbekistan"
+            },
+            {
+                "Value": "Vanuatu",
+                "Name": "Global/CountryName/Vanuatu"
+            },
+            {
+                "Value": "Etat de la Cité du Vatican",
+                "Name": "Global/CountryName/Vatican City"
+            },
+            {
+                "Value": "Venezuela",
+                "Name": "Global/CountryName/Venezuela"
+            },
+            {
+                "Value": "Vietnam",
+                "Name": "Global/CountryName/Vietnam"
+            },
+            {
+                "Value": "Îles Vierges britanniques",
+                "Name": "Global/CountryName/Virgin Islands British"
+            },
+            {
+                "Value": "Wallis-et-Futuna",
+                "Name": "Global/CountryName/Wallis and Futuna"
+            },
+            {
+                "Value": "Sahara occidental",
+                "Name": "Global/CountryName/Western Sahara"
+            },
+            {
+                "Value": "Samoa",
+                "Name": "Global/CountryName/Western Samoa"
+            },
+            {
+                "Value": "Yémen",
+                "Name": "Global/CountryName/Yemen"
+            },
+            {
+                "Value": "République démocratique du Congo",
+                "Name": "Global/CountryName/Zaire"
+            },
+            {
+                "Value": "Zambie",
+                "Name": "Global/CountryName/Zambia"
+            },
+            {
+                "Value": "Zimbabwe",
+                "Name": "Global/CountryName/Zimbabwe"
+            },
+            {
+                "Value": "Vendredi",
+                "Name": "Global/DayOfTheWeek/Friday"
+            },
+            {
+                "Value": "Lundi",
+                "Name": "Global/DayOfTheWeek/Monday"
+            },
+            {
+                "Value": "Samedi",
+                "Name": "Global/DayOfTheWeek/Saturday"
+            },
+            {
+                "Value": "Dimanche",
+                "Name": "Global/DayOfTheWeek/Sunday"
+            },
+            {
+                "Value": "Jeudi",
+                "Name": "Global/DayOfTheWeek/Thursday"
+            },
+            {
+                "Value": "Mardi",
+                "Name": "Global/DayOfTheWeek/Tuesday"
+            },
+            {
+                "Value": "Mercredi",
+                "Name": "Global/DayOfTheWeek/Wednesday"
+            },
+            {
+                "Value": "Modèle d'accord",
+                "Name": "Global/EntityType/AgreementTemplate"
+            },
+            {
+                "Value": "Offre produit",
+                "Name": "Global/EntityType/ProductOffering"
+            },
+            {
+                "Value": "Portugais-Brésilien",
+                "Name": "Global/LanguageCode/BR"
+            },
+            {
+                "Value": "Danois",
+                "Name": "Global/LanguageCode/DA"
+            },
+            {
+                "Value": "Allemand",
+                "Name": "Global/LanguageCode/de"
+            },
+            {
+                "Value": "Espagnol",
+                "Name": "Global/LanguageCode/ES"
+            },
+            {
+                "Value": "Français",
+                "Name": "Global/LanguageCode/fr"
+            },
+            {
+                "Value": "Anglais (Britannique)",
+                "Name": "Global/LanguageCode/GB"
+            },
+            {
+                "Value": "Italien",
+                "Name": "Global/LanguageCode/it"
+            },
+            {
+                "Value": "Japonais",
+                "Name": "Global/LanguageCode/jp"
+            },
+            {
+                "Value": "Espagnol-Mexicain",
+                "Name": "Global/LanguageCode/MX"
+            },
+            {
+                "Value": "Anglais (États-Unis)",
+                "Name": "Global/LanguageCode/us"
+            },
+            {
+                "Value": "AtomicCapability",
+                "Name": "Global/LocalizedItemsType /AtomicCapability"
+            },
+            {
+                "Value": "CompositeCapability",
+                "Name": "Global/LocalizedItemsType /CompositeCapability"
+            },
+            {
+                "Value": "None",
+                "Name": "Global/LocalizedItemsType /None"
+            },
+            {
+                "Value": "RecurringAdapters",
+                "Name": "Global/LocalizedItemsType /RecurringAdapters"
+            },
+            {
+                "Value": "Role",
+                "Name": "Global/LocalizedItemsType /Role"
+            },
+            {
+                "Value": "Avril",
+                "Name": "Global/MonthOfTheYear/April"
+            },
+            {
+                "Value": "Août",
+                "Name": "Global/MonthOfTheYear/August"
+            },
+            {
+                "Value": "Décembre",
+                "Name": "Global/MonthOfTheYear/December"
+            },
+            {
+                "Value": "Février",
+                "Name": "Global/MonthOfTheYear/February"
+            },
+            {
+                "Value": "Janvier",
+                "Name": "Global/MonthOfTheYear/January"
+            },
+            {
+                "Value": "Juillet",
+                "Name": "Global/MonthOfTheYear/July"
+            },
+            {
+                "Value": "Juin",
+                "Name": "Global/MonthOfTheYear/June"
+            },
+            {
+                "Value": "Mars",
+                "Name": "Global/MonthOfTheYear/March"
+            },
+            {
+                "Value": "Mai",
+                "Name": "Global/MonthOfTheYear/May"
+            },
+            {
+                "Value": "Novembre",
+                "Name": "Global/MonthOfTheYear/November"
+            },
+            {
+                "Value": "Octobre",
+                "Name": "Global/MonthOfTheYear/October"
+            },
+            {
+                "Value": "Septembre",
+                "Name": "Global/MonthOfTheYear/September"
+            },
+            {
+                "Value": "Janvier,Avril,Juillet,Octobre",
+                "Name": "Global/MonthOfTheYearByQuarter/Month1InQuarter"
+            },
+            {
+                "Value": "Février,Mai,Août,Novembre",
+                "Name": "Global/MonthOfTheYearByQuarter/Month2InQuarter"
+            },
+            {
+                "Value": "Mars,Juin,Septembre,Décembre",
+                "Name": "Global/MonthOfTheYearByQuarter/Month3InQuarter"
+            },
+            {
+                "Value": "booléen",
+                "Name": "Global/PropertyType/boolean"
+            },
+            {
+                "Value": "Date/Heure",
+                "Name": "Global/PropertyType/datetime"
+            },
+            {
+                "Value": "Valeur décimale",
+                "Name": "Global/PropertyType/decimal"
+            },
+            {
+                "Value": "int",
+                "Name": "Global/PropertyType/int"
+            },
+            {
+                "Value": "liste",
+                "Name": "Global/PropertyType/list"
+            },
+            {
+                "Value": "chaîne",
+                "Name": "Global/PropertyType/string"
+            },
+            {
+                "Value": "(GMT+03:00) Baghdad",
+                "Name": "Global/TimeZoneID/(GMT 03:00) Baghdad"
+            },
+            {
+                "Value": "Heure de Greenwich (GMT) ; Dublin, Edimbourg, Londres, Lisbonne",
+                "Name": "Global/TimeZoneID/(GMT) Greenwich Mean Time; Dublin, Edinburgh, London, Lisbon"
+            },
+            {
+                "Value": "(GMT) Monrovia, Casablanca",
+                "Name": "Global/TimeZoneID/(GMT) Monrovia, Casablanca"
+            },
+            {
+                "Value": "(GMT+01:00) Berlin, Stockholm, Rome, Berne, Bruxelles, Vienne",
+                "Name": "Global/TimeZoneID/(GMT+01:00) Berlin, Stockholm, Rome, Bern, Brussels Vienna"
+            },
+            {
+                "Value": "(GMT+01:00) Paris, Madrid, Amsterdam",
+                "Name": "Global/TimeZoneID/(GMT+01:00) Paris, Madrid, Amsterdam"
+            },
+            {
+                "Value": "(GMT+01:00) Prague, Varsovie, Budapest",
+                "Name": "Global/TimeZoneID/(GMT+01:00) Prague, Warsaw, Budapest"
+            },
+            {
+                "Value": "(GMT+02:00) Athènes, Helsinki, Istanbul",
+                "Name": "Global/TimeZoneID/(GMT+02:00) Athens, Helsinki, Istanbul"
+            },
+            {
+                "Value": "(GMT+02:00) Le Caire",
+                "Name": "Global/TimeZoneID/(GMT+02:00) Cairo"
+            },
+            {
+                "Value": "(GMT+02:00) Harare, Pretoria",
+                "Name": "Global/TimeZoneID/(GMT+02:00) Harare, Pretoria"
+            },
+            {
+                "Value": "(GMT+02:00) Israël",
+                "Name": "Global/TimeZoneID/(GMT+02:00) Israel"
+            },
+            {
+                "Value": "(GMT+03:00) Bagdad",
+                "Name": "Global/TimeZoneID/(GMT+03:00) Baghdad"
+            },
+            {
+                "Value": "(GMT+03:00) Kowait, Nairobi, Riyadh",
+                "Name": "Global/TimeZoneID/(GMT+03:00) Kuwait, Nairobi, Riyadh"
+            },
+            {
+                "Value": "(GMT+03:00) Kowait, Riyadh, Nairobi",
+                "Name": "Global/TimeZoneID/(GMT+03:00) Kuwait, Riyadh, Nairobi"
+            },
+            {
+                "Value": "(GMT+03:00) Moscou, Saint Petersbourg, Kazan, Volgograd",
+                "Name": "Global/TimeZoneID/(GMT+03:00) Moscow, St. Petersburg, Kazan, Volgograd"
+            },
+            {
+                "Value": "(GMT+03:30) Téhéran",
+                "Name": "Global/TimeZoneID/(GMT+03:30) Tehran"
+            },
+            {
+                "Value": "(GMT+04:00) Abu Dhabi, Muscat, Tbilisi",
+                "Name": "Global/TimeZoneID/(GMT+04:00) Abu Dhabi, Muscat, Tbilisi"
+            },
+            {
+                "Value": "(GMT+04:30) Kaboul",
+                "Name": "Global/TimeZoneID/(GMT+04:30) Kabul"
+            },
+            {
+                "Value": "(GMT+05:00) Islamabad, Karachi, Ekaterinbourg, Tashkent",
+                "Name": "Global/TimeZoneID/(GMT+05:00) Islamabad, Karachi, Ekaterinburg, Tashkent"
+            },
+            {
+                "Value": "(GMT+05:30) Bombay, Calcutta, Madras, New Delhi, Colombo",
+                "Name": "Global/TimeZoneID/(GMT+05:30) Bombay, Calcutta, Madras, New Delhi, Colombo"
+            },
+            {
+                "Value": "(GMT+06:00) Almaty, Dhaka",
+                "Name": "Global/TimeZoneID/(GMT+06:00) Almaty, Dhaka"
+            },
+            {
+                "Value": "(GMT+07:00) Bangkok, Jakarta, Hanoi",
+                "Name": "Global/TimeZoneID/(GMT+07:00) Bangkok, Jakarta, Hanoi"
+            },
+            {
+                "Value": "(GMT+08:00) Pékin, Chongqing, Urumqi",
+                "Name": "Global/TimeZoneID/(GMT+08:00) Beijing, Chongqing, Urumqi"
+            },
+            {
+                "Value": "(GMT+08:00) Hong Kong, Perth, Singapour, Taipei",
+                "Name": "Global/TimeZoneID/(GMT+08:00) Hong Kong, Perth, Singapore, Taipei"
+            },
+            {
+                "Value": "(GMT+09:00) Tokyo, Osaka, Sapporo, Seoul, Yakutsk",
+                "Name": "Global/TimeZoneID/(GMT+09:00) Tokyo, Osaka, Sapporo, Seoul, Yakutsk"
+            },
+            {
+                "Value": "(GMT+09:30) Adelaide",
+                "Name": "Global/TimeZoneID/(GMT+09:30) Adelaide"
+            },
+            {
+                "Value": "(GMT+09:30) Darwin",
+                "Name": "Global/TimeZoneID/(GMT+09:30) Darwin"
+            },
+            {
+                "Value": "(GMT+10:00) Brisbane",
+                "Name": "Global/TimeZoneID/(GMT+10:00) Brisbane"
+            },
+            {
+                "Value": "(GMT+10:00) Guam, Port Moresby, Vladivostok",
+                "Name": "Global/TimeZoneID/(GMT+10:00) Guam, Port Moresby, Vladivostok"
+            },
+            {
+                "Value": "(GMT-10:00) Hobart",
+                "Name": "Global/TimeZoneID/(GMT+10:00) Hobart"
+            },
+            {
+                "Value": "(GMT+10:00) Sydney, Melbourne",
+                "Name": "Global/TimeZoneID/(GMT+10:00) Sydney, Melbourne"
+            },
+            {
+                "Value": "(GMT+11:00) Magadan, Iles Solomon, Nouvelle Calédonie",
+                "Name": "Global/TimeZoneID/(GMT+11:00) Magadan, Solomon Is., New Caledonia"
+            },
+            {
+                "Value": "(GMT+12:00) Fiji, Kamchatka, Ile Marshall",
+                "Name": "Global/TimeZoneID/(GMT+12:00) Fiji, Kamchatka, Marshall Is."
+            },
+            {
+                "Value": "(GMT+12:00) Wellington, Auckland",
+                "Name": "Global/TimeZoneID/(GMT+12:00) Wellington, Auckland"
+            },
+            {
+                "Value": "(GMT-01:00) Açores, Iles du Cap-Vert",
+                "Name": "Global/TimeZoneID/(GMT-01:00) Azores, Cape Verde Is."
+            },
+            {
+                "Value": "(GMT-03:00) Buenos Aires, Georgetown",
+                "Name": "Global/TimeZoneID/(GMT-03:00) Buenos Aires, Georgetown"
+            },
+            {
+                "Value": "(GMT-03:30) Terre-Neuve",
+                "Name": "Global/TimeZoneID/(GMT-03:30) Newfoundland"
+            },
+            {
+                "Value": "(GMT-04:00) Heure de l'Atlantique (Canada)",
+                "Name": "Global/TimeZoneID/(GMT-04:00) Atlantic Time (Canada)"
+            },
+            {
+                "Value": "(GMT-04:00) Caracas, La Paz",
+                "Name": "Global/TimeZoneID/(GMT-04:00) Caracas, La Paz"
+            },
+            {
+                "Value": "(GMT-05:00) Bogota, Lima",
+                "Name": "Global/TimeZoneID/(GMT-05:00) Bogota, Lima"
+            },
+            {
+                "Value": "(GMT-05:00) Heure de l'Est (Etats-Unis et Canada)",
+                "Name": "Global/TimeZoneID/(GMT-05:00) Eastern Time (US & Canada)"
+            },
+            {
+                "Value": "(GMT-05:00) Indiana (Est)",
+                "Name": "Global/TimeZoneID/(GMT-05:00) Indiana (East)"
+            },
+            {
+                "Value": "(GMT-06:00) Heure du Centre (Etats-Unis et Canada)",
+                "Name": "Global/TimeZoneID/(GMT-06:00) Central Time (US & Canada)"
+            },
+            {
+                "Value": "(GMT-06:00) Mexico, Tegucigalpa",
+                "Name": "Global/TimeZoneID/(GMT-06:00) Mexico City, Tegucigalpa"
+            },
+            {
+                "Value": "(GMT-06:00) Saskatchewan",
+                "Name": "Global/TimeZoneID/(GMT-06:00) Saskatchewan"
+            },
+            {
+                "Value": "(GMT-07:00) Arizona",
+                "Name": "Global/TimeZoneID/(GMT-07:00) Arizona"
+            },
+            {
+                "Value": "(GMT-07:00) Heure des montagnes Rocheuses (Etats-Unis et Canada)",
+                "Name": "Global/TimeZoneID/(GMT-07:00) Mountain Time (US & Canada)"
+            },
+            {
+                "Value": "(GMT-08:00) Heure du Pacifique (Etats-Unis et Canada), Tijuana",
+                "Name": "Global/TimeZoneID/(GMT-08:00) Pacific Time (US & Canada), Tijuana"
+            },
+            {
+                "Value": "(GMT-09:00) Alaska",
+                "Name": "Global/TimeZoneID/(GMT-09:00) Alaska"
+            },
+            {
+                "Value": "(GMT-10:00) Hawaii",
+                "Name": "Global/TimeZoneID/(GMT-10:00) Hawaii"
+            },
+            {
+                "Value": "(GMT-11:00) Ile Midway, Samoa",
+                "Name": "Global/TimeZoneID/(GMT-11:00) Midway Island, Samoa"
+            },
+            {
+                "Value": "(GMT-12:00) Eniwetok, Kwajalein",
+                "Name": "Global/TimeZoneID/(GMT-12:00) Eniwetok, Kwajalein"
+            },
+            {
+                "Value": "AccountType",
+                "Name": "Global/LocalizedItemsType /AccountType"
+            }
+        ]
+    }
+}}

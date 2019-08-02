@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "uk",
+    "locale_space": {
+        "name": "metratech.com/balanceadjustments",
+        "locale_entry": [
+            {
+                "Value": "Credit Card",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/CreditCard"
+            },
+            {
+                "Value": "ACH",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/ACH"
+            },
+            {
+                "Value": "Cheque",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Check"
+            },
+            {
+                "Value": "Cash",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Cash"
+            },
+            {
+                "Value": "Terminal Credit Card",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/TerminalCreditCard"
+            }
+        ]
+    }
+}}

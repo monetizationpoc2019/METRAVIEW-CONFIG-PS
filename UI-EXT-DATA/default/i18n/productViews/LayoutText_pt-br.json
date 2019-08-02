@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "LayoutText",
+        "locale_entry": [
+            {
+                "Value": "Detalhes da conferência",
+                "Name": "LayoutText/AudioConfCall/Title"
+            },
+            {
+                "Value": "Aprovar",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_APPROVE"
+            },
+            {
+                "Value": "Aprovar tudo",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_APPROVE_ALL"
+            },
+            {
+                "Value": "Negar",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_DENY"
+            },
+            {
+                "Value": "Negar tudo",
+                "Name": "LayoutText/ManageNonStandardCharge/TEXT_DENY_ALL"
+            }
+        ]
+    }
+}}

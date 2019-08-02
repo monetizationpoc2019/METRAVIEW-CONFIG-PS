@@ -1,0 +1,68 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "Approvals",
+        "locale_entry": [
+            {
+                "Value": "Kontoeigenschaften aktualisieren",
+                "Name": "Approvals/ChangeType/AccountUpdate"
+            },
+            {
+                "Value": "Aktualisierung der Tarifsystemregeln",
+                "Name": "Approvals/ChangeType/RateUpdate"
+            },
+            {
+                "Value": "Ausstehend",
+                "Name": "Approvals/ChangeState/Pending"
+            },
+            {
+                "Value": "Genehmigt und wartet auf Anwendung",
+                "Name": "Approvals/ChangeState/ApprovedWaitingToBeApplied"
+            },
+            {
+                "Value": "Anwendung fehlgeschlagen",
+                "Name": "Approvals/ChangeState/FailedToApply"
+            },
+            {
+                "Value": "Angewendet",
+                "Name": "Approvals/ChangeState/Applied"
+            },
+            {
+                "Value": "Verworfen",
+                "Name": "Approvals/ChangeState/Dismissed"
+            },
+            {
+                "Value": "Datum des Produktangebots ändern",
+                "Name": "Approvals/ChangeType/ProductOfferingUpdate"
+            },
+            {
+                "Value": "New Subscription",
+                "Name": "Approvals/ChangeType/Subscription.Add"
+            },
+            {
+                "Value": "Subscription Update",
+                "Name": "Approvals/ChangeType/Subscription.Update"
+            },
+            {
+                "Value": "Gruppennutzungsanmeldung: Mitgliederhierarchie hinzufügen",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMemberHierarchies"
+            },
+            {
+                "Value": "Gruppennutzungsanmeldung: Mitglied hinzufügen",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMembers"
+            },
+            {
+                "Value": "Gruppennutzungsanmeldung: Mitglied kündigen",
+                "Name": "Approvals/ChangeType/GroupSubscription.UnsubscribeMembers"
+            },
+            {
+                "Value": "Gruppennutzungsanmeldung: Mitglied aktualisieren",
+                "Name": "Approvals/ChangeType/GroupSubscription.UpdateMember"
+            },
+            {
+                "Value": "Gruppennutzungsanmeldung: Mitglied löschen",
+                "Name": "Approvals/ChangeType/GroupSubscription.DeleteMembers"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,104 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "metratech.com/billingcycle",
+        "locale_entry": [
+            {
+                "Value": "Bissemana 1",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week1"
+            },
+            {
+                "Value": "Bissemana 10",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week10"
+            },
+            {
+                "Value": "Bissemana 11",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week11"
+            },
+            {
+                "Value": "Bissemana 12",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week12"
+            },
+            {
+                "Value": "Bissemana 13",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week13"
+            },
+            {
+                "Value": "Bissemana 14",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week14"
+            },
+            {
+                "Value": "Bissemana 2",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week2"
+            },
+            {
+                "Value": "Bissemana 3",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week3"
+            },
+            {
+                "Value": "Bissemana 4",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week4"
+            },
+            {
+                "Value": "Bissemana 5",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week5"
+            },
+            {
+                "Value": "Bissemana 6",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week6"
+            },
+            {
+                "Value": "Bissemana 7",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week7"
+            },
+            {
+                "Value": "Bissemana 8",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week8"
+            },
+            {
+                "Value": "Bissemana 9",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week9"
+            },
+            {
+                "Value": "Anual",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Annually"
+            },
+            {
+                "Value": "Bissemanal",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Bi-weekly"
+            },
+            {
+                "Value": "Diariamente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Daily"
+            },
+            {
+                "Value": "Mensalmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Monthly"
+            },
+            {
+                "Value": "Sob solicitação",
+                "Name": "metratech.com/billingcycle/UsageCycleType/On-demand"
+            },
+            {
+                "Value": "Trimestralmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Quarterly"
+            },
+            {
+                "Value": "Semestralmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/SemiAnnually"
+            },
+            {
+                "Value": "Semestralmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Semi-Annually"
+            },
+            {
+                "Value": "Quinzenalmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Semi-monthly"
+            },
+            {
+                "Value": "Semanalmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Weekly"
+            }
+        ]
+    }
+}}

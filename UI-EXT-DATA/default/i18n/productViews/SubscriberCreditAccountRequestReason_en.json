@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "US",
+    "locale_space": {
+        "name": "metratech.com/SubscriberCreditAccountRequestReason",
+        "locale_entry": [
+            {
+                "Value": "Bad Service",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/BadService"
+            },
+            {
+                "Value": "Dropped Call",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/DroppedCall"
+            },
+            {
+                "Value": "General Dissatisfaction",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/GeneralDissatisfaction"
+            },
+            {
+                "Value": "Other",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/Other"
+            },
+            {
+                "Value": "Poor Connection",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/PoorConnection"
+            }
+        ]
+    }
+}}

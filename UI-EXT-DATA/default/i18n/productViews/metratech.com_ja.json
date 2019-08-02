@@ -1,0 +1,336 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com",
+        "locale_entry": [
+            {
+                "Value": "明細書のハードコピー",
+                "Name": "metratech.com/accountcreation/InvoiceMethod/Paper Invoice"
+            },
+            {
+                "Value": "お客様 ID",
+                "Name": "metratech.com/AccountID"
+            },
+            {
+                "Value": "勘定コードで分類",
+                "Name": "metratech.com/AccountingCodeView"
+            },
+            {
+                "Value": "金額",
+                "Name": "metratech.com/Amount"
+            },
+            {
+                "Value": "税込み金額",
+                "Name": "metratech.com/AmountWithTax"
+            },
+            {
+                "Value": "MetraCare",
+                "Name": "metratech.com/audit/enmApplicationID/MAM"
+            },
+            {
+                "Value": "MPS",
+                "Name": "metratech.com/audit/enmApplicationID/MPS"
+            },
+            {
+                "Value": "不明",
+                "Name": "metratech.com/audit/enmApplicationID/UNKNOWN"
+            },
+            {
+                "Value": "追加",
+                "Name": "metratech.com/audit/enmAuditOperation/Add"
+            },
+            {
+                "Value": "削除",
+                "Name": "metratech.com/audit/enmAuditOperation/Delete"
+            },
+            {
+                "Value": "更新",
+                "Name": "metratech.com/audit/enmAuditOperation/Update"
+            },
+            {
+                "Value": "FOOTER",
+                "Name": "metratech.com/BillMessageType/FOOTER"
+            },
+            {
+                "Value": "HEADER",
+                "Name": "metratech.com/BillMessageType/HEADER"
+            },
+            {
+                "Value": "INSERT",
+                "Name": "metratech.com/BillMessageType/INSERT"
+            },
+            {
+                "Value": "OTHER",
+                "Name": "metratech.com/BillMessageType/OTHER"
+            },
+            {
+                "Value": "国税額",
+                "Name": "metratech.com/CountyTaxAmount"
+            },
+            {
+                "Value": "アメリカン エキスプレス",
+                "Name": "metratech.com/CreditCardType/American Express"
+            },
+            {
+                "Value": "ダイナース クラブ",
+                "Name": "metratech.com/CreditCardType/Diners Club"
+            },
+            {
+                "Value": "Discover",
+                "Name": "metratech.com/CreditCardType/Discover"
+            },
+            {
+                "Value": "JCB",
+                "Name": "metratech.com/CreditCardType/JCB"
+            },
+            {
+                "Value": "マエストロ",
+                "Name": "metratech.com/CreditCardType/Maestro"
+            },
+            {
+                "Value": "マスターカード",
+                "Name": "metratech.com/CreditCardType/Master Card"
+            },
+            {
+                "Value": "マスターカード",
+                "Name": "metratech.com/CreditCardType/MasterCard"
+            },
+            {
+                "Value": "None",
+                "Name": "metratech.com/CreditCardType/None"
+            },
+            {
+                "Value": "Visa",
+                "Name": "metratech.com/CreditCardType/Visa"
+            },
+            {
+                "Value": "通貨",
+                "Name": "metratech.com/Currency"
+            },
+            {
+                "Value": "金額",
+                "Name": "metratech.com/DisplayAmount"
+            },
+            {
+                "Value": "連邦税額",
+                "Name": "metratech.com/FederalTaxAmount"
+            },
+            {
+                "Value": "リーダー名で分類",
+                "Name": "metratech.com/GroupByLeaderNameView"
+            },
+            {
+                "Value": "間隔 ID",
+                "Name": "metratech.com/IntervalID"
+            },
+            {
+                "Value": "地方税額",
+                "Name": "metratech.com/LocalTaxAmount"
+            },
+            {
+                "Value": "金",
+                "Name": "metratech.com/mam/DayOfWeek/Friday"
+            },
+            {
+                "Value": "月",
+                "Name": "metratech.com/mam/DayOfWeek/Monday"
+            },
+            {
+                "Value": "土",
+                "Name": "metratech.com/mam/DayOfWeek/Saturday"
+            },
+            {
+                "Value": "日",
+                "Name": "metratech.com/mam/DayOfWeek/Sunday"
+            },
+            {
+                "Value": "木",
+                "Name": "metratech.com/mam/DayOfWeek/Thursday"
+            },
+            {
+                "Value": "火",
+                "Name": "metratech.com/mam/DayOfWeek/Tuesday"
+            },
+            {
+                "Value": "水",
+                "Name": "metratech.com/mam/DayOfWeek/Wednesday"
+            },
+            {
+                "Value": "追加",
+                "Name": "metratech.com/Operation/Add"
+            },
+            {
+                "Value": "削除",
+                "Name": "metratech.com/Operation/Delete"
+            },
+            {
+                "Value": "更新",
+                "Name": "metratech.com/Operation/Update"
+            },
+            {
+                "Value": "その他の税額",
+                "Name": "metratech.com/OtherTaxAmount"
+            },
+            {
+                "Value": "利用者",
+                "Name": "metratech.com/PayeeDisplayName"
+            },
+            {
+                "Value": "Engineer",
+                "Name": "metratech.com/Position/Engineer"
+            },
+            {
+                "Value": "エグゼクティブ",
+                "Name": "metratech.com/Position/Executive"
+            },
+            {
+                "Value": "Manager",
+                "Name": "metratech.com/Position/Manager"
+            },
+            {
+                "Value": "請求後の調整金額",
+                "Name": "metratech.com/PostbillAdjustmentAmount"
+            },
+            {
+                "Value": "請求前の調整金額",
+                "Name": "metratech.com/PrebillAdjustmentAmount"
+            },
+            {
+                "Value": "Actualized",
+                "Name": "metratech.com/QuoteStatus/Actualized"
+            },
+            {
+                "Value": "Complete",
+                "Name": "metratech.com/QuoteStatus/Complete"
+            },
+            {
+                "Value": "Converted",
+                "Name": "metratech.com/QuoteStatus/Converted"
+            },
+            {
+                "Value": "Failed",
+                "Name": "metratech.com/QuoteStatus/Failed"
+            },
+            {
+                "Value": "InProgress",
+                "Name": "metratech.com/QuoteStatus/InProgress"
+            },
+            {
+                "Value": "None",
+                "Name": "metratech.com/QuoteStatus/None"
+            },
+            {
+                "Value": "お客様の開発",
+                "Name": "metratech.com/SaleForceRelationship/Account Development"
+            },
+            {
+                "Value": "営業担当者",
+                "Name": "metratech.com/SaleForceRelationship/Account Executive"
+            },
+            {
+                "Value": "チャネル管理者",
+                "Name": "metratech.com/SaleForceRelationship/Channel Manager"
+            },
+            {
+                "Value": "エグゼクティブ スポンサー",
+                "Name": "metratech.com/SaleForceRelationship/Executive Sponsor"
+            },
+            {
+                "Value": "運用サポート",
+                "Name": "metratech.com/SaleForceRelationship/Operations Support"
+            },
+            {
+                "Value": "プログラム管理者",
+                "Name": "metratech.com/SaleForceRelationship/Program Manager"
+            },
+            {
+                "Value": "プロジェクト管理者",
+                "Name": "metratech.com/SaleForceRelationship/Project Manager"
+            },
+            {
+                "Value": "販売代理店",
+                "Name": "metratech.com/SaleForceRelationship/Sales Agent"
+            },
+            {
+                "Value": "技術的な販売サポート",
+                "Name": "metratech.com/SaleForceRelationship/Technical Sales Support"
+            },
+            {
+                "Value": "セッション ID",
+                "Name": "metratech.com/SessionID"
+            },
+            {
+                "Value": "セッション種別",
+                "Name": "metratech.com/SessionType"
+            },
+            {
+                "Value": "すべての接続を表示",
+                "Name": "metratech.com/ShowAllConnectionsView"
+            },
+            {
+                "Value": "州税額",
+                "Name": "metratech.com/StateTaxAmount"
+            },
+            {
+                "Value": "BadService",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/BadService"
+            },
+            {
+                "Value": "DroppedCall",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/DroppedCall"
+            },
+            {
+                "Value": "GeneralDissatisfaction",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/GeneralDissatisfaction"
+            },
+            {
+                "Value": "Other",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/Other"
+            },
+            {
+                "Value": "PoorConnection",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/PoorConnection"
+            },
+            {
+                "Value": "APPROVED",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/APPROVED"
+            },
+            {
+                "Value": "DENIED",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/DENIED"
+            },
+            {
+                "Value": "PENDING",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/PENDING"
+            },
+            {
+                "Value": "税額",
+                "Name": "metratech.com/TaxAmount"
+            },
+            {
+                "Value": "タイムスタンプ",
+                "Name": "metratech.com/Timestamp"
+            },
+            {
+                "Value": "BeginDistributed",
+                "Name": "metratech.com/TransactionTypes/BeginDistributed"
+            },
+            {
+                "Value": "BeginLocal",
+                "Name": "metratech.com/TransactionTypes/BeginLocal"
+            },
+            {
+                "Value": "確定",
+                "Name": "metratech.com/TransactionTypes/Commit"
+            },
+            {
+                "Value": "JoinDistributed",
+                "Name": "metratech.com/TransactionTypes/JoinDistributed"
+            },
+            {
+                "Value": "ビュー ID",
+                "Name": "metratech.com/ViewID"
+            }
+        ]
+    }
+}}

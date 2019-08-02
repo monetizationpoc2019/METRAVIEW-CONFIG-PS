@@ -1,0 +1,64 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "metratech.com/balanceadjustments",
+        "locale_entry": [
+            {
+                "Value": "ACH",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/ACH"
+            },
+            {
+                "Value": "Espèces",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Cash"
+            },
+            {
+                "Value": "Chèque",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Check"
+            },
+            {
+                "Value": "Carte de crédit",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/CreditCard"
+            },
+            {
+                "Value": "Direct Debit",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/DirectDebit"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/InterCompany",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/InterCompany"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/Lockbox",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Lockbox"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/TerminalCreditCard",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/TerminalCreditCard"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/Wholesale",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Wholesale"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/WireTransfer",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/WireTransfer"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/WriteOff",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/WriteOff"
+            },
+            {
+                "Value": "Solde transféré sur le compte du payeur",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/1"
+            },
+            {
+                "Value": "Solde transféré du compte du bénéficiaire",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/2"
+            },
+            {
+                "Value": "Autre",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/3"
+            }
+        ]
+    }
+}}

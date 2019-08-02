@@ -1,0 +1,48 @@
+{"mt_config": {
+    "language_code": "es-MX",
+    "locale_space": {
+        "name": "metratech.com/audit",
+        "locale_entry": [
+            {
+                "Value": "Registro de auditoría",
+                "Name": "metratech.com/audit"
+            },
+            {
+                "Value": "ID de CSR",
+                "Name": "metratech.com/audit/CsrID"
+            },
+            {
+                "Value": "Descripción",
+                "Name": "metratech.com/audit/description"
+            },
+            {
+                "Value": "MAM",
+                "Name": "metratech.com/audit/enmApplicationID/MAM"
+            },
+            {
+                "Value": "MPS",
+                "Name": "metratech.com/audit/enmApplicationID/MPS"
+            },
+            {
+                "Value": "UNKNOWN",
+                "Name": "metratech.com/audit/enmApplicationID/UNKNOWN"
+            },
+            {
+                "Value": "Add",
+                "Name": "metratech.com/audit/enmAuditOperation/Add"
+            },
+            {
+                "Value": "Delete",
+                "Name": "metratech.com/audit/enmAuditOperation/Delete"
+            },
+            {
+                "Value": "Update",
+                "Name": "metratech.com/audit/enmAuditOperation/Update"
+            },
+            {
+                "Value": "ID de cuenta del suscriptor",
+                "Name": "metratech.com/audit/subscriberaccountID"
+            }
+        ]
+    }
+}}

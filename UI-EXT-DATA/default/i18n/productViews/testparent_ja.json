@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/testparent",
+        "locale_entry": [
+            {
+                "Value": "親のテスト",
+                "Name": "metratech.com/testparent"
+            },
+            {
+                "Value": "内容",
+                "Name": "metratech.com/testparent/description"
+            },
+            {
+                "Value": "時間",
+                "Name": "metratech.com/testparent/time"
+            },
+            {
+                "Value": "総合計",
+                "Name": "metratech.com/testparent/totalamount"
+            },
+            {
+                "Value": "単位合計",
+                "Name": "metratech.com/testparent/totalunits"
+            }
+        ]
+    }
+}}

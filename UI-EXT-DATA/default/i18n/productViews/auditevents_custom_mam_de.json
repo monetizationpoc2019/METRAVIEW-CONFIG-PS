@@ -1,0 +1,16 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "metratech.com/auditevents/custom/mam",
+        "locale_entry": [
+            {
+                "Value": "Bezeichnung für Kundendienstmitarbeiter",
+                "Name": "metratech.com/auditevents/custom/mam/note"
+            },
+            {
+                "Value": "Teilnehmer hat angerufen",
+                "Name": "metratech.com/auditevents/custom/mam/telephone"
+            }
+        ]
+    }
+}}

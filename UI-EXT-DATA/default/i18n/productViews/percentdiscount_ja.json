@@ -1,0 +1,52 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/percentdiscount",
+        "locale_entry": [
+            {
+                "Value": "パーセント割引",
+                "Name": "metratech.com/percentdiscount"
+            },
+            {
+                "Value": "割引期間の終了日",
+                "Name": "metratech.com/percentdiscount/DiscountIntervalEnd"
+            },
+            {
+                "Value": "割引期間の開始日",
+                "Name": "metratech.com/percentdiscount/DiscountIntervalStart"
+            },
+            {
+                "Value": "割引期間のご利用終了日",
+                "Name": "metratech.com/percentdiscount/DiscountIntervalSubEnd"
+            },
+            {
+                "Value": "割引期間のご利用開始日",
+                "Name": "metratech.com/percentdiscount/DiscountIntervalSubStart"
+            },
+            {
+                "Value": "割引率 (%)",
+                "Name": "metratech.com/percentdiscount/DiscountPercent"
+            },
+            {
+                "Value": "グループ利用",
+                "Name": "metratech.com/percentdiscount/GroupSubscriptionName"
+            },
+            {
+                "Value": "資格付与値",
+                "Name": "metratech.com/percentdiscount/Qualifier"
+            },
+            {
+                "Value": "ご利用終了日",
+                "Name": "metratech.com/percentdiscount/SubscriptionEnd"
+            },
+            {
+                "Value": "ご利用開始日",
+                "Name": "metratech.com/percentdiscount/SubscriptionStart"
+            },
+            {
+                "Value": "対象値",
+                "Name": "metratech.com/percentdiscount/Target"
+            }
+        ]
+    }
+}}

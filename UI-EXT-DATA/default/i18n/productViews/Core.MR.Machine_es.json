@@ -1,0 +1,20 @@
+{"mt_config": {
+    "language_code": "es",
+    "locale_space": {
+        "name": "BusinessEntity/Core.MR.Machine",
+        "locale_entry": [
+            {
+                "Value": "Machine",
+                "Name": "BusinessEntity/Core.MR.Machine/Machine"
+            },
+            {
+                "Value": "Machine Identifier",
+                "Name": "BusinessEntity/Core.MR.Machine/MachineIdentifier/Label"
+            },
+            {
+                "Value": "Description",
+                "Name": "BusinessEntity/Core.MR.Machine/Description/Label"
+            }
+        ]
+    }
+}}

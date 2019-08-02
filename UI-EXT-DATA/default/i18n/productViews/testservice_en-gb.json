@@ -1,0 +1,40 @@
+{"mt_config": {
+    "language_code": "gb",
+    "locale_space": {
+        "name": "metratech.com/testservice",
+        "locale_entry": [
+            {
+                "Value": "Test Service",
+                "Name": "metratech.com/testservice"
+            },
+            {
+                "Value": "Decimal Property 1",
+                "Name": "metratech.com/testservice/DecProp1"
+            },
+            {
+                "Value": "Decimal Property 2",
+                "Name": "metratech.com/testservice/DecProp2"
+            },
+            {
+                "Value": "Decimal Property 3",
+                "Name": "metratech.com/testservice/DecProp3"
+            },
+            {
+                "Value": "Description",
+                "Name": "metratech.com/testservice/Description"
+            },
+            {
+                "Value": "optionaltime",
+                "Name": "metratech.com/testservice/optionaltime"
+            },
+            {
+                "Value": "Time",
+                "Name": "metratech.com/testservice/Time"
+            },
+            {
+                "Value": "Units",
+                "Name": "metratech.com/testservice/Units"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,52 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "metratech.com/endpointtestservice",
+        "locale_entry": [
+            {
+                "Value": "Test endpoint",
+                "Name": "metratech.com/endpointtestservice"
+            },
+            {
+                "Value": "ID aziendale esterno",
+                "Name": "metratech.com/endpointtestservice/CorporateLogin"
+            },
+            {
+                "Value": "Spazio di nome aziendale esterno",
+                "Name": "metratech.com/endpointtestservice/CorporateNamespace"
+            },
+            {
+                "Value": "Proprietà decimale n.1",
+                "Name": "metratech.com/endpointtestservice/DecProp1"
+            },
+            {
+                "Value": "Proprietà decimale n.2",
+                "Name": "metratech.com/endpointtestservice/DecProp2"
+            },
+            {
+                "Value": "Proprietà decimale n.3",
+                "Name": "metratech.com/endpointtestservice/DecProp3"
+            },
+            {
+                "Value": "Descrizione",
+                "Name": "metratech.com/endpointtestservice/description"
+            },
+            {
+                "Value": "ID endpoint esterno",
+                "Name": "metratech.com/endpointtestservice/EndpointLogin"
+            },
+            {
+                "Value": "Spazio di nome endpoint esterno",
+                "Name": "metratech.com/endpointtestservice/EndpointNamespace"
+            },
+            {
+                "Value": "Ora",
+                "Name": "metratech.com/endpointtestservice/time"
+            },
+            {
+                "Value": "Unità",
+                "Name": "metratech.com/endpointtestservice/units"
+            }
+        ]
+    }
+}}

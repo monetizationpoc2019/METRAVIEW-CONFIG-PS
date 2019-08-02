@@ -1,0 +1,144 @@
+{"mt_config": {
+    "language_code": "gb",
+    "locale_space": {
+        "name": "UI",
+        "locale_entry": [
+            {
+                "Value": "MetraNet",
+                "Name": "UI/AuthenticationType/MetraNet"
+            },
+            {
+                "Value": "ExtraLarge",
+                "Name": "UI/DashboardColumnWidth/ExtraLarge"
+            },
+            {
+                "Value": "Extra Small",
+                "Name": "UI/DashboardColumnWidth/ExtraSmall"
+            },
+            {
+                "Value": "Large",
+                "Name": "UI/DashboardColumnWidth/Large"
+            },
+            {
+                "Value": "Medium",
+                "Name": "UI/DashboardColumnWidth/Medium"
+            },
+            {
+                "Value": "Small",
+                "Name": "UI/DashboardColumnWidth/Small"
+            },
+            {
+                "Value": "Negative Sign",
+                "Name": "UI/NegativeRepresentationType/Negative Sign"
+            },
+            {
+                "Value": "Parenthesis",
+                "Name": "UI/NegativeRepresentationType/Parenthesis"
+            },
+            {
+                "Value": "Chart",
+                "Name": "UI/ReportType/Chart"
+            },
+            {
+                "Value": "Grid",
+                "Name": "UI/ReportType/Grid"
+            },
+            {
+                "Value": "blue",
+                "Name": "UI/Themes/blue"
+            },
+            {
+                "Value": "gold",
+                "Name": "UI/Themes/gold"
+            },
+            {
+                "Value": "gray",
+                "Name": "UI/Themes/gray"
+            },
+            {
+                "Value": "green",
+                "Name": "UI/Themes/green"
+            },
+            {
+                "Value": "orange",
+                "Name": "UI/Themes/orange"
+            },
+            {
+                "Value": "purple",
+                "Name": "UI/Themes/purple"
+            },
+            {
+                "Value": "red",
+                "Name": "UI/Themes/red"
+            },
+            {
+                "Value": "Arabic",
+                "Name": "UI/UICultures/Arabic"
+            },
+            {
+                "Value": "Deutsch",
+                "Name": "UI/UICultures/Deutsch"
+            },
+            {
+                "Value": "English (US)",
+                "Name": "UI/UICultures/English"
+            },
+            {
+                "Value": "English (US)",
+                "Name": "UI/UICultures/English (US)"
+            },
+            {
+                "Value": "English (GB)",
+                "Name": "UI/UICultures/English GB"
+            },
+            {
+                "Value": "Español",
+                "Name": "UI/UICultures/Español"
+            },
+            {
+                "Value": "Français (France)",
+                "Name": "UI/UICultures/Français"
+            },
+            {
+                "Value": "Français (France)",
+                "Name": "UI/UICultures/Français (France)"
+            },
+            {
+                "Value": "Français (France)",
+                "Name": "UI/UICultures/French"
+            },
+            {
+                "Value": "Deutsch",
+                "Name": "UI/UICultures/German"
+            },
+            {
+                "Value": "Italiano",
+                "Name": "UI/UICultures/Italian"
+            },
+            {
+                "Value": "Italiano",
+                "Name": "UI/UICultures/Italiano"
+            },
+            {
+                "Value": "Japanese",
+                "Name": "UI/UICultures/Japanese"
+            },
+            {
+                "Value": "Portuguese - Brazil",
+                "Name": "UI/UICultures/Portuguese - Brazil"
+            },
+            {
+                "Value": "Español",
+                "Name": "UI/UICultures/Spanish"
+            },
+            {
+                "Value": "Spanish - Mexican",
+                "Name": "UI/UICultures/Spanish - Mexican"
+            },
+            {
+                "Value": "ZIP/Postal Code",
+                "Name": "UI/UICultures/日本語"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,40 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "metratech.com/testservice",
+        "locale_entry": [
+            {
+                "Value": "Testar serviço",
+                "Name": "metratech.com/testservice"
+            },
+            {
+                "Value": "Propriedade decimal 1",
+                "Name": "metratech.com/testservice/DecProp1"
+            },
+            {
+                "Value": "Propriedade decimal 2",
+                "Name": "metratech.com/testservice/DecProp2"
+            },
+            {
+                "Value": "Propriedade decimal 3",
+                "Name": "metratech.com/testservice/DecProp3"
+            },
+            {
+                "Value": "Descrição",
+                "Name": "metratech.com/testservice/Description"
+            },
+            {
+                "Value": "optionaltime",
+                "Name": "metratech.com/testservice/optionaltime"
+            },
+            {
+                "Value": "Hora",
+                "Name": "metratech.com/testservice/Time"
+            },
+            {
+                "Value": "Unidades",
+                "Name": "metratech.com/testservice/Units"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,32 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "metratech.com/NonStandardCharge",
+        "locale_entry": [
+            {
+                "Value": "Außerordentliche Gebühren",
+                "Name": "metratech.com/NonStandardCharge"
+            },
+            {
+                "Value": "Andere",
+                "Name": "metratech.com/NonStandardCharge/AdditionalCode/Other"
+            },
+            {
+                "Value": "Guthaben",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Credit"
+            },
+            {
+                "Value": "Belastung",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Debit"
+            },
+            {
+                "Value": "Andere",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Other"
+            },
+            {
+                "Value": "Andere",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeType/Other"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,76 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "metratech.com/udrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "Addebito ricorrente in base all'unità",
+                "Name": "metratech.com/udrecurringcharge"
+            },
+            {
+                "Value": "Anticipo",
+                "Name": "metratech.com/udrecurringcharge/Advance"
+            },
+            {
+                "Value": "Fine intervallo di fatturazione",
+                "Name": "metratech.com/udrecurringcharge/BillingIntervalEnd"
+            },
+            {
+                "Value": "Inizio intervallo di fatturazione",
+                "Name": "metratech.com/udrecurringcharge/BillingIntervalStart"
+            },
+            {
+                "Value": "Tariffa giornaliera ripartizione proporzionale",
+                "Name": "metratech.com/udrecurringcharge/ProratedDailyRate"
+            },
+            {
+                "Value": "Giorni ripartizione proporzionale",
+                "Name": "metratech.com/udrecurringcharge/ProratedDays"
+            },
+            {
+                "Value": "Fine intervallo ripartizione proporzionale",
+                "Name": "metratech.com/udrecurringcharge/ProratedIntervalEnd"
+            },
+            {
+                "Value": "Inizio intervallo ripartizione proporzionale",
+                "Name": "metratech.com/udrecurringcharge/ProratedIntervalStart"
+            },
+            {
+                "Value": "Ripartito proporzionalmente per abbonamento",
+                "Name": "metratech.com/udrecurringcharge/ProratedOnSubscription"
+            },
+            {
+                "Value": "Ripartito proporzionalmente per annullamento abbonamento",
+                "Name": "metratech.com/udrecurringcharge/ProratedOnUnSubscription"
+            },
+            {
+                "Value": "Ripartizione proporzionale per abbonamento",
+                "Name": "metratech.com/udrecurringcharge/ProrateOnSubscription"
+            },
+            {
+                "Value": "Ripartizione proporzionale per annullamento abbonamento",
+                "Name": "metratech.com/udrecurringcharge/ProrateOnUnSubscription"
+            },
+            {
+                "Value": "Importo addebito ricorrente",
+                "Name": "metratech.com/udrecurringcharge/RCAmount"
+            },
+            {
+                "Value": "Data di fine addebito ricorrente",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalEnd"
+            },
+            {
+                "Value": "Data di inizio addebito ricorrente",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalStart"
+            },
+            {
+                "Value": "Data di fine abbonamento con addebito ricorrente",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Data di inizio abbonamento con addebito ricorrente",
+                "Name": "metratech.com/udrecurringcharge/RCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

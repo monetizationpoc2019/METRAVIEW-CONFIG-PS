@@ -1,0 +1,72 @@
+{"mt_config": {
+    "language_code": "US",
+    "locale_space": {
+        "name": "metratech.com/AddCharge",
+        "locale_entry": [
+            {
+                "Value": "Additional Charge",
+                "Name": "metratech.com/AddCharge"
+            },
+            {
+                "Value": "Charge Date",
+                "Name": "metratech.com/AddCharge/ChargeDate"
+            },
+            {
+                "Value": "Charge Type",
+                "Name": "metratech.com/AddCharge/chargetype"
+            },
+            {
+                "Value": "Other",
+                "Name": "metratech.com/addCharge/ChargeType/Other"
+            },
+            {
+                "Value": "Csr ID",
+                "Name": "metratech.com/AddCharge/CsrID"
+            },
+            {
+                "Value": "Accounting Code",
+                "Name": "metratech.com/AddCharge/generalledgercode"
+            },
+            {
+                "Value": "Internal Notes",
+                "Name": "metratech.com/AddCharge/internalcomment"
+            },
+            {
+                "Value": "Comment",
+                "Name": "metratech.com/AddCharge/invoicecomment"
+            },
+            {
+                "Value": "Issuer",
+                "Name": "metratech.com/AddCharge/issuer"
+            },
+            {
+                "Value": "Namespace",
+                "Name": "metratech.com/AddCharge/NameSpace"
+            },
+            {
+                "Value": "Charge Description",
+                "Name": "metratech.com/AddCharge/otherchargetypecomment"
+            },
+            {
+                "Value": "Payer",
+                "Name": "metratech.com/AddCharge/Payer"
+            },
+            {
+                "Value": "Link to Previous Charge",
+                "Name": "metratech.com/AddCharge/relatetopreviouscharge"
+            },
+            {
+                "Value": "Resolve With Account ID Flag",
+                "Name": "metratech.com/AddCharge/ResolveWithAccountIDFlag"
+            },
+            {
+                "Value": "Tax Amount",
+                "Name": "metratech.com/AddCharge/taxamount"
+            },
+            {
+                "Value": "Taxable",
+                "Name": "metratech.com/AddCharge/taxtype"
+            }
+        ]
+    }
+}}

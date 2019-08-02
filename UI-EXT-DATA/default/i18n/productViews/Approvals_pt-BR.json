@@ -1,0 +1,68 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "Approvals",
+        "locale_entry": [
+            {
+                "Value": "Atualização de propriedades de conta",
+                "Name": "Approvals/ChangeType/AccountUpdate"
+            },
+            {
+                "Value": "Atualização de regras de agendamento de taxa",
+                "Name": "Approvals/ChangeType/RateUpdate"
+            },
+            {
+                "Value": "Pendente",
+                "Name": "Approvals/ChangeState/Pending"
+            },
+            {
+                "Value": "Aprovado aguardando ser aplicado",
+                "Name": "Approvals/ChangeState/ApprovedWaitingToBeApplied"
+            },
+            {
+                "Value": "Falha ao aplicar",
+                "Name": "Approvals/ChangeState/FailedToApply"
+            },
+            {
+                "Value": "Aplicado",
+                "Name": "Approvals/ChangeState/Applied"
+            },
+            {
+                "Value": "Rejeitado",
+                "Name": "Approvals/ChangeState/Dismissed"
+            },
+            {
+                "Value": "Atualização da data de oferta de produto",
+                "Name": "Approvals/ChangeType/ProductOfferingUpdate"
+            },
+            {
+                "Value": "Nova assinatura",
+                "Name": "Approvals/ChangeType/Subscription.Add"
+            },
+            {
+                "Value": "Atualização da assinatura",
+                "Name": "Approvals/ChangeType/Subscription.Update"
+            },
+            {
+                "Value": "Assinatura em grupo: adição de hierarquia de membro",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMemberHierarchies"
+            },
+            {
+                "Value": "Assinatura em grupo: adição de membro",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMembers"
+            },
+            {
+                "Value": "Assinatura em grupo: cancelamento da assinatura do membro",
+                "Name": "Approvals/ChangeType/GroupSubscription.UnsubscribeMembers"
+            },
+            {
+                "Value": "Assinatura em grupo: atualização do membro",
+                "Name": "Approvals/ChangeType/GroupSubscription.UpdateMember"
+            },
+            {
+                "Value": "Assinatura em grupo: exclusão do membro",
+                "Name": "Approvals/ChangeType/GroupSubscription.DeleteMembers"
+            }
+        ]
+    }
+}}

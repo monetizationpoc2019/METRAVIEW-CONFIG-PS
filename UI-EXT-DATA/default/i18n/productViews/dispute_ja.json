@@ -1,0 +1,20 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/Dispute",
+        "locale_entry": [
+            {
+                "Value": "承認済み",
+                "Name": "metratech.com/Dispute/DisputeStatus/Approved"
+            },
+            {
+                "Value": "保留",
+                "Name": "metratech.com/Dispute/DisputeStatus/Pending"
+            },
+            {
+                "Value": "拒否済み",
+                "Name": "metratech.com/Dispute/DisputeStatus/Rejected"
+            }
+        ]
+    }
+}}

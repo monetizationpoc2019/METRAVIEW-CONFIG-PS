@@ -1,0 +1,20 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "metratech.com/Dispute",
+        "locale_entry": [
+            {
+                "Value": "Approvata",
+                "Name": "metratech.com/Dispute/DisputeStatus/Approved"
+            },
+            {
+                "Value": "In sospeso",
+                "Name": "metratech.com/Dispute/DisputeStatus/Pending"
+            },
+            {
+                "Value": "Rifiutato",
+                "Name": "metratech.com/Dispute/DisputeStatus/Rejected"
+            }
+        ]
+    }
+}}

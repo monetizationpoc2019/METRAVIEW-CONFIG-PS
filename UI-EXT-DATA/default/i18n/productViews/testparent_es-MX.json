@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "es-MX",
+    "locale_space": {
+        "name": "metratech.com/testparent",
+        "locale_entry": [
+            {
+                "Value": "Probar principal",
+                "Name": "metratech.com/testparent"
+            },
+            {
+                "Value": "Descripción",
+                "Name": "metratech.com/testparent/description"
+            },
+            {
+                "Value": "Hora",
+                "Name": "metratech.com/testparent/time"
+            },
+            {
+                "Value": "Monto total",
+                "Name": "metratech.com/testparent/totalamount"
+            },
+            {
+                "Value": "Unidades totales",
+                "Name": "metratech.com/testparent/totalunits"
+            }
+        ]
+    }
+}}

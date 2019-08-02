@@ -1,0 +1,68 @@
+{"mt_config": {
+    "language_code": "es",
+    "locale_space": {
+        "name": "Approvals",
+        "locale_entry": [
+            {
+                "Value": "Actualización de las propiedades de la cuenta",
+                "Name": "Approvals/ChangeType/AccountUpdate"
+            },
+            {
+                "Value": "Actualización de normas del plan de tarifas",
+                "Name": "Approvals/ChangeType/RateUpdate"
+            },
+            {
+                "Value": "Pendiente",
+                "Name": "Approvals/ChangeState/Pending"
+            },
+            {
+                "Value": "Aprobación pendiente de aplicación",
+                "Name": "Approvals/ChangeState/ApprovedWaitingToBeApplied"
+            },
+            {
+                "Value": "No se pudo aplicar",
+                "Name": "Approvals/ChangeState/FailedToApply"
+            },
+            {
+                "Value": "Aplicada",
+                "Name": "Approvals/ChangeState/Applied"
+            },
+            {
+                "Value": "Rechazada",
+                "Name": "Approvals/ChangeState/Dismissed"
+            },
+            {
+                "Value": "Actualización de la fecha de oferta de producto",
+                "Name": "Approvals/ChangeType/ProductOfferingUpdate"
+            },
+            {
+                "Value": "New Subscription",
+                "Name": "Approvals/ChangeType/Subscription.Add"
+            },
+            {
+                "Value": "Subscription Update",
+                "Name": "Approvals/ChangeType/Subscription.Update"
+            },
+            {
+                "Value": "Suscripción de grupo: añadir jerarquía de miembro",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMemberHierarchies"
+            },
+            {
+                "Value": "Suscripción de grupo: añadir miembro",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMembers"
+            },
+            {
+                "Value": "Suscripción de grupo: cancelar la suscripción del miembro",
+                "Name": "Approvals/ChangeType/GroupSubscription.UnsubscribeMembers"
+            },
+            {
+                "Value": "Suscripción de grupo: actualizar miembro",
+                "Name": "Approvals/ChangeType/GroupSubscription.UpdateMember"
+            },
+            {
+                "Value": "Suscripción de grupo: eliminar miembro",
+                "Name": "Approvals/ChangeType/GroupSubscription.DeleteMembers"
+            }
+        ]
+    }
+}}

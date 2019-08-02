@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "es",
+    "locale_space": {
+        "name": "metratech.com/UnbundledDiscount",
+        "locale_entry": [
+            {
+                "Value": "Descuentos desglosados",
+                "Name": "metratech.com/UnbundledDiscount"
+            },
+            {
+                "Value": "Importe del descuento",
+                "Name": "metratech.com/UnbundledDiscount/DiscountAmount"
+            },
+            {
+                "Value": "ID del descuento",
+                "Name": "metratech.com/UnbundledDiscount/DiscountID"
+            },
+            {
+                "Value": "Nombre del descuento",
+                "Name": "metratech.com/UnbundledDiscount/DiscountName"
+            },
+            {
+                "Value": "Importe de los impuestos del descuento",
+                "Name": "metratech.com/UnbundledDiscount/DiscountTaxAmount"
+            }
+        ]
+    }
+}}

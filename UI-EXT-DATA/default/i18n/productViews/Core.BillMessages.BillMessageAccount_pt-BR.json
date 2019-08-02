@@ -1,0 +1,20 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "BusinessEntity/Core.BillMessages.BillMessageAccount",
+        "locale_entry": [
+            {
+                "Value": "Data de término da mensagem",
+                "Name": "BusinessEntity/Core.BillMessages.BillMessageAccount/EndDate/Label"
+            },
+            {
+                "Value": "Código da mensagem",
+                "Name": "BusinessEntity/Core.BillMessages.BillMessageAccount/MessageCode/Label"
+            },
+            {
+                "Value": "Data de início da mensagem",
+                "Name": "BusinessEntity/Core.BillMessages.BillMessageAccount/StartDate/Label"
+            }
+        ]
+    }
+}}

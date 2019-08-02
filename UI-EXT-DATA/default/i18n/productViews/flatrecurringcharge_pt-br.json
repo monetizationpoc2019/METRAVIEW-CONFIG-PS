@@ -1,0 +1,76 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "metratech.com/flatrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "Cobrança recorrente de taxa fixa",
+                "Name": "metratech.com/flatrecurringcharge"
+            },
+            {
+                "Value": "Avançar",
+                "Name": "metratech.com/flatrecurringcharge/Advance"
+            },
+            {
+                "Value": "Final do intervalo de faturamento",
+                "Name": "metratech.com/flatrecurringcharge/BillingIntervalEnd"
+            },
+            {
+                "Value": "Início do intervalo de faturamento",
+                "Name": "metratech.com/flatrecurringcharge/BillingIntervalStart"
+            },
+            {
+                "Value": "Taxa diária rateada",
+                "Name": "metratech.com/flatrecurringcharge/ProratedDailyRate"
+            },
+            {
+                "Value": "Dias rateados",
+                "Name": "metratech.com/flatrecurringcharge/ProratedDays"
+            },
+            {
+                "Value": "Final do intervalo de rateamento",
+                "Name": "metratech.com/flatrecurringcharge/ProratedIntervalEnd"
+            },
+            {
+                "Value": "Início do intervalo de reteamento",
+                "Name": "metratech.com/flatrecurringcharge/ProratedIntervalStart"
+            },
+            {
+                "Value": "Rateado devido à assinatura",
+                "Name": "metratech.com/flatrecurringcharge/ProratedOnSubscription"
+            },
+            {
+                "Value": "Rateado devido ao cancelamento da assinatura",
+                "Name": "metratech.com/flatrecurringcharge/ProratedOnUnSubscription"
+            },
+            {
+                "Value": "Ratear devido à assinatura",
+                "Name": "metratech.com/flatrecurringcharge/ProrateOnSubscription"
+            },
+            {
+                "Value": "Ratear devido ao cancelamento da assinatura",
+                "Name": "metratech.com/flatrecurringcharge/ProrateOnUnSubscription"
+            },
+            {
+                "Value": "Valor da cobrança recorrente",
+                "Name": "metratech.com/flatrecurringcharge/RCAmount"
+            },
+            {
+                "Value": "Data de término da cobrança recorrente",
+                "Name": "metratech.com/flatrecurringcharge/RCIntervalEnd"
+            },
+            {
+                "Value": "Data de início da cobrança recorrente",
+                "Name": "metratech.com/flatrecurringcharge/RCIntervalStart"
+            },
+            {
+                "Value": "Data de término da assinatura na cobrança recorrente",
+                "Name": "metratech.com/flatrecurringcharge/RCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Data de início da assinatura na cobrança recorrente",
+                "Name": "metratech.com/flatrecurringcharge/RCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

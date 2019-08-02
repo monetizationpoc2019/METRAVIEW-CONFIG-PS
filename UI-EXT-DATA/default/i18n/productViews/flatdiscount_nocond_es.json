@@ -1,0 +1,40 @@
+{"mt_config": {
+    "language_code": "es",
+    "locale_space": {
+        "name": "metratech.com/flatdiscount_nocond",
+        "locale_entry": [
+            {
+                "Value": "Descuento constante no condicionado",
+                "Name": "metratech.com/flatdiscount_nocond"
+            },
+            {
+                "Value": "Fecha final del intervalo de descuento",
+                "Name": "metratech.com/flatdiscount_nocond/DiscountIntervalEnd"
+            },
+            {
+                "Value": "Fecha inicial del intervalo de descuento",
+                "Name": "metratech.com/flatdiscount_nocond/DiscountIntervalStart"
+            },
+            {
+                "Value": "Fecha final de la suscripción del intervalo de descuento",
+                "Name": "metratech.com/flatdiscount_nocond/DiscountIntervalSubEnd"
+            },
+            {
+                "Value": "Fecha inicial de la suscripción del intervalo de descuento",
+                "Name": "metratech.com/flatdiscount_nocond/DiscountIntervalSubStart"
+            },
+            {
+                "Value": "Suscripción a grupo",
+                "Name": "metratech.com/flatdiscount_nocond/GroupSubscriptionName"
+            },
+            {
+                "Value": "Fecha de finalización de la suscripción",
+                "Name": "metratech.com/flatdiscount_nocond/SubscriptionEnd"
+            },
+            {
+                "Value": "Fecha de inicio de la suscripción",
+                "Name": "metratech.com/flatdiscount_nocond/SubscriptionStart"
+            }
+        ]
+    }
+}}

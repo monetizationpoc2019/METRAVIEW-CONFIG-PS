@@ -1,0 +1,64 @@
+{"mt_config": {
+    "language_code": "us",
+    "locale_space": {
+        "name": "metratech.com/balanceadjustments",
+        "locale_entry": [
+            {
+                "Value": "ACH",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/ACH"
+            },
+            {
+                "Value": "Cash",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Cash"
+            },
+            {
+                "Value": "Check",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Check"
+            },
+            {
+                "Value": "Credit Card",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/CreditCard"
+            },
+            {
+                "Value": "Direct Debit",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/DirectDebit"
+            },
+            {
+                "Value": "InterCompany",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/InterCompany"
+            },
+            {
+                "Value": "Lockbox",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Lockbox"
+            },
+            {
+                "Value": "Terminal Credit Card",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/TerminalCreditCard"
+            },
+            {
+                "Value": "Wholesale",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Wholesale"
+            },
+            {
+                "Value": "Wire Transfer",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/WireTransfer"
+            },
+            {
+                "Value": "WriteOff",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/WriteOff"
+            },
+            {
+                "Value": "Balance moved to payer",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/1"
+            },
+            {
+                "Value": "Balance moved from payee",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/2"
+            },
+            {
+                "Value": "Other",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/3"
+            }
+        ]
+    }
+}}

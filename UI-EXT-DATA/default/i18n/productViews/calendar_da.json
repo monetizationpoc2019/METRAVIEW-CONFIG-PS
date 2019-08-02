@@ -1,0 +1,24 @@
+{"mt_config": {
+    "language_code": "da",
+    "locale_space": {
+        "name": "metratech.com/calendar",
+        "locale_entry": [
+            {
+                "Value": "metratech.com/calendar/CalendarCode/Holiday",
+                "Name": "metratech.com/calendar/CalendarCode/Holiday"
+            },
+            {
+                "Value": "metratech.com/calendar/CalendarCode/Off-Peak",
+                "Name": "metratech.com/calendar/CalendarCode/Off-Peak"
+            },
+            {
+                "Value": "metratech.com/calendar/CalendarCode/Peak",
+                "Name": "metratech.com/calendar/CalendarCode/Peak"
+            },
+            {
+                "Value": "metratech.com/calendar/CalendarCode/Weekend",
+                "Name": "metratech.com/calendar/CalendarCode/Weekend"
+            }
+        ]
+    }
+}}

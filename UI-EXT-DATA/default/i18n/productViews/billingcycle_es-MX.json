@@ -1,0 +1,104 @@
+{"mt_config": {
+    "language_code": "es-MX",
+    "locale_space": {
+        "name": "metratech.com/billingcycle",
+        "locale_entry": [
+            {
+                "Value": "Cada dos semanas 1",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week1"
+            },
+            {
+                "Value": "Cada dos semanas 10",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week10"
+            },
+            {
+                "Value": "Cada dos semanas 11",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week11"
+            },
+            {
+                "Value": "Cada dos semanas 12",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week12"
+            },
+            {
+                "Value": "Cada dos semanas 13",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week13"
+            },
+            {
+                "Value": "Cada dos semanas 14",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week14"
+            },
+            {
+                "Value": "Cada dos semanas 2",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week2"
+            },
+            {
+                "Value": "Cada dos semanas 3",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week3"
+            },
+            {
+                "Value": "Cada dos semanas 4",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week4"
+            },
+            {
+                "Value": "Cada dos semanas 5",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week5"
+            },
+            {
+                "Value": "Cada dos semanas 6",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week6"
+            },
+            {
+                "Value": "Cada dos semanas 7",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week7"
+            },
+            {
+                "Value": "Cada dos semanas 8",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week8"
+            },
+            {
+                "Value": "Cada dos semanas 9",
+                "Name": "metratech.com/billingcycle/Bi-weekly/label/Bi-week9"
+            },
+            {
+                "Value": "Anual",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Annually"
+            },
+            {
+                "Value": "Cada dos semanas",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Bi-weekly"
+            },
+            {
+                "Value": "Diariamente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Daily"
+            },
+            {
+                "Value": "Mensualmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Monthly"
+            },
+            {
+                "Value": "A pedido",
+                "Name": "metratech.com/billingcycle/UsageCycleType/On-demand"
+            },
+            {
+                "Value": "Trimestralmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Quarterly"
+            },
+            {
+                "Value": "Semestralmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/SemiAnnually"
+            },
+            {
+                "Value": "Semestralmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Semi-Annually"
+            },
+            {
+                "Value": "Quincenalmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Semi-monthly"
+            },
+            {
+                "Value": "Semanalmente",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Weekly"
+            }
+        ]
+    }
+}}

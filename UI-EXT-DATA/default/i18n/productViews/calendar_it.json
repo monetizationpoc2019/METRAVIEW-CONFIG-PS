@@ -1,0 +1,24 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "metratech.com/calendar",
+        "locale_entry": [
+            {
+                "Value": "Vacanza",
+                "Name": "metratech.com/calendar/CalendarCode/Holiday"
+            },
+            {
+                "Value": "Ora non di punta",
+                "Name": "metratech.com/calendar/CalendarCode/Off-Peak"
+            },
+            {
+                "Value": "Ora di punta",
+                "Name": "metratech.com/calendar/CalendarCode/Peak"
+            },
+            {
+                "Value": "Fine settimana",
+                "Name": "metratech.com/calendar/CalendarCode/Weekend"
+            }
+        ]
+    }
+}}

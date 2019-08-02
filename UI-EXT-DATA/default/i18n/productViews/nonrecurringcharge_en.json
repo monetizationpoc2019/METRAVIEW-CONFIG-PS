@@ -1,0 +1,48 @@
+{"mt_config": {
+    "language_code": "US",
+    "locale_space": {
+        "name": "metratech.com/nonrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "Non-Recurring Charge",
+                "Name": "metratech.com/nonrecurringcharge"
+            },
+            {
+                "Value": "Event",
+                "Name": "metratech.com/nonrecurringcharge/NRCEventType"
+            },
+            {
+                "Value": "Non-Recurring Charge Interval End",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalEnd"
+            },
+            {
+                "Value": "Non-Recurring Charge Interval Start",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalStart"
+            },
+            {
+                "Value": "Non-Recurring Charge Subscription Interval End",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Non-Recurring Charge Subscription Interval Start",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionStart"
+            },
+            {
+                "Value": "Non-Recurring Charge Interval End",
+                "Name": "metratech.com/NRCIntervalEnd"
+            },
+            {
+                "Value": "Non-Recurring Charge Interval Start",
+                "Name": "metratech.com/NRCIntervalStart"
+            },
+            {
+                "Value": "Non-Recurring Charge Subscription End",
+                "Name": "metratech.com/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Non-Recurring Charge Subscription Start",
+                "Name": "metratech.com/NRCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

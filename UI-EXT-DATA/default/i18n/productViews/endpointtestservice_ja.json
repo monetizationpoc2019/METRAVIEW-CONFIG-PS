@@ -1,0 +1,52 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/endpointtestservice",
+        "locale_entry": [
+            {
+                "Value": "エンドポイント テスト",
+                "Name": "metratech.com/endpointtestservice"
+            },
+            {
+                "Value": "団体の外部 ID",
+                "Name": "metratech.com/endpointtestservice/CorporateLogin"
+            },
+            {
+                "Value": "団体の外部ネームスペース",
+                "Name": "metratech.com/endpointtestservice/CorporateNamespace"
+            },
+            {
+                "Value": "十進プロパティ #1",
+                "Name": "metratech.com/endpointtestservice/DecProp1"
+            },
+            {
+                "Value": "十進プロパティ #2",
+                "Name": "metratech.com/endpointtestservice/DecProp2"
+            },
+            {
+                "Value": "十進プロパティ #3",
+                "Name": "metratech.com/endpointtestservice/DecProp3"
+            },
+            {
+                "Value": "内容",
+                "Name": "metratech.com/endpointtestservice/description"
+            },
+            {
+                "Value": "エンドポイントの外部 ID",
+                "Name": "metratech.com/endpointtestservice/EndpointLogin"
+            },
+            {
+                "Value": "エンドポイントの外部ネームスペース",
+                "Name": "metratech.com/endpointtestservice/EndpointNamespace"
+            },
+            {
+                "Value": "時間",
+                "Name": "metratech.com/endpointtestservice/time"
+            },
+            {
+                "Value": "単位",
+                "Name": "metratech.com/endpointtestservice/units"
+            }
+        ]
+    }
+}}

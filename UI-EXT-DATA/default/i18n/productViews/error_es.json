@@ -1,0 +1,76 @@
+{"mt_config": {
+    "language_code": "es",
+    "locale_space": {
+        "name": "pipeline/error",
+        "locale_entry": [
+            {
+                "Value": "Errores de sistema",
+                "Name": "pipeline/error"
+            },
+            {
+                "Value": "Código",
+                "Name": "pipeline/error/Code"
+            },
+            {
+                "Value": "Mensajes de error",
+                "Name": "pipeline/error/ErrorMessage"
+            },
+            {
+                "Value": "ID compuesto de fallo",
+                "Name": "pipeline/error/FailureCompoundID"
+            },
+            {
+                "Value": "ID del fallo",
+                "Name": "pipeline/error/FailureID"
+            },
+            {
+                "Value": "Nombre de servicio del fallo",
+                "Name": "pipeline/error/FailureServiceName"
+            },
+            {
+                "Value": "Hora del fallo",
+                "Name": "pipeline/error/FailureTime"
+            },
+            {
+                "Value": "Línea",
+                "Name": "pipeline/error/Line"
+            },
+            {
+                "Value": "Hora medida",
+                "Name": "pipeline/error/MeteredTime"
+            },
+            {
+                "Value": "Forma",
+                "Name": "pipeline/error/Method"
+            },
+            {
+                "Value": "Módulo",
+                "Name": "pipeline/error/Module"
+            },
+            {
+                "Value": "Complemento",
+                "Name": "pipeline/error/PlugIn"
+            },
+            {
+                "Value": "ID posible de cuenta",
+                "Name": "pipeline/error/PossibleAccountID"
+            },
+            {
+                "Value": "Remitente",
+                "Name": "pipeline/error/Sender"
+            },
+            {
+                "Value": "Nombre de la fase",
+                "Name": "pipeline/error/StageName"
+            },
+            {
+                "Value": "Provincia",
+                "Name": "pipeline/error/State"
+            },
+            {
+                "Value": "Lote",
+                "Name": "pipeline/error/tx_batch"
+            }
+        ]
+    }
+}}

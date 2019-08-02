@@ -1,0 +1,52 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/ServiceEndpoint",
+        "locale_entry": [
+            {
+                "Value": "AddIDMapping",
+                "Name": "metratech.com/ServiceEndpoint/Operation/AddIDMapping"
+            },
+            {
+                "Value": "接続",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Connect"
+            },
+            {
+                "Value": "作成",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Create"
+            },
+            {
+                "Value": "CreateAndConnect",
+                "Name": "metratech.com/ServiceEndpoint/Operation/CreateAndConnect"
+            },
+            {
+                "Value": "切断",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Disconnect"
+            },
+            {
+                "Value": "DisconnectAndEnd",
+                "Name": "metratech.com/ServiceEndpoint/Operation/DisconnectAndEnd"
+            },
+            {
+                "Value": "運用/移動",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Move"
+            },
+            {
+                "Value": "RemoveIDMapping",
+                "Name": "metratech.com/ServiceEndpoint/Operation/RemoveIDMapping"
+            },
+            {
+                "Value": "UpdateEffectiveDate",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateEffectiveDate"
+            },
+            {
+                "Value": "UpdateExtendedProperties",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateExtendedProperties"
+            },
+            {
+                "Value": "UpdateIDMapping",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateIDMapping"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,20 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "metratech.com/ProductCatalog",
+        "locale_entry": [
+            {
+                "Value": "Elément à prix composé",
+                "Name": "metratech.com/ProductCatalog/PriceAbleItem"
+            },
+            {
+                "Value": "Offre produit",
+                "Name": "metratech.com/ProductCatalog/ProductOffering"
+            },
+            {
+                "Value": "Fred Test",
+                "Name": "metratech.com/ProductCatalog/Test"
+            }
+        ]
+    }
+}}

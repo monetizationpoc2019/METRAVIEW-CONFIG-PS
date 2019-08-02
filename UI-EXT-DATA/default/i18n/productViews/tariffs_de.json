@@ -1,0 +1,20 @@
+{"mt_config": {
+    "language_code": "DE",
+    "locale_space": {
+        "name": "metratech.com/tariffs",
+        "locale_entry": [
+            {
+                "Value": "Tarif-ID",
+                "Name": "metratech.com/tariffs/TariffID"
+            },
+            {
+                "Value": "ConferenceExpress",
+                "Name": "metratech.com/tariffs/TariffID/ConferenceExpress"
+            },
+            {
+                "Value": "Standard",
+                "Name": "metratech.com/tariffs/TariffID/Default"
+            }
+        ]
+    }
+}}

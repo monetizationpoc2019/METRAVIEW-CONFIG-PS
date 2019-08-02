@@ -1,0 +1,24 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/calendar",
+        "locale_entry": [
+            {
+                "Value": "祝日",
+                "Name": "metratech.com/calendar/CalendarCode/Holiday"
+            },
+            {
+                "Value": "オフピーク",
+                "Name": "metratech.com/calendar/CalendarCode/Off-Peak"
+            },
+            {
+                "Value": "ピーク",
+                "Name": "metratech.com/calendar/CalendarCode/Peak"
+            },
+            {
+                "Value": "週末",
+                "Name": "metratech.com/calendar/CalendarCode/Weekend"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,72 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "metratech.com/AddCharge",
+        "locale_entry": [
+            {
+                "Value": "Zusätzliche Gebühr",
+                "Name": "metratech.com/AddCharge"
+            },
+            {
+                "Value": "Gebührendatum",
+                "Name": "metratech.com/AddCharge/ChargeDate"
+            },
+            {
+                "Value": "Gebührenart",
+                "Name": "metratech.com/AddCharge/chargetype"
+            },
+            {
+                "Value": "Andere",
+                "Name": "metratech.com/addCharge/ChargeType/Other"
+            },
+            {
+                "Value": "Kundendienstmitarbeiter-ID",
+                "Name": "metratech.com/AddCharge/CsrID"
+            },
+            {
+                "Value": "Buchungscode",
+                "Name": "metratech.com/AddCharge/generalledgercode"
+            },
+            {
+                "Value": "Interne Anmerkungen",
+                "Name": "metratech.com/AddCharge/internalcomment"
+            },
+            {
+                "Value": "Anmerkung",
+                "Name": "metratech.com/AddCharge/invoicecomment"
+            },
+            {
+                "Value": "Aussteller",
+                "Name": "metratech.com/AddCharge/issuer"
+            },
+            {
+                "Value": "Namespace",
+                "Name": "metratech.com/AddCharge/NameSpace"
+            },
+            {
+                "Value": "Gebührenbeschreibung",
+                "Name": "metratech.com/AddCharge/otherchargetypecomment"
+            },
+            {
+                "Value": "Zahler",
+                "Name": "metratech.com/AddCharge/Payer"
+            },
+            {
+                "Value": "Verknüpfung mit voriger Gebühr",
+                "Name": "metratech.com/AddCharge/relatetopreviouscharge"
+            },
+            {
+                "Value": "Flag 'Mit Konto-ID auflösen'",
+                "Name": "metratech.com/AddCharge/ResolveWithAccountIDFlag"
+            },
+            {
+                "Value": "Steuerbetrag",
+                "Name": "metratech.com/AddCharge/taxamount"
+            },
+            {
+                "Value": "Steuerpflichtig",
+                "Name": "metratech.com/AddCharge/taxtype"
+            }
+        ]
+    }
+}}

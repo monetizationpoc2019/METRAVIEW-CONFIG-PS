@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/SubscriberCreditAccountRequestReason",
+        "locale_entry": [
+            {
+                "Value": "サービスの悪さ",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/BadService"
+            },
+            {
+                "Value": "通話の切断",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/DroppedCall"
+            },
+            {
+                "Value": "一般的な不満",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/GeneralDissatisfaction"
+            },
+            {
+                "Value": "その他",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/Other"
+            },
+            {
+                "Value": "接続が悪い",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/PoorConnection"
+            }
+        ]
+    }
+}}

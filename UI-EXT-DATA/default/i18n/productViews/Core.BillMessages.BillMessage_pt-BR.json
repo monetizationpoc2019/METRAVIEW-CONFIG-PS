@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "BusinessEntity/Core.BillMessages.BillMessage",
+        "locale_entry": [
+            {
+                "Value": "Código da mensagem",
+                "Name": "BusinessEntity/Core.BillMessages.BillMessage/MessageCode/Label"
+            },
+            {
+                "Value": "Formato da mensagem",
+                "Name": "BusinessEntity/Core.BillMessages.BillMessage/MessageFormat/Label"
+            },
+            {
+                "Value": "Texto da mensagem",
+                "Name": "BusinessEntity/Core.BillMessages.BillMessage/MessageText/Label"
+            },
+            {
+                "Value": "Tipo da mensagem",
+                "Name": "BusinessEntity/Core.BillMessages.BillMessage/MessageType/Label"
+            },
+            {
+                "Value": "Idioma",
+                "Name": "BusinessEntity/Core.BillMessages.BillMessage/Language/Label"
+            }
+        ]
+    }
+}}

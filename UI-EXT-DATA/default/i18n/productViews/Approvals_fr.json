@@ -1,0 +1,68 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "Approvals",
+        "locale_entry": [
+            {
+                "Value": "Mise à jour des propriétés du compte",
+                "Name": "Approvals/ChangeType/AccountUpdate"
+            },
+            {
+                "Value": "Mise à jour des règles de planification des taux",
+                "Name": "Approvals/ChangeType/RateUpdate"
+            },
+            {
+                "Value": "En attente",
+                "Name": "Approvals/ChangeState/Pending"
+            },
+            {
+                "Value": "Approuvé, en attente d'application",
+                "Name": "Approvals/ChangeState/ApprovedWaitingToBeApplied"
+            },
+            {
+                "Value": "Application impossible",
+                "Name": "Approvals/ChangeState/FailedToApply"
+            },
+            {
+                "Value": "Appliqué",
+                "Name": "Approvals/ChangeState/Applied"
+            },
+            {
+                "Value": "Ignoré",
+                "Name": "Approvals/ChangeState/Dismissed"
+            },
+            {
+                "Value": "Mise à jour de la date de l'offre produit",
+                "Name": "Approvals/ChangeType/ProductOfferingUpdate"
+            },
+            {
+                "Value": "Nouvel abonnement",
+                "Name": "Approvals/ChangeType/Subscription.Add"
+            },
+            {
+                "Value": "Mise à jour de l'abonnement",
+                "Name": "Approvals/ChangeType/Subscription.Update"
+            },
+            {
+                "Value": "Abonnement groupé : ajouter une hiérarchie de membres",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMemberHierarchies"
+            },
+            {
+                "Value": "Abonnement groupé : ajouter un membre",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMembers"
+            },
+            {
+                "Value": "Abonnement groupé : désabonner un membre",
+                "Name": "Approvals/ChangeType/GroupSubscription.UnsubscribeMembers"
+            },
+            {
+                "Value": "Abonnement groupé : mettre à jour un membre",
+                "Name": "Approvals/ChangeType/GroupSubscription.UpdateMember"
+            },
+            {
+                "Value": "Abonnement groupé : supprimer un membre",
+                "Name": "Approvals/ChangeType/GroupSubscription.DeleteMembers"
+            }
+        ]
+    }
+}}

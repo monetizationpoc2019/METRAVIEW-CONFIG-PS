@@ -1,0 +1,48 @@
+{"mt_config": {
+    "language_code": "es",
+    "locale_space": {
+        "name": "metratech.com/nonrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "Cargo no recurrente",
+                "Name": "metratech.com/nonrecurringcharge"
+            },
+            {
+                "Value": "Evento",
+                "Name": "metratech.com/nonrecurringcharge/NRCEventType"
+            },
+            {
+                "Value": "Fin del intervalo de cargo no recurrente",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalEnd"
+            },
+            {
+                "Value": "Inicio del intervalo de cargo no recurrente",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalStart"
+            },
+            {
+                "Value": "Fin del intervalo de la suscripción a cargo no recurrente",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Inicio del intervalo de suscripción a cargo no recurrente",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionStart"
+            },
+            {
+                "Value": "Fin del intervalo de cargo no recurrente",
+                "Name": "metratech.com/NRCIntervalEnd"
+            },
+            {
+                "Value": "Inicio del intervalo de cargo no recurrente",
+                "Name": "metratech.com/NRCIntervalStart"
+            },
+            {
+                "Value": "Fin de la suscripción a cargo no recurrente",
+                "Name": "metratech.com/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Inicio de la suscripción a cargo no recurrente",
+                "Name": "metratech.com/NRCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,24 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "metratech.com/calendar",
+        "locale_entry": [
+            {
+                "Value": "Vacances",
+                "Name": "metratech.com/calendar/CalendarCode/Holiday"
+            },
+            {
+                "Value": "Période creuse",
+                "Name": "metratech.com/calendar/CalendarCode/Off-Peak"
+            },
+            {
+                "Value": "Période d'affluence",
+                "Name": "metratech.com/calendar/CalendarCode/Peak"
+            },
+            {
+                "Value": "Week-end",
+                "Name": "metratech.com/calendar/CalendarCode/Weekend"
+            }
+        ]
+    }
+}}

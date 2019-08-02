@@ -1,0 +1,40 @@
+{"mt_config": {
+    "language_code": "da",
+    "locale_space": {
+        "name": "metratech.com/billingcycle",
+        "locale_entry": [
+            {
+                "Value": "metratech.com/billingcycle/UsageCycleType/Annually",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Annually"
+            },
+            {
+                "Value": "metratech.com/billingcycle/UsageCycleType/Bi-weekly",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Bi-weekly"
+            },
+            {
+                "Value": "metratech.com/billingcycle/UsageCycleType/Daily",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Daily"
+            },
+            {
+                "Value": "metratech.com/billingcycle/UsageCycleType/Monthly",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Monthly"
+            },
+            {
+                "Value": "metratech.com/billingcycle/UsageCycleType/Quarterly",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Quarterly"
+            },
+            {
+                "Value": "metratech.com/billingcycle/UsageCycleType/Semi-Annually",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Semi-Annually"
+            },
+            {
+                "Value": "metratech.com/billingcycle/UsageCycleType/Semi-monthly",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Semi-monthly"
+            },
+            {
+                "Value": "metratech.com/billingcycle/UsageCycleType/Weekly",
+                "Name": "metratech.com/billingcycle/UsageCycleType/Weekly"
+            }
+        ]
+    }
+}}

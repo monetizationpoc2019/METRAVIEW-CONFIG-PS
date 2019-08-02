@@ -1,0 +1,52 @@
+{"mt_config": {
+    "language_code": "gb",
+    "locale_space": {
+        "name": "metratech.com/ServiceEndpoint",
+        "locale_entry": [
+            {
+                "Value": "AddIDMapping",
+                "Name": "metratech.com/ServiceEndpoint/Operation/AddIDMapping"
+            },
+            {
+                "Value": "Connect",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Connect"
+            },
+            {
+                "Value": "Create",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Create"
+            },
+            {
+                "Value": "CreateAndConnect",
+                "Name": "metratech.com/ServiceEndpoint/Operation/CreateAndConnect"
+            },
+            {
+                "Value": "Disconnect",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Disconnect"
+            },
+            {
+                "Value": "DisconnectAndEnd",
+                "Name": "metratech.com/ServiceEndpoint/Operation/DisconnectAndEnd"
+            },
+            {
+                "Value": "Operation/Move",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Move"
+            },
+            {
+                "Value": "RemoveIDMapping",
+                "Name": "metratech.com/ServiceEndpoint/Operation/RemoveIDMapping"
+            },
+            {
+                "Value": "UpdateEffectiveDate",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateEffectiveDate"
+            },
+            {
+                "Value": "UpdateExtendedProperties",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateExtendedProperties"
+            },
+            {
+                "Value": "UpdateIDMapping",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateIDMapping"
+            }
+        ]
+    }
+}}

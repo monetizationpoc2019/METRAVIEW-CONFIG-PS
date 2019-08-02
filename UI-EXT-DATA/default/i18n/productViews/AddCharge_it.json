@@ -1,0 +1,72 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "metratech.com/AddCharge",
+        "locale_entry": [
+            {
+                "Value": "Addebito aggiuntivo",
+                "Name": "metratech.com/AddCharge"
+            },
+            {
+                "Value": "Data addebito",
+                "Name": "metratech.com/AddCharge/ChargeDate"
+            },
+            {
+                "Value": "Tipo di addebito",
+                "Name": "metratech.com/AddCharge/chargetype"
+            },
+            {
+                "Value": "Altro",
+                "Name": "metratech.com/addCharge/ChargeType/Other"
+            },
+            {
+                "Value": "ID RSC",
+                "Name": "metratech.com/AddCharge/CsrID"
+            },
+            {
+                "Value": "Codice contabile",
+                "Name": "metratech.com/AddCharge/generalledgercode"
+            },
+            {
+                "Value": "Note interne",
+                "Name": "metratech.com/AddCharge/internalcomment"
+            },
+            {
+                "Value": "Commento",
+                "Name": "metratech.com/AddCharge/invoicecomment"
+            },
+            {
+                "Value": "Emittente",
+                "Name": "metratech.com/AddCharge/issuer"
+            },
+            {
+                "Value": "Spazio nome",
+                "Name": "metratech.com/AddCharge/NameSpace"
+            },
+            {
+                "Value": "Descrizione addebito",
+                "Name": "metratech.com/AddCharge/otherchargetypecomment"
+            },
+            {
+                "Value": "Pagatore",
+                "Name": "metratech.com/AddCharge/Payer"
+            },
+            {
+                "Value": "Collega ad addebito precedente",
+                "Name": "metratech.com/AddCharge/relatetopreviouscharge"
+            },
+            {
+                "Value": "Flag Risoluzione con ID conto",
+                "Name": "metratech.com/AddCharge/ResolveWithAccountIDFlag"
+            },
+            {
+                "Value": "Importo imposte",
+                "Name": "metratech.com/AddCharge/taxamount"
+            },
+            {
+                "Value": "Soggetto a imposta",
+                "Name": "metratech.com/AddCharge/taxtype"
+            }
+        ]
+    }
+}}

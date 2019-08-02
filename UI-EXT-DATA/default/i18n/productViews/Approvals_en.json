@@ -1,0 +1,68 @@
+{"mt_config": {
+    "language_code": "us",
+    "locale_space": {
+        "name": "Approvals",
+        "locale_entry": [
+            {
+                "Value": "Account Properties Update",
+                "Name": "Approvals/ChangeType/AccountUpdate"
+            },
+            {
+                "Value": "Rate Schedule Rules Update",
+                "Name": "Approvals/ChangeType/RateUpdate"
+            },
+            {
+                "Value": "Pending",
+                "Name": "Approvals/ChangeState/Pending"
+            },
+            {
+                "Value": "Approved Waiting to Be Applied",
+                "Name": "Approvals/ChangeState/ApprovedWaitingToBeApplied"
+            },
+            {
+                "Value": "Failed to Apply",
+                "Name": "Approvals/ChangeState/FailedToApply"
+            },
+            {
+                "Value": "Applied",
+                "Name": "Approvals/ChangeState/Applied"
+            },
+            {
+                "Value": "Dismissed",
+                "Name": "Approvals/ChangeState/Dismissed"
+            },
+            {
+                "Value": "Product Offering Date Update",
+                "Name": "Approvals/ChangeType/ProductOfferingUpdate"
+            },
+            {
+                "Value": "New Subscription",
+                "Name": "Approvals/ChangeType/Subscription.Add"
+            },
+            {
+                "Value": "Subscription Update",
+                "Name": "Approvals/ChangeType/Subscription.Update"
+            },
+            {
+                "Value": "Group Subscription: Add Member Hierarchy",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMemberHierarchies"
+            },
+            {
+                "Value": "Group Subscription: Add Member",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMembers"
+            },
+            {
+                "Value": "Group Subscription: Unsubscribe Member",
+                "Name": "Approvals/ChangeType/GroupSubscription.UnsubscribeMembers"
+            },
+            {
+                "Value": "Group Subscription: Update Member",
+                "Name": "Approvals/ChangeType/GroupSubscription.UpdateMember"
+            },
+            {
+                "Value": "Group Subscription: Delete Member",
+                "Name": "Approvals/ChangeType/GroupSubscription.DeleteMembers"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,20 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "BusinessEntity/Core.MR.MachineRole",
+        "locale_entry": [
+            {
+                "Value": "MachineRole",
+                "Name": "BusinessEntity/Core.MR.MachineRole/MachineRole"
+            },
+            {
+                "Value": "Name",
+                "Name": "BusinessEntity/Core.MR.MachineRole/Name/Label"
+            },
+            {
+                "Value": "Description",
+                "Name": "BusinessEntity/Core.MR.MachineRole/Description/Label"
+            }
+        ]
+    }
+}}

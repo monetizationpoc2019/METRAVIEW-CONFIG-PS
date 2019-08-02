@@ -1,0 +1,48 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "metratech.com/nonrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "Frais non récurrents",
+                "Name": "metratech.com/nonrecurringcharge"
+            },
+            {
+                "Value": "Événement",
+                "Name": "metratech.com/nonrecurringcharge/NRCEventType"
+            },
+            {
+                "Value": "Fin de l'intervalle des frais non-récurrents",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalEnd"
+            },
+            {
+                "Value": "Début de l'intervalle des frais non-récurrents",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalStart"
+            },
+            {
+                "Value": "Fin de l'intervalle d'abonnement aux frais non-récurrents",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Début de l'intervalle d'abonnement aux frais non-récurrents",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionStart"
+            },
+            {
+                "Value": "Fin de l'intervalle des frais non-récurrents",
+                "Name": "metratech.com/NRCIntervalEnd"
+            },
+            {
+                "Value": "Début de l'intervalle des frais non-récurrents",
+                "Name": "metratech.com/NRCIntervalStart"
+            },
+            {
+                "Value": "Fin de l'abonnement aux frais non-récurrents",
+                "Name": "metratech.com/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Début de l'abonnement aux frais non-récurrents",
+                "Name": "metratech.com/NRCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

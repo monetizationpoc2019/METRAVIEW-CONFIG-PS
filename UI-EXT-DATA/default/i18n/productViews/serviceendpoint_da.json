@@ -1,0 +1,52 @@
+{"mt_config": {
+    "language_code": "da",
+    "locale_space": {
+        "name": "metratech.com/ServiceEndpoint",
+        "locale_entry": [
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/AddIDMapping",
+                "Name": "metratech.com/ServiceEndpoint/Operation/AddIDMapping"
+            },
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/Connect",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Connect"
+            },
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/Create",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Create"
+            },
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/CreateAndConnect",
+                "Name": "metratech.com/ServiceEndpoint/Operation/CreateAndConnect"
+            },
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/Disconnect",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Disconnect"
+            },
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/DisconnectAndEnd",
+                "Name": "metratech.com/ServiceEndpoint/Operation/DisconnectAndEnd"
+            },
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/Move",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Move"
+            },
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/RemoveIDMapping",
+                "Name": "metratech.com/ServiceEndpoint/Operation/RemoveIDMapping"
+            },
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/UpdateEffectiveDate",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateEffectiveDate"
+            },
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/UpdateExtendedProperties",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateExtendedProperties"
+            },
+            {
+                "Value": "metratech.com/ServiceEndpoint/Operation/UpdateIDMapping",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateIDMapping"
+            }
+        ]
+    }
+}}

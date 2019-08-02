@@ -1,0 +1,336 @@
+{"mt_config": {
+    "language_code": "es",
+    "locale_space": {
+        "name": "metratech.com",
+        "locale_entry": [
+            {
+                "Value": "Factura en papel",
+                "Name": "metratech.com/accountcreation/InvoiceMethod/Paper Invoice"
+            },
+            {
+                "Value": "ID de cuenta",
+                "Name": "metratech.com/AccountID"
+            },
+            {
+                "Value": "Grupo por código de contabilidad",
+                "Name": "metratech.com/AccountingCodeView"
+            },
+            {
+                "Value": "Importe",
+                "Name": "metratech.com/Amount"
+            },
+            {
+                "Value": "Importe (impuestos incluidos)",
+                "Name": "metratech.com/AmountWithTax"
+            },
+            {
+                "Value": "MetraCare",
+                "Name": "metratech.com/audit/enmApplicationID/MAM"
+            },
+            {
+                "Value": "MPS",
+                "Name": "metratech.com/audit/enmApplicationID/MPS"
+            },
+            {
+                "Value": "Desconocido",
+                "Name": "metratech.com/audit/enmApplicationID/UNKNOWN"
+            },
+            {
+                "Value": "Añadir",
+                "Name": "metratech.com/audit/enmAuditOperation/Add"
+            },
+            {
+                "Value": "Eliminar",
+                "Name": "metratech.com/audit/enmAuditOperation/Delete"
+            },
+            {
+                "Value": "Actualizar",
+                "Name": "metratech.com/audit/enmAuditOperation/Update"
+            },
+            {
+                "Value": "FOOTER",
+                "Name": "metratech.com/BillMessageType/FOOTER"
+            },
+            {
+                "Value": "HEADER",
+                "Name": "metratech.com/BillMessageType/HEADER"
+            },
+            {
+                "Value": "INSERT",
+                "Name": "metratech.com/BillMessageType/INSERT"
+            },
+            {
+                "Value": "OTHER",
+                "Name": "metratech.com/BillMessageType/OTHER"
+            },
+            {
+                "Value": "Importe del impuesto municipal",
+                "Name": "metratech.com/CountyTaxAmount"
+            },
+            {
+                "Value": "American Express",
+                "Name": "metratech.com/CreditCardType/American Express"
+            },
+            {
+                "Value": "Diners Club",
+                "Name": "metratech.com/CreditCardType/Diners Club"
+            },
+            {
+                "Value": "Discover",
+                "Name": "metratech.com/CreditCardType/Discover"
+            },
+            {
+                "Value": "JCB",
+                "Name": "metratech.com/CreditCardType/JCB"
+            },
+            {
+                "Value": "Maestro",
+                "Name": "metratech.com/CreditCardType/Maestro"
+            },
+            {
+                "Value": "Master Card",
+                "Name": "metratech.com/CreditCardType/Master Card"
+            },
+            {
+                "Value": "MasterCard",
+                "Name": "metratech.com/CreditCardType/MasterCard"
+            },
+            {
+                "Value": "None",
+                "Name": "metratech.com/CreditCardType/None"
+            },
+            {
+                "Value": "Visa",
+                "Name": "metratech.com/CreditCardType/Visa"
+            },
+            {
+                "Value": "Divisa",
+                "Name": "metratech.com/Currency"
+            },
+            {
+                "Value": "Importe",
+                "Name": "metratech.com/DisplayAmount"
+            },
+            {
+                "Value": "Importe del impuesto federal",
+                "Name": "metratech.com/FederalTaxAmount"
+            },
+            {
+                "Value": "Grupo por nombre del líder",
+                "Name": "metratech.com/GroupByLeaderNameView"
+            },
+            {
+                "Value": "ID de intervalo",
+                "Name": "metratech.com/IntervalID"
+            },
+            {
+                "Value": "Importe del impuesto local",
+                "Name": "metratech.com/LocalTaxAmount"
+            },
+            {
+                "Value": "Viernes",
+                "Name": "metratech.com/mam/DayOfWeek/Friday"
+            },
+            {
+                "Value": "Lunes",
+                "Name": "metratech.com/mam/DayOfWeek/Monday"
+            },
+            {
+                "Value": "Sábado",
+                "Name": "metratech.com/mam/DayOfWeek/Saturday"
+            },
+            {
+                "Value": "Domingo",
+                "Name": "metratech.com/mam/DayOfWeek/Sunday"
+            },
+            {
+                "Value": "Jueves",
+                "Name": "metratech.com/mam/DayOfWeek/Thursday"
+            },
+            {
+                "Value": "Martes",
+                "Name": "metratech.com/mam/DayOfWeek/Tuesday"
+            },
+            {
+                "Value": "Miércoles",
+                "Name": "metratech.com/mam/DayOfWeek/Wednesday"
+            },
+            {
+                "Value": "Añadir",
+                "Name": "metratech.com/Operation/Add"
+            },
+            {
+                "Value": "Eliminar",
+                "Name": "metratech.com/Operation/Delete"
+            },
+            {
+                "Value": "Actualizar",
+                "Name": "metratech.com/Operation/Update"
+            },
+            {
+                "Value": "Otro importe del impuesto",
+                "Name": "metratech.com/OtherTaxAmount"
+            },
+            {
+                "Value": "Suscriptor",
+                "Name": "metratech.com/PayeeDisplayName"
+            },
+            {
+                "Value": "Ingeniero",
+                "Name": "metratech.com/Position/Engineer"
+            },
+            {
+                "Value": "Ejecutivo",
+                "Name": "metratech.com/Position/Executive"
+            },
+            {
+                "Value": "Gestor",
+                "Name": "metratech.com/Position/Manager"
+            },
+            {
+                "Value": "Importe del ajuste posterior a la facturación",
+                "Name": "metratech.com/PostbillAdjustmentAmount"
+            },
+            {
+                "Value": "Importe del ajuste previo a la facturación",
+                "Name": "metratech.com/PrebillAdjustmentAmount"
+            },
+            {
+                "Value": "Actualized",
+                "Name": "metratech.com/QuoteStatus/Actualized"
+            },
+            {
+                "Value": "Complete",
+                "Name": "metratech.com/QuoteStatus/Complete"
+            },
+            {
+                "Value": "Actualized",
+                "Name": "metratech.com/QuoteStatus/Converted"
+            },
+            {
+                "Value": "Failed",
+                "Name": "metratech.com/QuoteStatus/Failed"
+            },
+            {
+                "Value": "InProgress",
+                "Name": "metratech.com/QuoteStatus/InProgress"
+            },
+            {
+                "Value": "None",
+                "Name": "metratech.com/QuoteStatus/None"
+            },
+            {
+                "Value": "Desarrollo de la cuenta",
+                "Name": "metratech.com/SaleForceRelationship/Account Development"
+            },
+            {
+                "Value": "Ejecutivo de cuenta",
+                "Name": "metratech.com/SaleForceRelationship/Account Executive"
+            },
+            {
+                "Value": "Gestor de canal",
+                "Name": "metratech.com/SaleForceRelationship/Channel Manager"
+            },
+            {
+                "Value": "Patrocinador ejecutivo",
+                "Name": "metratech.com/SaleForceRelationship/Executive Sponsor"
+            },
+            {
+                "Value": "Soporte para operaciones",
+                "Name": "metratech.com/SaleForceRelationship/Operations Support"
+            },
+            {
+                "Value": "Gestor del programa",
+                "Name": "metratech.com/SaleForceRelationship/Program Manager"
+            },
+            {
+                "Value": "Gestor de proyectos",
+                "Name": "metratech.com/SaleForceRelationship/Project Manager"
+            },
+            {
+                "Value": "Agente de ventas",
+                "Name": "metratech.com/SaleForceRelationship/Sales Agent"
+            },
+            {
+                "Value": "Soporte técnico de ventas",
+                "Name": "metratech.com/SaleForceRelationship/Technical Sales Support"
+            },
+            {
+                "Value": "ID de sesión",
+                "Name": "metratech.com/SessionID"
+            },
+            {
+                "Value": "Tipo de sesión",
+                "Name": "metratech.com/SessionType"
+            },
+            {
+                "Value": "Mostrar todas las conexiones",
+                "Name": "metratech.com/ShowAllConnectionsView"
+            },
+            {
+                "Value": "Importe del impuesto estatal",
+                "Name": "metratech.com/StateTaxAmount"
+            },
+            {
+                "Value": "BadService",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/BadService"
+            },
+            {
+                "Value": "DroppedCall",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/DroppedCall"
+            },
+            {
+                "Value": "GeneralDissatisfaction",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/GeneralDissatisfaction"
+            },
+            {
+                "Value": "Other",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/Other"
+            },
+            {
+                "Value": "PoorConnection",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/PoorConnection"
+            },
+            {
+                "Value": "APPROVED",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/APPROVED"
+            },
+            {
+                "Value": "DENIED",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/DENIED"
+            },
+            {
+                "Value": "PENDING",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/PENDING"
+            },
+            {
+                "Value": "Importe del impuesto",
+                "Name": "metratech.com/TaxAmount"
+            },
+            {
+                "Value": "Marca horaria",
+                "Name": "metratech.com/Timestamp"
+            },
+            {
+                "Value": "InicioDistribución",
+                "Name": "metratech.com/TransactionTypes/BeginDistributed"
+            },
+            {
+                "Value": "InicioLocal",
+                "Name": "metratech.com/TransactionTypes/BeginLocal"
+            },
+            {
+                "Value": "Asignar",
+                "Name": "metratech.com/TransactionTypes/Commit"
+            },
+            {
+                "Value": "UnirDistribuido",
+                "Name": "metratech.com/TransactionTypes/JoinDistributed"
+            },
+            {
+                "Value": "Ver ID",
+                "Name": "metratech.com/ViewID"
+            }
+        ]
+    }
+}}

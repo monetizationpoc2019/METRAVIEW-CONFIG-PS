@@ -1,0 +1,76 @@
+{"mt_config": {
+    "language_code": "DE",
+    "locale_space": {
+        "name": "pipeline/error",
+        "locale_entry": [
+            {
+                "Value": "Systemfehler",
+                "Name": "pipeline/error"
+            },
+            {
+                "Value": "Code",
+                "Name": "pipeline/error/Code"
+            },
+            {
+                "Value": "Fehlermeldungen",
+                "Name": "pipeline/error/ErrorMessage"
+            },
+            {
+                "Value": "Fehler bei Kombinations-ID",
+                "Name": "pipeline/error/FailureCompoundID"
+            },
+            {
+                "Value": "Fehler-ID",
+                "Name": "pipeline/error/FailureID"
+            },
+            {
+                "Value": "Name des fehlerhaften Services",
+                "Name": "pipeline/error/FailureServiceName"
+            },
+            {
+                "Value": "Fehlerzeit",
+                "Name": "pipeline/error/FailureTime"
+            },
+            {
+                "Value": "Zeile",
+                "Name": "pipeline/error/Line"
+            },
+            {
+                "Value": "Gemessene Zeit",
+                "Name": "pipeline/error/MeteredTime"
+            },
+            {
+                "Value": "Verfahren",
+                "Name": "pipeline/error/Method"
+            },
+            {
+                "Value": "Modul",
+                "Name": "pipeline/error/Module"
+            },
+            {
+                "Value": "Plug-In",
+                "Name": "pipeline/error/PlugIn"
+            },
+            {
+                "Value": "Mögliche Konto-ID",
+                "Name": "pipeline/error/PossibleAccountID"
+            },
+            {
+                "Value": "Absender",
+                "Name": "pipeline/error/Sender"
+            },
+            {
+                "Value": "Stufenname",
+                "Name": "pipeline/error/StageName"
+            },
+            {
+                "Value": "Bundesland",
+                "Name": "pipeline/error/State"
+            },
+            {
+                "Value": "Stapel",
+                "Name": "pipeline/error/tx_batch"
+            }
+        ]
+    }
+}}

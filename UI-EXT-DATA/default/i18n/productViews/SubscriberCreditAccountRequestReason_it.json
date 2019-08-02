@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "metratech.com/SubscriberCreditAccountRequestReason",
+        "locale_entry": [
+            {
+                "Value": "Servizio scadente",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/BadService"
+            },
+            {
+                "Value": "Chiamata interrotta",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/DroppedCall"
+            },
+            {
+                "Value": "Insoddisfazione generale",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/GeneralDissatisfaction"
+            },
+            {
+                "Value": "Altro",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/Other"
+            },
+            {
+                "Value": "Connessione debole",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/PoorConnection"
+            }
+        ]
+    }
+}}

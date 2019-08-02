@@ -1,0 +1,48 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "metratech.com/nonrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "Einmalige Gebühr",
+                "Name": "metratech.com/nonrecurringcharge"
+            },
+            {
+                "Value": "Ereignis",
+                "Name": "metratech.com/nonrecurringcharge/NRCEventType"
+            },
+            {
+                "Value": "Ende des Intervalls für einmalige Gebühren",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalEnd"
+            },
+            {
+                "Value": "Beginn des Intervalls für einmalige Gebühren",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalStart"
+            },
+            {
+                "Value": "Intervallende der Nutzungsanmeldung mit einmaligen Gebühren",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Intervallbeginn der Nutzungsanmeldung mit einmaligen Gebühren",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionStart"
+            },
+            {
+                "Value": "Ende des Intervalls für einmalige Gebühren",
+                "Name": "metratech.com/NRCIntervalEnd"
+            },
+            {
+                "Value": "Beginn des Intervalls für einmalige Gebühren",
+                "Name": "metratech.com/NRCIntervalStart"
+            },
+            {
+                "Value": "Ende der Nutzungsanmeldung mit einmaligen Gebühren",
+                "Name": "metratech.com/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Beginn der Nutzungsanmeldung mit einmaligen Gebühren",
+                "Name": "metratech.com/NRCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

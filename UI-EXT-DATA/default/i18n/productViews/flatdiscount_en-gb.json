@@ -1,0 +1,44 @@
+{"mt_config": {
+    "language_code": "gb",
+    "locale_space": {
+        "name": "metratech.com/flatdiscount",
+        "locale_entry": [
+            {
+                "Value": "Flat Discount",
+                "Name": "metratech.com/flatdiscount"
+            },
+            {
+                "Value": "Discount Interval End Date",
+                "Name": "metratech.com/flatdiscount/DiscountIntervalEnd"
+            },
+            {
+                "Value": "Discount Interval Start Date",
+                "Name": "metratech.com/flatdiscount/DiscountIntervalStart"
+            },
+            {
+                "Value": "Discount Interval Subscription End",
+                "Name": "metratech.com/flatdiscount/DiscountIntervalSubEnd"
+            },
+            {
+                "Value": "Discount Interval Subscription Start",
+                "Name": "metratech.com/flatdiscount/DiscountIntervalSubStart"
+            },
+            {
+                "Value": "Flat Rate Qualifier",
+                "Name": "metratech.com/flatdiscount/FlatRateQualifier"
+            },
+            {
+                "Value": "Group Subscription",
+                "Name": "metratech.com/flatdiscount/GroupSubscriptionName"
+            },
+            {
+                "Value": "Subscription End",
+                "Name": "metratech.com/flatdiscount/SubscriptionEnd"
+            },
+            {
+                "Value": "Subscription Start",
+                "Name": "metratech.com/flatdiscount/SubscriptionStart"
+            }
+        ]
+    }
+}}

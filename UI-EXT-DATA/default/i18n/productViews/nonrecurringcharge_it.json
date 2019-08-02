@@ -1,0 +1,48 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "metratech.com/nonrecurringcharge",
+        "locale_entry": [
+            {
+                "Value": "Addebito non ricorrente",
+                "Name": "metratech.com/nonrecurringcharge"
+            },
+            {
+                "Value": "Evento",
+                "Name": "metratech.com/nonrecurringcharge/NRCEventType"
+            },
+            {
+                "Value": "Fine intervallo addebito non ricorrente",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalEnd"
+            },
+            {
+                "Value": "Inizio intervallo addebito non ricorrente",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalStart"
+            },
+            {
+                "Value": "Fine intervallo abbonamento con addebito non ricorrente",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Inizio intervallo abbonamento con addebito non ricorrente",
+                "Name": "metratech.com/nonrecurringcharge/NRCIntervalSubscriptionStart"
+            },
+            {
+                "Value": "Fine intervallo addebito non ricorrente",
+                "Name": "metratech.com/NRCIntervalEnd"
+            },
+            {
+                "Value": "Inizio intervallo addebito non ricorrente",
+                "Name": "metratech.com/NRCIntervalStart"
+            },
+            {
+                "Value": "Fine abbonamento con addebito non ricorrente",
+                "Name": "metratech.com/NRCIntervalSubscriptionEnd"
+            },
+            {
+                "Value": "Inizio abbonamento con addebito non ricorrente",
+                "Name": "metratech.com/NRCIntervalSubscriptionStart"
+            }
+        ]
+    }
+}}

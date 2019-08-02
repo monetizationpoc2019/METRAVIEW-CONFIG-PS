@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "metratech.com/testparent",
+        "locale_entry": [
+            {
+                "Value": "Übergeordnetes Element testen",
+                "Name": "metratech.com/testparent"
+            },
+            {
+                "Value": "Beschreibung",
+                "Name": "metratech.com/testparent/description"
+            },
+            {
+                "Value": "Zeit",
+                "Name": "metratech.com/testparent/time"
+            },
+            {
+                "Value": "Gesamtbetrag",
+                "Name": "metratech.com/testparent/totalamount"
+            },
+            {
+                "Value": "Summe der Einheiten",
+                "Name": "metratech.com/testparent/totalunits"
+            }
+        ]
+    }
+}}

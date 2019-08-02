@@ -1,0 +1,64 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "metratech.com/balanceadjustments",
+        "locale_entry": [
+            {
+                "Value": "ACH",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/ACH"
+            },
+            {
+                "Value": "Bar",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Cash"
+            },
+            {
+                "Value": "Scheck",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Check"
+            },
+            {
+                "Value": "Kreditkarte",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/CreditCard"
+            },
+            {
+                "Value": "Direct Debit",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/DirectDebit"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/InterCompany",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/InterCompany"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/Lockbox",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Lockbox"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/TerminalCreditCard",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/TerminalCreditCard"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/Wholesale",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Wholesale"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/WireTransfer",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/WireTransfer"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/WriteOff",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/WriteOff"
+            },
+            {
+                "Value": "Saldo auf Zahler verschoben",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/1"
+            },
+            {
+                "Value": "Saldo von Zahlungsempfänger verschoben",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/2"
+            },
+            {
+                "Value": "Andere",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/3"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,72 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/AddCharge",
+        "locale_entry": [
+            {
+                "Value": "追加料金",
+                "Name": "metratech.com/AddCharge"
+            },
+            {
+                "Value": "課金日",
+                "Name": "metratech.com/AddCharge/ChargeDate"
+            },
+            {
+                "Value": "料金種別",
+                "Name": "metratech.com/AddCharge/chargetype"
+            },
+            {
+                "Value": "その他",
+                "Name": "metratech.com/addCharge/ChargeType/Other"
+            },
+            {
+                "Value": "対応窓口 ID",
+                "Name": "metratech.com/AddCharge/CsrID"
+            },
+            {
+                "Value": "勘定コード",
+                "Name": "metratech.com/AddCharge/generalledgercode"
+            },
+            {
+                "Value": "内部メモ",
+                "Name": "metratech.com/AddCharge/internalcomment"
+            },
+            {
+                "Value": "コメント",
+                "Name": "metratech.com/AddCharge/invoicecomment"
+            },
+            {
+                "Value": "発信者",
+                "Name": "metratech.com/AddCharge/issuer"
+            },
+            {
+                "Value": "ネームスペース",
+                "Name": "metratech.com/AddCharge/NameSpace"
+            },
+            {
+                "Value": "料金の説明",
+                "Name": "metratech.com/AddCharge/otherchargetypecomment"
+            },
+            {
+                "Value": "支払者",
+                "Name": "metratech.com/AddCharge/Payer"
+            },
+            {
+                "Value": "前の料金へのリンク",
+                "Name": "metratech.com/AddCharge/relatetopreviouscharge"
+            },
+            {
+                "Value": "お客様 ID との解決フラグ",
+                "Name": "metratech.com/AddCharge/ResolveWithAccountIDFlag"
+            },
+            {
+                "Value": "税額",
+                "Name": "metratech.com/AddCharge/taxamount"
+            },
+            {
+                "Value": "課税対象",
+                "Name": "metratech.com/AddCharge/taxtype"
+            }
+        ]
+    }
+}}

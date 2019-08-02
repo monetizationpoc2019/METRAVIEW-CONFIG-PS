@@ -1,0 +1,68 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "Approvals",
+        "locale_entry": [
+            {
+                "Value": "アカウント プロパティの更新",
+                "Name": "Approvals/ChangeType/AccountUpdate"
+            },
+            {
+                "Value": "料金表のルールの更新",
+                "Name": "Approvals/ChangeType/RateUpdate"
+            },
+            {
+                "Value": "保留",
+                "Name": "Approvals/ChangeState/Pending"
+            },
+            {
+                "Value": "承認済み、適用待ち",
+                "Name": "Approvals/ChangeState/ApprovedWaitingToBeApplied"
+            },
+            {
+                "Value": "適用に失敗",
+                "Name": "Approvals/ChangeState/FailedToApply"
+            },
+            {
+                "Value": "適用",
+                "Name": "Approvals/ChangeState/Applied"
+            },
+            {
+                "Value": "却下",
+                "Name": "Approvals/ChangeState/Dismissed"
+            },
+            {
+                "Value": "ご利用プラン日の更新",
+                "Name": "Approvals/ChangeType/ProductOfferingUpdate"
+            },
+            {
+                "Value": "New Subscription",
+                "Name": "Approvals/ChangeType/Subscription.Add"
+            },
+            {
+                "Value": "Subscription Update",
+                "Name": "Approvals/ChangeType/Subscription.Update"
+            },
+            {
+                "Value": "グループ利用: メンバー階層の追加",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMemberHierarchies"
+            },
+            {
+                "Value": "グループ利用: メンバーの追加",
+                "Name": "Approvals/ChangeType/GroupSubscription.AddMembers"
+            },
+            {
+                "Value": "グループ利用: メンバーの申し込み解除",
+                "Name": "Approvals/ChangeType/GroupSubscription.UnsubscribeMembers"
+            },
+            {
+                "Value": "グループ利用: メンバーの更新",
+                "Name": "Approvals/ChangeType/GroupSubscription.UpdateMember"
+            },
+            {
+                "Value": "グループ利用: メンバーの削除",
+                "Name": "Approvals/ChangeType/GroupSubscription.DeleteMembers"
+            }
+        ]
+    }
+}}

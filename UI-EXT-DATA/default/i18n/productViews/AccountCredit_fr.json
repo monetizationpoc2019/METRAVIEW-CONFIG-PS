@@ -1,0 +1,120 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "metratech.com/AccountCredit",
+        "locale_entry": [
+            {
+                "Value": "Ajustements divers",
+                "Name": "metratech.com/AccountCredit"
+            },
+            {
+                "Value": "N° du compte",
+                "Name": "metratech.com/AccountCredit/_AccountID"
+            },
+            {
+                "Value": "Montant",
+                "Name": "metratech.com/AccountCredit/_Amount"
+            },
+            {
+                "Value": "Devise",
+                "Name": "metratech.com/AccountCredit/_Currency"
+            },
+            {
+                "Value": "Code comptable",
+                "Name": "metratech.com/AccountCredit/AccountingCode"
+            },
+            {
+                "Value": "Auto",
+                "Name": "metratech.com/AccountCredit/Auto"
+            },
+            {
+                "Value": "ID de la session de débat",
+                "Name": "metratech.com/AccountCredit/ContentionSessionID"
+            },
+            {
+                "Value": "Montant d'ajustement",
+                "Name": "metratech.com/AccountCredit/CreditAmount"
+            },
+            {
+                "Value": "Heure du paiement",
+                "Name": "metratech.com/AccountCredit/CreditTime"
+            },
+            {
+                "Value": "ID du conseiller",
+                "Name": "metratech.com/AccountCredit/CsrID"
+            },
+            {
+                "Value": "Adresse e-mail",
+                "Name": "metratech.com/AccountCredit/EmailAddress"
+            },
+            {
+                "Value": "Notification par e-mail",
+                "Name": "metratech.com/AccountCredit/EmailNotification"
+            },
+            {
+                "Value": "Texte de l'e-mail",
+                "Name": "metratech.com/AccountCredit/EmailText"
+            },
+            {
+                "Value": "ID d'intervalle de guide",
+                "Name": "metratech.com/AccountCredit/GuideIntervalID"
+            },
+            {
+                "Value": "Ignorer réacheminement paiement",
+                "Name": "metratech.com/AccountCredit/IgnorePaymentRedirection"
+            },
+            {
+                "Value": "Description interne",
+                "Name": "metratech.com/AccountCredit/InternalComment"
+            },
+            {
+                "Value": "Description de la facture",
+                "Name": "metratech.com/AccountCredit/InvoiceComment"
+            },
+            {
+                "Value": "Emetteur",
+                "Name": "metratech.com/AccountCredit/Issuer"
+            },
+            {
+                "Value": "Espace de nommage",
+                "Name": "metratech.com/AccountCredit/NameSpace"
+            },
+            {
+                "Value": "Autre",
+                "Name": "metratech.com/AccountCredit/Other"
+            },
+            {
+                "Value": "Payeur",
+                "Name": "metratech.com/AccountCredit/Payer"
+            },
+            {
+                "Value": "Code de motif",
+                "Name": "metratech.com/AccountCredit/Reason"
+            },
+            {
+                "Value": "Montant de la requête",
+                "Name": "metratech.com/AccountCredit/RequestAmount"
+            },
+            {
+                "Value": "ID de la requête",
+                "Name": "metratech.com/AccountCredit/RequestID"
+            },
+            {
+                "Value": "Résoudre avec ID de compte",
+                "Name": "metratech.com/AccountCredit/ResolveWithAccountIDFlag"
+            },
+            {
+                "Value": "Code de retour",
+                "Name": "metratech.com/AccountCredit/ReturnCode"
+            },
+            {
+                "Value": "État",
+                "Name": "metratech.com/AccountCredit/Status"
+            },
+            {
+                "Value": "[FR]Subscriber Account ID",
+                "Name": "metratech.com/AccountCredit/SubscriberAccountID"
+            }
+        ]
+    }
+}}

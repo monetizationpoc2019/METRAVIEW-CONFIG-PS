@@ -1,0 +1,68 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/AccountCreditRequest",
+        "locale_entry": [
+            {
+                "Value": "各種調整",
+                "Name": "metratech.com/AccountCreditRequest"
+            },
+            {
+                "Value": "お客様 #",
+                "Name": "metratech.com/AccountCreditRequest/_AccountID"
+            },
+            {
+                "Value": "金額",
+                "Name": "metratech.com/AccountCreditRequest/_Amount"
+            },
+            {
+                "Value": "通貨",
+                "Name": "metratech.com/AccountCreditRequest/_Currency"
+            },
+            {
+                "Value": "自動承認済み",
+                "Name": "metratech.com/AccountCreditRequest/Auto"
+            },
+            {
+                "Value": "競合セッション ID",
+                "Name": "metratech.com/AccountCreditRequest/ContentionSessionID"
+            },
+            {
+                "Value": "調整金額",
+                "Name": "metratech.com/AccountCreditRequest/CreditAmount"
+            },
+            {
+                "Value": "内容",
+                "Name": "metratech.com/AccountCreditRequest/Description"
+            },
+            {
+                "Value": "電子メール アドレス",
+                "Name": "metratech.com/AccountCreditRequest/EmailAddress"
+            },
+            {
+                "Value": "電子メールによる通知",
+                "Name": "metratech.com/AccountCreditRequest/EmailNotification"
+            },
+            {
+                "Value": "ガイド期間 ID",
+                "Name": "metratech.com/accountcreditrequest/guideintervalid"
+            },
+            {
+                "Value": "その他",
+                "Name": "metratech.com/AccountCreditRequest/Other"
+            },
+            {
+                "Value": "理由",
+                "Name": "metratech.com/AccountCreditRequest/Reason"
+            },
+            {
+                "Value": "状況",
+                "Name": "metratech.com/AccountCreditRequest/Status"
+            },
+            {
+                "Value": "利用者のお客様 ID",
+                "Name": "metratech.com/AccountCreditRequest/SubscriberAccountID"
+            }
+        ]
+    }
+}}

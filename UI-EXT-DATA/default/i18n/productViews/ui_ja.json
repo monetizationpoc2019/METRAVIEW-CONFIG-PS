@@ -1,0 +1,144 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "UI",
+        "locale_entry": [
+            {
+                "Value": "MetraNet",
+                "Name": "UI/AuthenticationType/MetraNet"
+            },
+            {
+                "Value": "X ラージ",
+                "Name": "UI/DashboardColumnWidth/ExtraLarge"
+            },
+            {
+                "Value": "極小",
+                "Name": "UI/DashboardColumnWidth/ExtraSmall"
+            },
+            {
+                "Value": "大",
+                "Name": "UI/DashboardColumnWidth/Large"
+            },
+            {
+                "Value": "中",
+                "Name": "UI/DashboardColumnWidth/Medium"
+            },
+            {
+                "Value": "小",
+                "Name": "UI/DashboardColumnWidth/Small"
+            },
+            {
+                "Value": "マイナス記号",
+                "Name": "UI/NegativeRepresentationType/Negative Sign"
+            },
+            {
+                "Value": "かっこ",
+                "Name": "UI/NegativeRepresentationType/Parenthesis"
+            },
+            {
+                "Value": "グラフ",
+                "Name": "UI/ReportType/Chart"
+            },
+            {
+                "Value": "グリッド",
+                "Name": "UI/ReportType/Grid"
+            },
+            {
+                "Value": "青",
+                "Name": "UI/Themes/blue"
+            },
+            {
+                "Value": "金",
+                "Name": "UI/Themes/gold"
+            },
+            {
+                "Value": "灰色",
+                "Name": "UI/Themes/gray"
+            },
+            {
+                "Value": "緑",
+                "Name": "UI/Themes/green"
+            },
+            {
+                "Value": "オレンジ",
+                "Name": "UI/Themes/orange"
+            },
+            {
+                "Value": "紫",
+                "Name": "UI/Themes/purple"
+            },
+            {
+                "Value": "赤",
+                "Name": "UI/Themes/red"
+            },
+            {
+                "Value": "アラビア語",
+                "Name": "UI/UICultures/Arabic"
+            },
+            {
+                "Value": "ドイツ語",
+                "Name": "UI/UICultures/Deutsch"
+            },
+            {
+                "Value": "英語 (米国)",
+                "Name": "UI/UICultures/English"
+            },
+            {
+                "Value": "英語 (米国)",
+                "Name": "UI/UICultures/English (US)"
+            },
+            {
+                "Value": "英語 (英国)",
+                "Name": "UI/UICultures/English GB"
+            },
+            {
+                "Value": "スペイン語",
+                "Name": "UI/UICultures/Español"
+            },
+            {
+                "Value": "フランス語 (フランス)",
+                "Name": "UI/UICultures/Français"
+            },
+            {
+                "Value": "フランス語 (フランス)",
+                "Name": "UI/UICultures/Français (France)"
+            },
+            {
+                "Value": "フランス語 (フランス)",
+                "Name": "UI/UICultures/French"
+            },
+            {
+                "Value": "ドイツ語",
+                "Name": "UI/UICultures/German"
+            },
+            {
+                "Value": "イタリア語",
+                "Name": "UI/UICultures/Italian"
+            },
+            {
+                "Value": "イタリア語",
+                "Name": "UI/UICultures/Italiano"
+            },
+            {
+                "Value": "日本語",
+                "Name": "UI/UICultures/Japanese"
+            },
+            {
+                "Value": "Portuguese - Brazil",
+                "Name": "UI/UICultures/Portuguese - Brazil"
+            },
+            {
+                "Value": "スペイン語",
+                "Name": "UI/UICultures/Spanish"
+            },
+            {
+                "Value": "Spanish - Mexican",
+                "Name": "UI/UICultures/Spanish - Mexican"
+            },
+            {
+                "Value": "日本語",
+                "Name": "UI/UICultures/日本語"
+            }
+        ]
+    }
+}}

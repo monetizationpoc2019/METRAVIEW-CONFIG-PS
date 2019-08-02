@@ -1,0 +1,1200 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "metratech.com/auditevents",
+        "locale_entry": [
+            {
+                "Value": "Ajuste diverso criado",
+                "Name": "metratech.com/auditevents/accountcredit"
+            },
+            {
+                "Value": "Ajuste diverso negado",
+                "Name": "metratech.com/auditevents/accountcreditDENIED"
+            },
+            {
+                "Value": "Ajuste diverso pendente criado",
+                "Name": "metratech.com/auditevents/accountcredittorequest"
+            },
+            {
+                "Value": "Criação de propriedade",
+                "Name": "metratech.com/auditevents/AccountOwnershipCreated"
+            },
+            {
+                "Value": "Criação de propriedade negada",
+                "Name": "metratech.com/auditevents/AccountOwnershipCreateDENIED"
+            },
+            {
+                "Value": "Exclusão de propriedade",
+                "Name": "metratech.com/auditevents/AccountOwnershipDeleted"
+            },
+            {
+                "Value": "Exclusão de propriedade negada",
+                "Name": "metratech.com/auditevents/AccountOwnershipDeleteDENIED"
+            },
+            {
+                "Value": "Adição de membro na assinatura em grupo",
+                "Name": "metratech.com/auditevents/addgroupsubmember"
+            },
+            {
+                "Value": "Adição de membro na assinatura em grupo NEGADA",
+                "Name": "metratech.com/auditevents/addgroupsubmemberDENIED"
+            },
+            {
+                "Value": "Cobrança adicional emitida",
+                "Name": "metratech.com/auditevents/additionalcharge"
+            },
+            {
+                "Value": "Cobrança adicional NEGADA",
+                "Name": "metratech.com/auditevents/additionalchargeDENIED"
+            },
+            {
+                "Value": "Instância Adicionar item cobrável da Oferta de produto",
+                "Name": "metratech.com/auditevents/addPItoPO"
+            },
+            {
+                "Value": "Instância Adicionar item cobrável da Oferta de produto NEGADA",
+                "Name": "metratech.com/auditevents/addPItoPODENIED"
+            },
+            {
+                "Value": "Falha na análise",
+                "Name": "metratech.com/auditevents/AnalyzeFailed"
+            },
+            {
+                "Value": "Análise bem sucedida",
+                "Name": "metratech.com/auditevents/AnalyzeSuccessful"
+            },
+            {
+                "Value": "Falha ao aplicar modelo de conta",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNT_TEMPLATE_APPLY_FAILED"
+            },
+            {
+                "Value": "Aplicação de modelo de conta realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNT_TEMPLATE_APPLY_SUCCESS"
+            },
+            {
+                "Value": "Exclusão do modelo de conta negada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNT_TEMPLATE_DELETE_DENIED"
+            },
+            {
+                "Value": "Falha na exclusão do modelo de conta",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNT_TEMPLATE_DELETE_FAILED"
+            },
+            {
+                "Value": "Exclusão do modelo de conta realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNT_TEMPLATE_DELETE_SUCCESS"
+            },
+            {
+                "Value": "Falha na gravação do modelo de conta",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNT_TEMPLATE_SAVE_FAILED"
+            },
+            {
+                "Value": "Gravação do modelo de conta realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNT_TEMPLATE_SAVE_SUCCESS"
+            },
+            {
+                "Value": "Falha na atualização do modelo de conta",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNT_TEMPLATE_UPDATE_FAILED"
+            },
+            {
+                "Value": "Atualização do modelo de conta realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNT_TEMPLATE_UPDATE_SUCCESS"
+            },
+            {
+                "Value": "Falha ao adicionar ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ADD_ACH_FAILED"
+            },
+            {
+                "Value": "Adição de ACH realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ADD_ACH_SUCCESS"
+            },
+            {
+                "Value": "Falha na criação do cartão de crédito",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ADD_CREDITCARD_FAILED"
+            },
+            {
+                "Value": "Cartão de crédito adicionado com sucesso",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ADD_CREDITCARD_SUCCESS"
+            },
+            {
+                "Value": "Falha ao atribuir ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ASSIGN_ACH_FAILED"
+            },
+            {
+                "Value": "Atribuição de ACH realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ASSIGN_ACH_SUCCESS"
+            },
+            {
+                "Value": "Falha na atribuição do cartão de crédito",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ASSIGN_CREDITCARD_FAILED"
+            },
+            {
+                "Value": "Cartão de crédito atribuído com sucesso",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ASSIGN_CREDITCARD_SUCCESS"
+            },
+            {
+                "Value": "Falha ao alterar senha",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CHANGE_PASSWORD_INVALID_FAILED"
+            },
+            {
+                "Value": "Falha ao alterar senha - sem capacidade",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CHANGE_PASSWORD_NO_CAPABILITY_FAILED"
+            },
+            {
+                "Value": "Alteração de senha realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CHANGE_PASSWORD_SUCCESS"
+            },
+            {
+                "Value": "Falha na verificação do status da transação ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CHECK_ACH_TX_STAT_FAILED"
+            },
+            {
+                "Value": "Verificação do status da transação ACH realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CHECK_ACH_TX_STAT_SUCCESS"
+            },
+            {
+                "Value": "Falha no ACH de crédito",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CREDIT_ACH_FAILED"
+            },
+            {
+                "Value": "Credit ACH succeeded",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CREDIT_ACH_SUCCESS"
+            },
+            {
+                "Value": "Adição de ACH realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ADD_ACH_SUCCESS"
+            },
+            {
+                "Value": "Atualização ACH bem sucedida",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UPDATE_ACH_SUCCESS"
+            },
+            {
+                "Value": "Exclusão de ACH realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DELETE_ACH_SUCCESS"
+            },
+            {
+                "Value": "Atribuição de ACH realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ASSIGN_ACH_SUCCESS"
+            },
+            {
+                "Value": "Falha ao adicionar ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ADD_ACH_FAILED"
+            },
+            {
+                "Value": "Falha na atualização ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UPDATE_ACH_FAILED"
+            },
+            {
+                "Value": "Falha na exclusão de ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DELETE_ACH_FAILED"
+            },
+            {
+                "Value": "Falha ao atribuir ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ASSIGN_ACH_FAILED"
+            },
+            {
+                "Value": "Falha na solicitação de crédito do cartão de crédito",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CREDIT_CREDITCARD_FAILED"
+            },
+            {
+                "Value": "Solicitação de crédito do cartão de crédito realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CREDIT_CREDITCARD_SUCCESS"
+            },
+            {
+                "Value": "Falha no débito ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DEBIT_ACH_FAILED"
+            },
+            {
+                "Value": "Debit ACH succeeded",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DEBIT_ACH_SUCCESS"
+            },
+            {
+                "Value": "Falha no débito do cartão de crédito.",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DEBIT_CREDITCARD_FAILED"
+            },
+            {
+                "Value": "Débito do cartão de crédito realizado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DEBIT_CREDITCARD_SUCCESS"
+            },
+            {
+                "Value": "Falha na exclusão de ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DELETE_ACH_FAILED"
+            },
+            {
+                "Value": "Exclusão de ACH realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DELETE_ACH_SUCCESS"
+            },
+            {
+                "Value": "Falha na exclusão do cartão de crédito",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DELETE_CREDITCARD_FAILED"
+            },
+            {
+                "Value": "Cartão de crédito excluído com sucesso",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DELETE_CREDITCARD_SUCCESS"
+            },
+            {
+                "Value": "Falha no download do relatório de transação ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DOWNLOAD_ACH_TX_REP_FAILED"
+            },
+            {
+                "Value": "Download do relatório de transação ACH realizado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DOWNLOAD_ACH_TX_REP_SUCCESS"
+            },
+            {
+                "Value": "Falha no bloqueio de conta",
+                "Name": "metratech.com/auditevents/AUDITEVENT_LOCK_ACCOUNT_FAILED"
+            },
+            {
+                "Value": "Bloqueio de conta realizado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_LOCK_ACCOUNT_SUCCESS"
+            },
+            {
+                "Value": "Falha no login Conta bloqueada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_LOGIN_ACCOUNT_LOCKED_FAILED"
+            },
+            {
+                "Value": "Falha no login Conta inativa",
+                "Name": "metratech.com/auditevents/AUDITEVENT_LOGIN_DORMANT_ACCOUNT_FAILED"
+            },
+            {
+                "Value": "Falha no login Sem capacidade",
+                "Name": "metratech.com/auditevents/AUDITEVENT_LOGIN_NO_CAPABILITY_FAILED"
+            },
+            {
+                "Value": "Falha no login Senha expirada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_LOGIN_PASSWORD_EXPIRED_FAILED"
+            },
+            {
+                "Value": "Cobrança extraordinária aprovada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_NON_STANDARD_CHARGE_APPROVED"
+            },
+            {
+                "Value": "Cobrança extraordinária negada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_NON_STANDARD_CHARGE_DENY"
+            },
+            {
+                "Value": "Falha na cobrança extraordinária",
+                "Name": "metratech.com/auditevents/AUDITEVENT_NON_STANDARD_CHARGE_FAILED"
+            },
+            {
+                "Value": "Cobrança pendente extraordinária emitida",
+                "Name": "metratech.com/auditevents/AUDITEVENT_NON_STANDARD_CHARGE_PENDING"
+            },
+            {
+                "Value": "Característica de especificação criada.",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CREATE_SPEC_CHAR"
+            },
+            {
+                "Value": "Característica de especificação excluída.",
+                "Name": "metratech.com/auditevents/AUDITEEVENT_DELETE_SPEC_CHAR"
+            },
+            {
+                "Value": "Característica de especificação atualizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UPDATE_SPEC_CHAR"
+            },
+            {
+                "Value": "Valor de característica de especificação criado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CREATE_SPEC_CHAR_VAL"
+            },
+            {
+                "Value": "Valor de característica de especificação excluído",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DELETE_SPEC_CHAR_VAL"
+            },
+            {
+                "Value": "Valor de característica de especificação atualizado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UPDATE_SPEC_CHAR_VAL"
+            },
+            {
+                "Value": "Valor de característica criado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CREATED_CHAR_VAL"
+            },
+            {
+                "Value": "Valor de característica removido",
+                "Name": "metratech.com/auditevents/AUDITEVENT_REMOVED_CHAR_VAL"
+            },
+            {
+                "Value": "Falha na característica de especificação criada.",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CREATE_SPEC_CHAR_FAILED"
+            },
+            {
+                "Value": "Falha no valor de característica de especificação excluído",
+                "Name": "metratech.com/auditevents/AUDITEEVENT_DELETE_SPEC_CHAR_FAILED"
+            },
+            {
+                "Value": "Falha na característica de especificação atualizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UPDATE_SPEC_CHAR_FAILED"
+            },
+            {
+                "Value": "Falha no valor de característica de especificação criado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CREATE_SPEC_CHAR_VAL_FAILED"
+            },
+            {
+                "Value": "Falha no valor de característica de especificação excluído",
+                "Name": "metratech.com/auditevents/AUDITEVENT_DELETE_SPEC_CHAR_VAL_FAILED"
+            },
+            {
+                "Value": "Falha no valor de característica de especificação atualizado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UPDATE_SPEC_CHAR_VAL_FAILED"
+            },
+            {
+                "Value": "Falha no valor de característica criado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_CREATED_CHAR_VAL_FAILED"
+            },
+            {
+                "Value": "Falha no valor de característica removido",
+                "Name": "metratech.com/auditevents/AUDITEVENT_REMOVED_CHAR_VAL_FAILED"
+            },
+            {
+                "Value": "Característica de especificação adicionada à entidade",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ADD_SPEC_TO_ENTITY"
+            },
+            {
+                "Value": "Característica de especificação removida da entidade",
+                "Name": "metratech.com/auditevents/AUDITEVENT_REMOVE_SPEC_FROM_ENTITY"
+            },
+            {
+                "Value": "Falha de ACH de crédito único",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ONETIME_CREDIT_ACH_FAILED"
+            },
+            {
+                "Value": "One-time Credit ACH succeeded",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ONETIME_CREDIT_ACH_SUCCESS"
+            },
+            {
+                "Value": "Falha na solicitação de crédito para uma só utilização do cartão de crédito",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ONETIME_CREDIT_CREDITCARD_FAILED"
+            },
+            {
+                "Value": "Solicitação de crédito para uma só utilização do cartão de crédito realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ONETIME_CREDIT_CREDITCARD_SUCCESS"
+            },
+            {
+                "Value": "Falha de ACH de débito único",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ONETIME_DEBIT_ACH_FAILED"
+            },
+            {
+                "Value": "One-time Debit ACH succeeded",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ONETIME_DEBIT_ACH_SUCCESS"
+            },
+            {
+                "Value": "Falha na solicitação de débito para uma só utilização do cartão de crédito",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ONETIME_DEBIT_CREDITCARD_FAILED"
+            },
+            {
+                "Value": "Credit card one-time debit succeeded",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ONETIME_DEBIT_CREDITCARD_SUCCESS"
+            },
+            {
+                "Value": "PLM criado com sucesso",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PLM_CREATE"
+            },
+            {
+                "Value": "Criação de PLM negada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PLM_CREATE_DENIED"
+            },
+            {
+                "Value": "Falha na criação de PLM",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PLM_CREATE_FAILED"
+            },
+            {
+                "Value": "PLM excluído com sucesso",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PLM_DELETE"
+            },
+            {
+                "Value": "Exclusão de PLM negada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PLM_DELETE_DENIED"
+            },
+            {
+                "Value": "Falha na exclusão de PLM",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PLM_DELETE_FAILED"
+            },
+            {
+                "Value": "PLM atualizado com sucesso",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PLM_UPDATE"
+            },
+            {
+                "Value": "Atualização de PLM negada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PLM_UPDATE_DENIED"
+            },
+            {
+                "Value": "Falha na atualização de PLM",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PLM_UPDATE_FAILED"
+            },
+            {
+                "Value": "Falha na captura do cartão de crédito da solicitação de pré-autorização",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PREAUTH_CAPTURE_CREDITCARD_FAILED"
+            },
+            {
+                "Value": "Captura do cartão de crédito da solicitação de pré-autorização realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PREAUTH_CAPTURE_CREDITCARD_SUCCESS"
+            },
+            {
+                "Value": "Falha na pré-autorização do cartão de crédito",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PREAUTH_CREDITCARD_FAILED"
+            },
+            {
+                "Value": "Pré-autorização do cartão de crédito realizada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_PREAUTH_CREDITCARD_SUCCESS"
+            },
+            {
+                "Value": "Falha no agendamento do pagamento eletrônico",
+                "Name": "metratech.com/auditevents/AUDITEVENT_SCHEDULE_PAYMENT_FAILURE"
+            },
+            {
+                "Value": "Pagamento eletrônico agendado com sucesso",
+                "Name": "metratech.com/auditevents/AUDITEVENT_SCHEDULE_PAYMENT_SUCCESS"
+            },
+            {
+                "Value": "Falha no desbloqueio de conta",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UNLOCK_ACCOUNT_FAILED"
+            },
+            {
+                "Value": "Desbloqueio de conta realizado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UNLOCK_ACCOUNT_SUCCESS"
+            },
+            {
+                "Value": "Falha na atualização ACH",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UPDATE_ACH_FAILED"
+            },
+            {
+                "Value": "Atualização ACH bem sucedida",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UPDATE_ACH_SUCCESS"
+            },
+            {
+                "Value": "Falha na atualização do cartão de crédito",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UPDATE_CREDITCARD_FAILED"
+            },
+            {
+                "Value": "Cartão de crédito atualizado com sucesso",
+                "Name": "metratech.com/auditevents/AUDITEVENT_UPDATE_CREDITCARD_SUCCESS"
+            },
+            {
+                "Value": "Retornar e excluir os com falhas",
+                "Name": "metratech.com/auditevents/BackoutDeleteFailed"
+            },
+            {
+                "Value": "Retornar e excluir os bem sucedidos",
+                "Name": "metratech.com/auditevents/BackoutDeleteSuccessful"
+            },
+            {
+                "Value": "Retornar e submeter novamente os com falhas",
+                "Name": "metratech.com/auditevents/BackoutResubmitFailed"
+            },
+            {
+                "Value": "Retornar e submeter novamente os bem sucedidos",
+                "Name": "metratech.com/auditevents/BackoutResubmitSuccessful"
+            },
+            {
+                "Value": "Lote marcado como ativo",
+                "Name": "metratech.com/auditevents/BatchActive"
+            },
+            {
+                "Value": "Lote retirado",
+                "Name": "metratech.com/auditevents/BatchBackedOut"
+            },
+            {
+                "Value": "Lote marcado como concluído",
+                "Name": "metratech.com/auditevents/BatchCompleted"
+            },
+            {
+                "Value": "Lote criado",
+                "Name": "metratech.com/auditevents/BatchCreated"
+            },
+            {
+                "Value": "Lote marcado como rejeitado",
+                "Name": "metratech.com/auditevents/BatchDismissed"
+            },
+            {
+                "Value": "Lote marcado como falho",
+                "Name": "metratech.com/auditevents/BatchFailed"
+            },
+            {
+                "Value": "Lote reenviado",
+                "Name": "metratech.com/auditevents/BatchResubmitted"
+            },
+            {
+                "Value": "Alteração em massa das assinaturas",
+                "Name": "metratech.com/auditevents/bulksubscriptionchange"
+            },
+            {
+                "Value": "Alteração em massa das assinaturas NEGADA",
+                "Name": "metratech.com/auditevents/bulksubscriptionchangeDENIED"
+            },
+            {
+                "Value": "Criação de conta",
+                "Name": "metratech.com/auditevents/createaccount"
+            },
+            {
+                "Value": "Criação de conta NEGADA",
+                "Name": "metratech.com/auditevents/createaccountDENIED"
+            },
+            {
+                "Value": "Criação de mapeamento de conta",
+                "Name": "metratech.com/auditevents/createaccountmapping"
+            },
+            {
+                "Value": "Criação de mapeamento de conta NEGADA",
+                "Name": "metratech.com/auditevents/createaccountmappingDENIED"
+            },
+            {
+                "Value": "Criação de informação de contato",
+                "Name": "metratech.com/auditevents/createcontact"
+            },
+            {
+                "Value": "Criação de informação de contato NEGADA",
+                "Name": "metratech.com/auditevents/createcontactDENIED"
+            },
+            {
+                "Value": "Criar taxa pessoal de grupo",
+                "Name": "metratech.com/auditevents/createGroupICB"
+            },
+            {
+                "Value": "Criação de taxa pessoal de grupo NEGADA",
+                "Name": "metratech.com/auditevents/createGroupICBDENIED"
+            },
+            {
+                "Value": "Criação de assinatura em grupo",
+                "Name": "metratech.com/auditevents/creategroupsubscription"
+            },
+            {
+                "Value": "Criação de assinatura em grupo NEGADA",
+                "Name": "metratech.com/auditevents/creategroupsubscriptionDENIED"
+            },
+            {
+                "Value": "Criar taxa pessoal",
+                "Name": "metratech.com/auditevents/createICB"
+            },
+            {
+                "Value": "Criação de taxa pessoal NEGADA",
+                "Name": "metratech.com/auditevents/createICBDENIED"
+            },
+            {
+                "Value": "Criação de oferta de produto",
+                "Name": "metratech.com/auditevents/createpo"
+            },
+            {
+                "Value": "Criação de oferta de produto NEGADA",
+                "Name": "metratech.com/auditevents/createpoDENIED"
+            },
+            {
+                "Value": "Criação de lista de preços",
+                "Name": "metratech.com/auditevents/createpricelist"
+            },
+            {
+                "Value": "Criação de lista de preços NEGADA",
+                "Name": "metratech.com/auditevents/createpricelistDENIED"
+            },
+            {
+                "Value": "Criação de agendamento de taxa",
+                "Name": "metratech.com/auditevents/createrateschedule"
+            },
+            {
+                "Value": "Criação de agendamento de taxa NEGADA",
+                "Name": "metratech.com/auditevents/createratescheduleDENIED"
+            },
+            {
+                "Value": "Criação de função",
+                "Name": "metratech.com/auditevents/createrole"
+            },
+            {
+                "Value": "Criação de função NEGADA",
+                "Name": "metratech.com/auditevents/createroleDENIED"
+            },
+            {
+                "Value": "Criação de assinatura",
+                "Name": "metratech.com/auditevents/createsubscription"
+            },
+            {
+                "Value": "Criação de assinatura NEGADA",
+                "Name": "metratech.com/auditevents/createsubscriptionDENIED"
+            },
+            {
+                "Value": "Criação de modelo",
+                "Name": "metratech.com/auditevents/createtemplate"
+            },
+            {
+                "Value": "Criação de modelo NEGADA",
+                "Name": "metratech.com/auditevents/createtemplateDENIED"
+            },
+            {
+                "Value": "Exclusão de mapeamento de conta",
+                "Name": "metratech.com/auditevents/deleteaccountmapping"
+            },
+            {
+                "Value": "Exclusão de mapeamento de conta NEGADA",
+                "Name": "metratech.com/auditevents/deleteaccountmappingDENIED"
+            },
+            {
+                "Value": "Remover taxa pessoal de grupo",
+                "Name": "metratech.com/auditevents/deleteGroupICB"
+            },
+            {
+                "Value": "Remoção de taxa pessoal de grupo NEGADA",
+                "Name": "metratech.com/auditevents/deleteGroupICBDENIED"
+            },
+            {
+                "Value": "Remoção de membro na assinatura em grupo",
+                "Name": "metratech.com/auditevents/deletegroupsubmember"
+            },
+            {
+                "Value": "Remoção de membro na assinatura em grupo NEGADA",
+                "Name": "metratech.com/auditevents/deletegroupsubmemberDENIED"
+            },
+            {
+                "Value": "Exclusão de assinatura em grupo",
+                "Name": "metratech.com/auditevents/deletegroupsubscription"
+            },
+            {
+                "Value": "Exclusão de assinatura em grupo NEGADA",
+                "Name": "metratech.com/auditevents/deletegroupsubscriptionDENIED"
+            },
+            {
+                "Value": "Remover taxa pessoal",
+                "Name": "metratech.com/auditevents/deleteICB"
+            },
+            {
+                "Value": "Remoção de taxa pessoal NEGADA",
+                "Name": "metratech.com/auditevents/deleteICBDENIED"
+            },
+            {
+                "Value": "Instância Excluir item cobrável da Oferta de produto",
+                "Name": "metratech.com/auditevents/deletePIfromPO"
+            },
+            {
+                "Value": "Instância Excluir item cobrável da Oferta de produto NEGADA",
+                "Name": "metratech.com/auditevents/deletePIfromPODENIED"
+            },
+            {
+                "Value": "Exclusão de oferta de produto",
+                "Name": "metratech.com/auditevents/deletePO"
+            },
+            {
+                "Value": "Exclusão de oferta de produto NEGADA",
+                "Name": "metratech.com/auditevents/deletePODENIED"
+            },
+            {
+                "Value": "Exclusão de lista de preços",
+                "Name": "metratech.com/auditevents/deletepricelist"
+            },
+            {
+                "Value": "Exclusão de lista de preços NEGADA",
+                "Name": "metratech.com/auditevents/deletepricelistDENIED"
+            },
+            {
+                "Value": "Exclusão de agendamento de taxa",
+                "Name": "metratech.com/auditevents/deleterateschedule"
+            },
+            {
+                "Value": "Exclusão de agendamento de taxa NEGADA",
+                "Name": "metratech.com/auditevents/deleteratescheduleDENIED"
+            },
+            {
+                "Value": "Exclusão de função",
+                "Name": "metratech.com/auditevents/deleterole"
+            },
+            {
+                "Value": "Exclusão de função NEGADA",
+                "Name": "metratech.com/auditevents/deleteroleDENIED"
+            },
+            {
+                "Value": "Exclusão de assinatura",
+                "Name": "metratech.com/auditevents/deletesubscription"
+            },
+            {
+                "Value": "Exclusão de assinatura NEGADA",
+                "Name": "metratech.com/auditevents/deletesubscriptionDENIED"
+            },
+            {
+                "Value": "Exclusão de modelo",
+                "Name": "metratech.com/auditevents/deletetemplate"
+            },
+            {
+                "Value": "Exclusão de modelo NEGADA",
+                "Name": "metratech.com/auditevents/deletetemplateDENIED"
+            },
+            {
+                "Value": "Reenviar transação com falha",
+                "Name": "metratech.com/auditevents/FailedTransactionResubmit"
+            },
+            {
+                "Value": "Atualizar status da transação",
+                "Name": "metratech.com/auditevents/FailedTransactionUpdateStatus"
+            },
+            {
+                "Value": "Atualizar detalhes da transação",
+                "Name": "metratech.com/auditevents/FailedTransactionUpdateTransactionDetails"
+            },
+            {
+                "Value": "Falha na identificação",
+                "Name": "metratech.com/auditevents/IdentifyFailed"
+            },
+            {
+                "Value": "Identificação realizada",
+                "Name": "metratech.com/auditevents/IdentifySuccessful"
+            },
+            {
+                "Value": "Falha no login",
+                "Name": "metratech.com/auditevents/LoginFailed"
+            },
+            {
+                "Value": "Login realizado",
+                "Name": "metratech.com/auditevents/LoginSuccessful"
+            },
+            {
+                "Value": "Nova reexecução criada com sucesso",
+                "Name": "metratech.com/auditevents/NewRerunCreated"
+            },
+            {
+                "Value": "Outro",
+                "Name": "metratech.com/auditevents/other"
+            },
+            {
+                "Value": "Ajuste pós-faturamento aprovado",
+                "Name": "metratech.com/auditevents/PostbillAdjustmentApprove"
+            },
+            {
+                "Value": "Ação Aprovar ajuste pós-faturamento negada",
+                "Name": "metratech.com/auditevents/PostbillAdjustmentApproveDENIED"
+            },
+            {
+                "Value": "Ajuste pós-faturamento criado",
+                "Name": "metratech.com/auditevents/PostbillAdjustmentCreate"
+            },
+            {
+                "Value": "Ajuste pós-faturamento negado",
+                "Name": "metratech.com/auditevents/PostbillAdjustmentCreateDENIED"
+            },
+            {
+                "Value": "Ajuste pendente pós-faturamento criado",
+                "Name": "metratech.com/auditevents/PostbillAdjustmentCreatePending"
+            },
+            {
+                "Value": "Ajuste pós-faturamento excluído",
+                "Name": "metratech.com/auditevents/PostbillAdjustmentDelete"
+            },
+            {
+                "Value": "Ação Excluir ajustes pós-faturamento negada",
+                "Name": "metratech.com/auditevents/PostbillAdjustmentDeleteDENIED"
+            },
+            {
+                "Value": "Transação pós-faturamento reatribuída a uma conta desconhecida (enviar para unidade de investigação de mensagens)",
+                "Name": "metratech.com/auditevents/PostbillMIUReassign"
+            },
+            {
+                "Value": "Reatribuição pós-faturamento de uma transação para conta desconhecida negada",
+                "Name": "metratech.com/auditevents/PostbillMIUReassignDENIED"
+            },
+            {
+                "Value": "Transação pós-faturamento reatribuída a outra conta",
+                "Name": "metratech.com/auditevents/PostbillReassign"
+            },
+            {
+                "Value": "Reatribuição pós-faturamento de uma transação negada",
+                "Name": "metratech.com/auditevents/PostbillReassignDENIED"
+            },
+            {
+                "Value": "Ajuste pré-faturamento aprovado",
+                "Name": "metratech.com/auditevents/PrebillAdjustmentApprove"
+            },
+            {
+                "Value": "Ação Aprovar ajuste pré-faturamento negada",
+                "Name": "metratech.com/auditevents/PrebillAdjustmentApproveDENIED"
+            },
+            {
+                "Value": "Ajuste pré-faturamento criado",
+                "Name": "metratech.com/auditevents/PrebillAdjustmentCreate"
+            },
+            {
+                "Value": "Ajuste pré-faturamento negado",
+                "Name": "metratech.com/auditevents/PrebillAdjustmentCreateDENIED"
+            },
+            {
+                "Value": "Ajuste pendente pré-faturamento criado",
+                "Name": "metratech.com/auditevents/PrebillAdjustmentCreatePending"
+            },
+            {
+                "Value": "Ajuste pré-faturamento excluído",
+                "Name": "metratech.com/auditevents/PrebillAdjustmentDelete"
+            },
+            {
+                "Value": "Ação Excluir ajustes pré-faturamento negada",
+                "Name": "metratech.com/auditevents/PrebillAdjustmentDeleteDENIED"
+            },
+            {
+                "Value": "Transação pré-faturamento reatribuída a uma conta desconhecida (enviar para unidade de investigação de mensagens)",
+                "Name": "metratech.com/auditevents/PrebillMIUReassign"
+            },
+            {
+                "Value": "Reatribuição pré-faturamento de uma transação para conta desconhecida negada",
+                "Name": "metratech.com/auditevents/PrebillMIUReassignDENIED"
+            },
+            {
+                "Value": "Transação pré-faturamento reatribuída a outra conta",
+                "Name": "metratech.com/auditevents/PrebillReassign"
+            },
+            {
+                "Value": "Reatribuição pré-faturamento de uma transação negada",
+                "Name": "metratech.com/auditevents/PrebillReassignDENIED"
+            },
+            {
+                "Value": "Falha ao criar nova reexecução",
+                "Name": "metratech.com/auditevents/RerunCreateFailed"
+            },
+            {
+                "Value": "Auto-assinatura bem-sucedida",
+                "Name": "metratech.com/auditevents/SelfSubscription"
+            },
+            {
+                "Value": "Auto-assinatura negada",
+                "Name": "metratech.com/auditevents/SelfSubscriptionDENIED"
+            },
+            {
+                "Value": "Auto-cancelamento de assinatura bem-sucedido",
+                "Name": "metratech.com/auditevents/SelfUnsubscription"
+            },
+            {
+                "Value": "Terminal de serviço conectado",
+                "Name": "metratech.com/auditevents/ServiceEndpointConnected"
+            },
+            {
+                "Value": "Terminal de serviço negado",
+                "Name": "metratech.com/auditevents/ServiceEndpointConnectedDENIED"
+            },
+            {
+                "Value": "Terminal de serviço movido",
+                "Name": "metratech.com/auditevents/ServiceEndpointConnectionMoved"
+            },
+            {
+                "Value": "Mudança de terminal de serviço negado",
+                "Name": "metratech.com/auditevents/ServiceEndpointConnectionMovedDENIED"
+            },
+            {
+                "Value": "Terminal de serviço removido",
+                "Name": "metratech.com/auditevents/ServiceEndpointConnectionRemoved"
+            },
+            {
+                "Value": "Remoção de terminal de serviço negada",
+                "Name": "metratech.com/auditevents/ServiceEndpointConnectionRemovedDENIED"
+            },
+            {
+                "Value": "Terminal de serviço atualizado",
+                "Name": "metratech.com/auditevents/ServiceEndpointConnectionUpdated"
+            },
+            {
+                "Value": "Atualização de terminal de serviço negada",
+                "Name": "metratech.com/auditevents/ServiceEndpointConnectionUpdatedDENIED"
+            },
+            {
+                "Value": "Conta de gerenciamento de terminal de serviços negada",
+                "Name": "metratech.com/auditevents/ServiceEndpointManageAccountDENIED"
+            },
+            {
+                "Value": "Desconhecido",
+                "Name": "metratech.com/auditevents/unknown"
+            },
+            {
+                "Value": "Cancelamento de assinatura",
+                "Name": "metratech.com/auditevents/unsubscribe"
+            },
+            {
+                "Value": "Cancelamento de assinatura NEGADA",
+                "Name": "metratech.com/auditevents/unsubscribeDENIED"
+            },
+            {
+                "Value": "Cancelamento da assinatura em grupo",
+                "Name": "metratech.com/auditevents/unsubscribegroupsubscription"
+            },
+            {
+                "Value": "Cancelamento da assinatura em grupo NEGADA",
+                "Name": "metratech.com/auditevents/unsubscribegroupsubscriptionDENIED"
+            },
+            {
+                "Value": "Atualização da conta",
+                "Name": "metratech.com/auditevents/updateaccount"
+            },
+            {
+                "Value": "Atualização da conta NEGADA",
+                "Name": "metratech.com/auditevents/updateaccountDENIED"
+            },
+            {
+                "Value": "Atualização de mapeamento de conta",
+                "Name": "metratech.com/auditevents/updateaccountmapping"
+            },
+            {
+                "Value": "Atualização de mapeamento de conta NEGADA",
+                "Name": "metratech.com/auditevents/updateaccountmappingDENIED"
+            },
+            {
+                "Value": "Atualização das informações de contato",
+                "Name": "metratech.com/auditevents/updatecontact"
+            },
+            {
+                "Value": "Atualização das informações de contato NEGADA",
+                "Name": "metratech.com/auditevents/updatecontactDENIED"
+            },
+            {
+                "Value": "Atualização de segurança de CSR",
+                "Name": "metratech.com/auditevents/updateCSRauth"
+            },
+            {
+                "Value": "Atualização de segurança de CSR NEGADA",
+                "Name": "metratech.com/auditevents/updateCSRauthDENIED"
+            },
+            {
+                "Value": "Atualizar taxa pessoal de grupo",
+                "Name": "metratech.com/auditevents/updateGroupICB"
+            },
+            {
+                "Value": "Atualização de taxa pessoal de grupo NEGADA",
+                "Name": "metratech.com/auditevents/updateGroupICBDENIED"
+            },
+            {
+                "Value": "Atualização de membro da assinatura em grupo",
+                "Name": "metratech.com/auditevents/updategroupsubmember"
+            },
+            {
+                "Value": "Atualização de membro da assinatura em grupo NEGADA",
+                "Name": "metratech.com/auditevents/updategroupsubmemberDENIED"
+            },
+            {
+                "Value": "Atualização da assinatura em grupo",
+                "Name": "metratech.com/auditevents/updategroupsubscription"
+            },
+            {
+                "Value": "Atualização da assinatura em grupo NEGADA",
+                "Name": "metratech.com/auditevents/updategroupsubscriptionDENIED"
+            },
+            {
+                "Value": "Atualizar taxa pessoal",
+                "Name": "metratech.com/auditevents/updateICB"
+            },
+            {
+                "Value": "Atualização de taxa pessoal NEGADA",
+                "Name": "metratech.com/auditevents/updateICBDENIED"
+            },
+            {
+                "Value": "Instância Atualizar item cobrável da Oferta de produto",
+                "Name": "metratech.com/auditevents/updatePIinPO"
+            },
+            {
+                "Value": "Instância Atualizar item cobrável da Oferta de produto NEGADA",
+                "Name": "metratech.com/auditevents/updatePIinPODENIED"
+            },
+            {
+                "Value": "Mapeamento de atualização da lista de preços da oferta de produto",
+                "Name": "metratech.com/auditevents/updatePLMinPO"
+            },
+            {
+                "Value": "Mapeamento de atualização da lista de preços da oferta de produto NEGADO",
+                "Name": "metratech.com/auditevents/updatePLMinPODENIED"
+            },
+            {
+                "Value": "Atualização da oferta de produto",
+                "Name": "metratech.com/auditevents/updatepo"
+            },
+            {
+                "Value": "Atualização de oferta de produto NEGADA",
+                "Name": "metratech.com/auditevents/updatepoDENIED"
+            },
+            {
+                "Value": "Lista de preços atualizada",
+                "Name": "metratech.com/auditevents/updatepricelist"
+            },
+            {
+                "Value": "Atualização de lista de preços NEGADA",
+                "Name": "metratech.com/auditevents/updatepricelistDENIED"
+            },
+            {
+                "Value": "Atualização de propriedades de agendamento de taxa",
+                "Name": "metratech.com/auditevents/updaterateschedule"
+            },
+            {
+                "Value": "Atualização de propriedades de agendamento de taxa NEGADA",
+                "Name": "metratech.com/auditevents/updateratescheduleDENIED"
+            },
+            {
+                "Value": "Atualização de regras de agendamento de taxa",
+                "Name": "metratech.com/auditevents/updaterateschedulerules"
+            },
+            {
+                "Value": "Atualização de regras de agendamento de taxa NEGADA",
+                "Name": "metratech.com/auditevents/updaterateschedulerulesDENIED"
+            },
+            {
+                "Value": "Atualização de função",
+                "Name": "metratech.com/auditevents/updaterole"
+            },
+            {
+                "Value": "Atualização de função NEGADA",
+                "Name": "metratech.com/auditevents/updateroleDENIED"
+            },
+            {
+                "Value": "Atualização de segurança do assinante",
+                "Name": "metratech.com/auditevents/updatesubscriberauth"
+            },
+            {
+                "Value": "Atualização de segurança do assinante NEGADA",
+                "Name": "metratech.com/auditevents/updatesubscriberauthDENIED"
+            },
+            {
+                "Value": "Atualização da assinatura",
+                "Name": "metratech.com/auditevents/updatesubscription"
+            },
+            {
+                "Value": "Atualização da assinatura NEGADA",
+                "Name": "metratech.com/auditevents/updatesubscriptionDENIED"
+            },
+            {
+                "Value": "Atualização do modelo",
+                "Name": "metratech.com/auditevents/updatetemplate"
+            },
+            {
+                "Value": "Atualização do modelo NEGADA",
+                "Name": "metratech.com/auditevents/updatetemplateDENIED"
+            },
+            {
+                "Value": "Alteração enviada para aprovação",
+                "Name": "metratech.com/auditevents/AUDITEVENT_APPROVALMANAGEMENT_CHANGESUBMITTED"
+            },
+            {
+                "Value": "Alteração aprovada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_APPROVALMANAGEMENT_CHANGEAPPROVED"
+            },
+            {
+                "Value": "Alteração aprovada aplicada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_APPROVALMANAGEMENT_CHANGEAPPLIED"
+            },
+            {
+                "Value": "Alteração negada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_APPROVALMANAGEMENT_CHANGEDENIED"
+            },
+            {
+                "Value": "Alteração removida",
+                "Name": "metratech.com/auditevents/AUDITEVENT_APPROVALMANAGEMENT_CHANGEREMOVED"
+            },
+            {
+                "Value": "Detalhes de alteração atualizados",
+                "Name": "metratech.com/auditevents/AUDITEVENT_APPROVALMANAGEMENT_CHANGEDETAILSUPDATED"
+            },
+            {
+                "Value": "Falha na aplicação de alteração",
+                "Name": "metratech.com/auditevents/AUDITEVENT_APPROVALMANAGEMENT_CHANGEAPPLYFAILED"
+            },
+            {
+                "Value": "Alteração rejeitada",
+                "Name": "metratech.com/auditevents/AUDITEVENT_APPROVALMANAGEMENT_CHANGEDISMISSED"
+            },
+            {
+                "Value": "Falha no novo envio de alteração",
+                "Name": "metratech.com/auditevents/AUDITEVENT_APPROVALMANAGEMENT_FAILEDCHANGERESUBMITTED"
+            },
+            {
+                "Value": "Modelo criado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_AGREEMENT_TEMPLATECREATED"
+            },
+            {
+                "Value": "Modelo atualizado",
+                "Name": "metratech.com/auditevents/AUDITEVENT_AGREEMENT_TEMPLATEUPDATED"
+            },
+            {
+                "Value": "Modelo excluído",
+                "Name": "metratech.com/auditevents/AUDITEVENT_AGREEMENT_TEMPLATEDELETED"
+            },
+            {
+                "Value": "PO adicionado ao modelo",
+                "Name": "metratech.com/auditevents/AUDITEVENT_AGREEMENT_POADDEDTOTEMPLATE"
+            },
+            {
+                "Value": "PO removido do modelo",
+                "Name": "metratech.com/auditevents/AUDITEVENT_AGREEMENT_POREMOVEDFROMTEMPLATE"
+            },
+            {
+                "Value": "RME adicionado ao modelo",
+                "Name": "metratech.com/auditevents/AUDITEVENT_AGREEMENT_RMEADDEDTOTEMPLATE"
+            },
+            {
+                "Value": "RME removido do modelo",
+                "Name": "metratech.com/auditevents/AUDITEVENT_AGREEMENT_RMEREMOVEDFROMTEMPLATE"
+            },
+            {
+                "Value": "Todas as entidades mapeadas removidas do modelo",
+                "Name": "metratech.com/auditevents/AUDITEVENT_AGREEMENT_MAPPEDENTITIESREMOVEDFROMTEMPLATE"
+            },
+            {
+                "Value": "Propriedade principal adicionada ao modelo",
+                "Name": "metratech.com/auditevents/AUDITEVENT_AGREEMENT_ADDEDCOREAGREEMENTPROPTOTEMPLATE"
+            },
+            {
+                "Value": "Adicionado com sucesso Citar",
+                "Name": "metratech.com/auditevents/AUDITEVENT_QUOTE_ADDQUOTE_SUCCESS"
+            },
+            {
+                "Value": "Citar convertido com êxito",
+                "Name": "metratech.com/auditevents/AUDITEVENT_QUOTE_CONVERTQUOTE_SUCCESS"
+            },
+            {
+                "Value": "Citar Atualizado com sucesso",
+                "Name": "metratech.com/auditevents/AUDITEVENT_QUOTE_UPDATEQUOTE_SUCCESS"
+            },
+            {
+                "Value": "Citar excluído com sucesso",
+                "Name": "metratech.com/auditevents/AUDITEVENT_QUOTE_DELETEQUOTE_SUCCESS"
+            },
+            {
+                "Value": "Falha ao adicionar Citar",
+                "Name": "metratech.com/auditevents/AUDITEVENT_QUOTE_ADDQUOTE_FAILURE"
+            },
+            {
+                "Value": "Falha ao converter Citar",
+                "Name": "metratech.com/auditevents/AUDITEVENT_QUOTE_CONVERTQUOTE_FAILURE"
+            },
+            {
+                "Value": "Falha ao atualizar Citar",
+                "Name": "metratech.com/auditevents/AUDITEVENT_QUOTE_UPDATEQUOTE_FAILURE"
+            },
+            {
+                "Value": "Falha ao excluir Citar",
+                "Name": "metratech.com/auditevents/AUDITEVENT_QUOTE_DELETEQUOTE_FAILURE"
+            },
+            {
+                "Value": "[pt-BR]ACH payment notification has been sent",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACH_NOTIFICATION_EMAIL_SUCCESS"
+            },
+            {
+                "Value": "[pt-BR]ACH payment notification has not been sent",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACH_NOTIFICATION_EMAIL_FAILURE"
+            },
+            {
+                "Value": "[pt-BR]ACH refund notification has been sent",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACH_REFUND_NOTIFICATION_EMAIL_SUCCESS"
+            },
+            {
+                "Value": "[pt-BR]ACH refund notification has not been sent",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACH_REFUND_NOTIFICATION_EMAIL_FAILURE"
+            },
+            {
+                "Value": "[pt-BR]Void transaction succeeded",
+                "Name": "metratech.com/auditevents/AUDITEVENT_VOID_TRANSACTION_SUCCESS"
+            },
+            {
+                "Value": "[pt-BR]Void transaction failed",
+                "Name": "metratech.com/auditevents/AUDITEVENT_VOID_TRANSACTION_FAILED"
+            },
+            {
+                "Value": "[pt-BR]ACH inquiry transaction succeeded",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACH_INQUIRY_ADAPTER_SUCCESS"
+            },
+            {
+                "Value": "[pt-BR]ACH inquiry transaction failed",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACH_INQUIRY_ADAPTER_FAILURE"
+            },
+            {
+                "Value": "[pt-BR]Accounting cycle creation succeeded",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNTING_CYCLE_CREATE_SUCCESS"
+            },
+            {
+                "Value": "[pt-BR]Accounting cycle update succeeded",
+                "Name": "metratech.com/auditevents/AUDITEVENT_ACCOUNTING_CYCLE_UPDATE_SUCCESS"
+            }
+        ]
+    }
+}}

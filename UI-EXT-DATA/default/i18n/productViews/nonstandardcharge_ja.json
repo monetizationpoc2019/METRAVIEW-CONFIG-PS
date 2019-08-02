@@ -1,0 +1,32 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/NonStandardCharge",
+        "locale_entry": [
+            {
+                "Value": "非標準料金",
+                "Name": "metratech.com/NonStandardCharge"
+            },
+            {
+                "Value": "その他",
+                "Name": "metratech.com/NonStandardCharge/AdditionalCode/Other"
+            },
+            {
+                "Value": "返金",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Credit"
+            },
+            {
+                "Value": "引き落とし",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Debit"
+            },
+            {
+                "Value": "その他",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Other"
+            },
+            {
+                "Value": "その他",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeType/Other"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,76 @@
+{"mt_config": {
+    "language_code": "gb",
+    "locale_space": {
+        "name": "pipeline/error",
+        "locale_entry": [
+            {
+                "Value": "System Failures",
+                "Name": "pipeline/error"
+            },
+            {
+                "Value": "Code",
+                "Name": "pipeline/error/Code"
+            },
+            {
+                "Value": "Error Message",
+                "Name": "pipeline/error/ErrorMessage"
+            },
+            {
+                "Value": "Failure Compound ID",
+                "Name": "pipeline/error/FailureCompoundID"
+            },
+            {
+                "Value": "Failure ID",
+                "Name": "pipeline/error/FailureID"
+            },
+            {
+                "Value": "Failure Service Name",
+                "Name": "pipeline/error/FailureServiceName"
+            },
+            {
+                "Value": "Failure Time",
+                "Name": "pipeline/error/FailureTime"
+            },
+            {
+                "Value": "Line",
+                "Name": "pipeline/error/Line"
+            },
+            {
+                "Value": "Metered Time",
+                "Name": "pipeline/error/MeteredTime"
+            },
+            {
+                "Value": "Method",
+                "Name": "pipeline/error/Method"
+            },
+            {
+                "Value": "Module",
+                "Name": "pipeline/error/Module"
+            },
+            {
+                "Value": "PlugIn",
+                "Name": "pipeline/error/PlugIn"
+            },
+            {
+                "Value": "Possible Account ID",
+                "Name": "pipeline/error/PossibleAccountID"
+            },
+            {
+                "Value": "Sender",
+                "Name": "pipeline/error/Sender"
+            },
+            {
+                "Value": "Stage Name",
+                "Name": "pipeline/error/StageName"
+            },
+            {
+                "Value": "State",
+                "Name": "pipeline/error/State"
+            },
+            {
+                "Value": "Batch",
+                "Name": "pipeline/error/tx_batch"
+            }
+        ]
+    }
+}}

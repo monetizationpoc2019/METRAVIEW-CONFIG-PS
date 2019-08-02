@@ -1,0 +1,16 @@
+{"mt_config": {
+    "language_code": "gb",
+    "locale_space": {
+        "name": "CDE",
+        "locale_entry": [
+            {
+                "Value": "Multi Bucket",
+                "Name": "CDE/BucketType/MULTIBUCKET"
+            },
+            {
+                "Value": "Single Bucket",
+                "Name": "CDE/BucketType/SINGLEBUCKET"
+            }
+        ]
+    }
+}}

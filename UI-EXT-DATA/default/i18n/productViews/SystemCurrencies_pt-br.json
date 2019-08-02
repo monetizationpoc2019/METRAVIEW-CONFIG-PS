@@ -1,0 +1,768 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "Global/SystemCurrencies",
+        "locale_entry": [
+            {
+                "Value": "AED",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/AED"
+            },
+            {
+                "Value": "AFA",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/AFA"
+            },
+            {
+                "Value": "AFF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/AFF"
+            },
+            {
+                "Value": "AFN",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/AFN"
+            },
+            {
+                "Value": "TODOS",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ALL"
+            },
+            {
+                "Value": "AMD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/AMD"
+            },
+            {
+                "Value": "ANG",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ANG"
+            },
+            {
+                "Value": "AOA",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/AOA"
+            },
+            {
+                "Value": "ARS",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ARS"
+            },
+            {
+                "Value": "AUD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/AUD"
+            },
+            {
+                "Value": "AWG",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/AWG"
+            },
+            {
+                "Value": "AZN",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/AZN"
+            },
+            {
+                "Value": "BAM",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BAM"
+            },
+            {
+                "Value": "BBD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BBD"
+            },
+            {
+                "Value": "BDT",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BDT"
+            },
+            {
+                "Value": "BGN",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BGN"
+            },
+            {
+                "Value": "BHD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BHD"
+            },
+            {
+                "Value": "BIF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BIF"
+            },
+            {
+                "Value": "BMD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BMD"
+            },
+            {
+                "Value": "BND",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BND"
+            },
+            {
+                "Value": "BOB",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BOB"
+            },
+            {
+                "Value": "BRE",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BRE"
+            },
+            {
+                "Value": "BRL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BRL"
+            },
+            {
+                "Value": "BSD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BSD"
+            },
+            {
+                "Value": "BTN",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BTN"
+            },
+            {
+                "Value": "BWP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BWP"
+            },
+            {
+                "Value": "BYR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BYR"
+            },
+            {
+                "Value": "BZD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/BZD"
+            },
+            {
+                "Value": "CAD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CAD"
+            },
+            {
+                "Value": "CDF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CDF"
+            },
+            {
+                "Value": "CHF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CHF"
+            },
+            {
+                "Value": "CLP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CLP"
+            },
+            {
+                "Value": "CNY",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CNY"
+            },
+            {
+                "Value": "COP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/COP"
+            },
+            {
+                "Value": "CRC",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CRC"
+            },
+            {
+                "Value": "CUC",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CUC"
+            },
+            {
+                "Value": "CUP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CUP"
+            },
+            {
+                "Value": "CVE",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CVE"
+            },
+            {
+                "Value": "CYP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CYP"
+            },
+            {
+                "Value": "CZK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/CZK"
+            },
+            {
+                "Value": "DEM",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/DEM"
+            },
+            {
+                "Value": "DJF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/DJF"
+            },
+            {
+                "Value": "DKK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/DKK"
+            },
+            {
+                "Value": "DOP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/DOP"
+            },
+            {
+                "Value": "DZD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/DZD"
+            },
+            {
+                "Value": "EEK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/EEK"
+            },
+            {
+                "Value": "EGP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/EGP"
+            },
+            {
+                "Value": "ERN",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ERN"
+            },
+            {
+                "Value": "ESP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ESP"
+            },
+            {
+                "Value": "ETB",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ETB"
+            },
+            {
+                "Value": "ETP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ETP"
+            },
+            {
+                "Value": "EUR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/EUR"
+            },
+            {
+                "Value": "FJD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/FJD"
+            },
+            {
+                "Value": "FKF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/FKF"
+            },
+            {
+                "Value": "FKP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/FKP"
+            },
+            {
+                "Value": "FRF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/FRF"
+            },
+            {
+                "Value": "GBP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/GBP"
+            },
+            {
+                "Value": "GEL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/GEL"
+            },
+            {
+                "Value": "GGP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/GGP"
+            },
+            {
+                "Value": "GHS",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/GHS"
+            },
+            {
+                "Value": "GIP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/GIP"
+            },
+            {
+                "Value": "GMD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/GMD"
+            },
+            {
+                "Value": "GNF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/GNF"
+            },
+            {
+                "Value": "GQE",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/GQE"
+            },
+            {
+                "Value": "GTQ",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/GTQ"
+            },
+            {
+                "Value": "GYD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/GYD"
+            },
+            {
+                "Value": "HKD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/HKD"
+            },
+            {
+                "Value": "HNL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/HNL"
+            },
+            {
+                "Value": "HRK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/HRK"
+            },
+            {
+                "Value": "HTG",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/HTG"
+            },
+            {
+                "Value": "HUF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/HUF"
+            },
+            {
+                "Value": "IDR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/IDR"
+            },
+            {
+                "Value": "IEP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/IEP"
+            },
+            {
+                "Value": "ILS",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ILS"
+            },
+            {
+                "Value": "IMP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/IMP"
+            },
+            {
+                "Value": "INR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/INR"
+            },
+            {
+                "Value": "IQD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/IQD"
+            },
+            {
+                "Value": "IQQ",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/IQQ"
+            },
+            {
+                "Value": "IRR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/IRR"
+            },
+            {
+                "Value": "ISK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ISK"
+            },
+            {
+                "Value": "JEP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/JEP"
+            },
+            {
+                "Value": "JMD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/JMD"
+            },
+            {
+                "Value": "JOD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/JOD"
+            },
+            {
+                "Value": "JPY",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/JPY"
+            },
+            {
+                "Value": "KES",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/KES"
+            },
+            {
+                "Value": "KGS",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/KGS"
+            },
+            {
+                "Value": "KHR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/KHR"
+            },
+            {
+                "Value": "KMF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/KMF"
+            },
+            {
+                "Value": "KPW",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/KPW"
+            },
+            {
+                "Value": "KRW",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/KRW"
+            },
+            {
+                "Value": "KWD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/KWD"
+            },
+            {
+                "Value": "KYD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/KYD"
+            },
+            {
+                "Value": "KZT",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/KZT"
+            },
+            {
+                "Value": "LAK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/LAK"
+            },
+            {
+                "Value": "LBP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/LBP"
+            },
+            {
+                "Value": "LKR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/LKR"
+            },
+            {
+                "Value": "LRD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/LRD"
+            },
+            {
+                "Value": "LSL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/LSL"
+            },
+            {
+                "Value": "LTL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/LTL"
+            },
+            {
+                "Value": "LVL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/LVL"
+            },
+            {
+                "Value": "LYD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/LYD"
+            },
+            {
+                "Value": "MAD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MAD"
+            },
+            {
+                "Value": "MDL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MDL"
+            },
+            {
+                "Value": "MGA",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MGA"
+            },
+            {
+                "Value": "MGF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MGF"
+            },
+            {
+                "Value": "MKD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MKD"
+            },
+            {
+                "Value": "MMK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MMK"
+            },
+            {
+                "Value": "MNT",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MNT"
+            },
+            {
+                "Value": "MOP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MOP"
+            },
+            {
+                "Value": "MRO",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MRO"
+            },
+            {
+                "Value": "MTL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MTL"
+            },
+            {
+                "Value": "MUR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MUR"
+            },
+            {
+                "Value": "MVR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MVR"
+            },
+            {
+                "Value": "MWK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MWK"
+            },
+            {
+                "Value": "MXN",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MXN"
+            },
+            {
+                "Value": "MYR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MYR"
+            },
+            {
+                "Value": "MZN",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/MZN"
+            },
+            {
+                "Value": "NAD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/NAD"
+            },
+            {
+                "Value": "NGN",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/NGN"
+            },
+            {
+                "Value": "NIO",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/NIO"
+            },
+            {
+                "Value": "NOK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/NOK"
+            },
+            {
+                "Value": "NPR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/NPR"
+            },
+            {
+                "Value": "NZD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/NZD"
+            },
+            {
+                "Value": "OMR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/OMR"
+            },
+            {
+                "Value": "PAB",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/PAB"
+            },
+            {
+                "Value": "PEN",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/PEN"
+            },
+            {
+                "Value": "PGK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/PGK"
+            },
+            {
+                "Value": "PHP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/PHP"
+            },
+            {
+                "Value": "PKR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/PKR"
+            },
+            {
+                "Value": "PLN",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/PLN"
+            },
+            {
+                "Value": "PYG",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/PYG"
+            },
+            {
+                "Value": "QAR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/QAR"
+            },
+            {
+                "Value": "ROL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ROL"
+            },
+            {
+                "Value": "RON",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/RON"
+            },
+            {
+                "Value": "RSD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/RSD"
+            },
+            {
+                "Value": "RUB",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/RUB"
+            },
+            {
+                "Value": "RUR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/RUR"
+            },
+            {
+                "Value": "RWF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/RWF"
+            },
+            {
+                "Value": "SAR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SAR"
+            },
+            {
+                "Value": "SBD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SBD"
+            },
+            {
+                "Value": "SCR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SCR"
+            },
+            {
+                "Value": "SDD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SDD"
+            },
+            {
+                "Value": "SDG",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SDG"
+            },
+            {
+                "Value": "SEK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SEK"
+            },
+            {
+                "Value": "SGD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SGD"
+            },
+            {
+                "Value": "SHP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SHP"
+            },
+            {
+                "Value": "SKK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SKK"
+            },
+            {
+                "Value": "SLL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SLL"
+            },
+            {
+                "Value": "SOS",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SOS"
+            },
+            {
+                "Value": "SPL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SPL"
+            },
+            {
+                "Value": "SRD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SRD"
+            },
+            {
+                "Value": "STD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/STD"
+            },
+            {
+                "Value": "SVC",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SVC"
+            },
+            {
+                "Value": "SYP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SYP"
+            },
+            {
+                "Value": "SZL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/SZL"
+            },
+            {
+                "Value": "THB",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/THB"
+            },
+            {
+                "Value": "TJS",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TJS"
+            },
+            {
+                "Value": "TMM",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TMM"
+            },
+            {
+                "Value": "TMT",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TMT"
+            },
+            {
+                "Value": "TND",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TND"
+            },
+            {
+                "Value": "TOP",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TOP"
+            },
+            {
+                "Value": "TRL",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TRL"
+            },
+            {
+                "Value": "TRY",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TRY"
+            },
+            {
+                "Value": "TTD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TTD"
+            },
+            {
+                "Value": "TVD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TVD"
+            },
+            {
+                "Value": "TWD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TWD"
+            },
+            {
+                "Value": "TZS",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/TZS"
+            },
+            {
+                "Value": "UAH",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/UAH"
+            },
+            {
+                "Value": "UGX",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/UGX"
+            },
+            {
+                "Value": "USD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/USD"
+            },
+            {
+                "Value": "UYU",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/UYU"
+            },
+            {
+                "Value": "UZS",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/UZS"
+            },
+            {
+                "Value": "VEB",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/VEB"
+            },
+            {
+                "Value": "VEF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/VEF"
+            },
+            {
+                "Value": "VND",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/VND"
+            },
+            {
+                "Value": "VUV",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/VUV"
+            },
+            {
+                "Value": "WST",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/WST"
+            },
+            {
+                "Value": "XAF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/XAF"
+            },
+            {
+                "Value": "XAG",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/XAG"
+            },
+            {
+                "Value": "XAU",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/XAU"
+            },
+            {
+                "Value": "XCD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/XCD"
+            },
+            {
+                "Value": "XDR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/XDR"
+            },
+            {
+                "Value": "XOF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/XOF"
+            },
+            {
+                "Value": "XPD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/XPD"
+            },
+            {
+                "Value": "XPF",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/XPF"
+            },
+            {
+                "Value": "XPT",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/XPT"
+            },
+            {
+                "Value": "YER",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/YER"
+            },
+            {
+                "Value": "ZAR",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ZAR"
+            },
+            {
+                "Value": "ZMK",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ZMK"
+            },
+            {
+                "Value": "ZWD",
+                "Name": "Global/SystemCurrencies/SystemCurrencies/ZWD"
+            }
+        ]
+    }
+}}

@@ -1,0 +1,48 @@
+{"mt_config": {
+    "language_code": "gb",
+    "locale_space": {
+        "name": "metratech.com/audit",
+        "locale_entry": [
+            {
+                "Value": "Audit Log",
+                "Name": "metratech.com/audit"
+            },
+            {
+                "Value": "Csr ID",
+                "Name": "metratech.com/audit/CsrID"
+            },
+            {
+                "Value": "Description",
+                "Name": "metratech.com/audit/description"
+            },
+            {
+                "Value": "MAM",
+                "Name": "metratech.com/audit/enmApplicationID/MAM"
+            },
+            {
+                "Value": "MPS",
+                "Name": "metratech.com/audit/enmApplicationID/MPS"
+            },
+            {
+                "Value": "UNKNOWN",
+                "Name": "metratech.com/audit/enmApplicationID/UNKNOWN"
+            },
+            {
+                "Value": "Add",
+                "Name": "metratech.com/audit/enmAuditOperation/Add"
+            },
+            {
+                "Value": "Delete",
+                "Name": "metratech.com/audit/enmAuditOperation/Delete"
+            },
+            {
+                "Value": "Update",
+                "Name": "metratech.com/audit/enmAuditOperation/Update"
+            },
+            {
+                "Value": "Subscriber Account ID",
+                "Name": "metratech.com/audit/subscriberaccountID"
+            }
+        ]
+    }
+}}

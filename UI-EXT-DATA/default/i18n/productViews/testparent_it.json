@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "metratech.com/testparent",
+        "locale_entry": [
+            {
+                "Value": "Verifica transazione padre",
+                "Name": "metratech.com/testparent"
+            },
+            {
+                "Value": "Descrizione",
+                "Name": "metratech.com/testparent/description"
+            },
+            {
+                "Value": "Ora",
+                "Name": "metratech.com/testparent/time"
+            },
+            {
+                "Value": "Importo totale",
+                "Name": "metratech.com/testparent/totalamount"
+            },
+            {
+                "Value": "Unità totali",
+                "Name": "metratech.com/testparent/totalunits"
+            }
+        ]
+    }
+}}

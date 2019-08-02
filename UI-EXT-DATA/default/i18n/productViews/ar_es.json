@@ -1,0 +1,1352 @@
+{"mt_config": {
+    "language_code": "es",
+    "locale_space": {
+        "name": "metratech.com/AR",
+        "locale_entry": [
+            {
+                "Value": "metratech.com/AR/AccountNotesPriorityType/High",
+                "Name": "metratech.com/AR/AccountNotesPriorityType/High"
+            },
+            {
+                "Value": "metratech.com/AR/AccountNotesPriorityType/Low",
+                "Name": "metratech.com/AR/AccountNotesPriorityType/Low"
+            },
+            {
+                "Value": "metratech.com/AR/AccountPaymentStatus/A",
+                "Name": "metratech.com/AR/AccountPaymentStatus/A"
+            },
+            {
+                "Value": "metratech.com/AR/AccountPaymentStatus/B",
+                "Name": "metratech.com/AR/AccountPaymentStatus/B"
+            },
+            {
+                "Value": "metratech.com/AR/AccountPaymentStatus/C",
+                "Name": "metratech.com/AR/AccountPaymentStatus/C"
+            },
+            {
+                "Value": "metratech.com/AR/AccountPaymentStatus/R",
+                "Name": "metratech.com/AR/AccountPaymentStatus/R"
+            },
+            {
+                "Value": "metratech.com/AR/AccountPaymentStatus/S",
+                "Name": "metratech.com/AR/AccountPaymentStatus/S"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/Account",
+                "Name": "metratech.com/AR/AccountType/Account"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/BusinessUnit",
+                "Name": "metratech.com/AR/AccountType/BusinessUnit"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/Company",
+                "Name": "metratech.com/AR/AccountType/Company"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/CoreSubscriber",
+                "Name": "metratech.com/AR/AccountType/CoreSubscriber"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/CorporateAccount",
+                "Name": "metratech.com/AR/AccountType/CorporateAccount"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/DepartmentAccount",
+                "Name": "metratech.com/AR/AccountType/DepartmentAccount"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/Division",
+                "Name": "metratech.com/AR/AccountType/Division"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/IndependentAccount",
+                "Name": "metratech.com/AR/AccountType/IndependentAccount"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/Office",
+                "Name": "metratech.com/AR/AccountType/Office"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/Owner",
+                "Name": "metratech.com/AR/AccountType/Owner"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/Root",
+                "Name": "metratech.com/AR/AccountType/Root"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/SalesRegion",
+                "Name": "metratech.com/AR/AccountType/SalesRegion"
+            },
+            {
+                "Value": "metratech.com/AR/AccountType/SystemAccount",
+                "Name": "metratech.com/AR/AccountType/SystemAccount"
+            },
+            {
+                "Value": "metratech.com/AR/AdjustmentCreationType/Amount",
+                "Name": "metratech.com/AR/AdjustmentCreationType/Amount"
+            },
+            {
+                "Value": "metratech.com/AR/AdjustmentCreationType/Percentage",
+                "Name": "metratech.com/AR/AdjustmentCreationType/Percentage"
+            },
+            {
+                "Value": "metratech.com/AR/AdjustmentType/Conference",
+                "Name": "metratech.com/AR/AdjustmentType/Conference"
+            },
+            {
+                "Value": "metratech.com/AR/AdjustmentType/Miscellaneous",
+                "Name": "metratech.com/AR/AdjustmentType/Miscellaneous"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusRetry/ No",
+                "Name": "metratech.com/AR/AutoPayStatusRetry/ No"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusRetry/Never",
+                "Name": "metratech.com/AR/AutoPayStatusRetry/Never"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusRetry/Yes",
+                "Name": "metratech.com/AR/AutoPayStatusRetry/Yes"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusType/Approved",
+                "Name": "metratech.com/AR/AutoPayStatusType/Approved"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusType/Executed",
+                "Name": "metratech.com/AR/AutoPayStatusType/Executed"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusType/Failed",
+                "Name": "metratech.com/AR/AutoPayStatusType/Failed"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusType/Offline",
+                "Name": "metratech.com/AR/AutoPayStatusType/Offline"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusType/Open",
+                "Name": "metratech.com/AR/AutoPayStatusType/Open"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusType/PaymentCreated",
+                "Name": "metratech.com/AR/AutoPayStatusType/PaymentCreated"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusType/Reviewed",
+                "Name": "metratech.com/AR/AutoPayStatusType/Reviewed"
+            },
+            {
+                "Value": "metratech.com/AR/AutoPayStatusType/Submitted",
+                "Name": "metratech.com/AR/AutoPayStatusType/Submitted"
+            },
+            {
+                "Value": "metratech.com/AR/BankAccountType/Checking",
+                "Name": "metratech.com/AR/BankAccountType/Checking"
+            },
+            {
+                "Value": "metratech.com/AR/BankAccountType/Savings",
+                "Name": "metratech.com/AR/BankAccountType/Savings"
+            },
+            {
+                "Value": "metratech.com/AR/BatchStatus/HardClosed",
+                "Name": "metratech.com/AR/BatchStatus/HardClosed"
+            },
+            {
+                "Value": "metratech.com/AR/BatchStatus/Open",
+                "Name": "metratech.com/AR/BatchStatus/Open"
+            },
+            {
+                "Value": "metratech.com/AR/BatchStatus/Pending",
+                "Name": "metratech.com/AR/BatchStatus/Pending"
+            },
+            {
+                "Value": "metratech.com/AR/BatchStatus/SoftClosed",
+                "Name": "metratech.com/AR/BatchStatus/SoftClosed"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/ PaymentCQ",
+                "Name": "metratech.com/AR/BatchType/ PaymentCQ"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/Matching",
+                "Name": "metratech.com/AR/BatchType/Matching"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/PaymentACH",
+                "Name": "metratech.com/AR/BatchType/PaymentACH"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/PaymentBT",
+                "Name": "metratech.com/AR/BatchType/PaymentBT"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/PaymentCC",
+                "Name": "metratech.com/AR/BatchType/PaymentCC"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/PaymentDD",
+                "Name": "metratech.com/AR/BatchType/PaymentDD"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/PaymentIC",
+                "Name": "metratech.com/AR/BatchType/PaymentIC"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/PaymentLB",
+                "Name": "metratech.com/AR/BatchType/PaymentLB"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/PaymentTCC",
+                "Name": "metratech.com/AR/BatchType/PaymentTCC"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/PaymentWH",
+                "Name": "metratech.com/AR/BatchType/PaymentWH"
+            },
+            {
+                "Value": "metratech.com/AR/BatchType/PaymentWO",
+                "Name": "metratech.com/AR/BatchType/PaymentWO"
+            },
+            {
+                "Value": "metratech.com/AR/BillingMethod/Account",
+                "Name": "metratech.com/AR/BillingMethod/Account"
+            },
+            {
+                "Value": "metratech.com/AR/BillingMethod/Conference",
+                "Name": "metratech.com/AR/BillingMethod/Conference"
+            },
+            {
+                "Value": "metratech.com/AR/BillingMethod/OnDemand",
+                "Name": "metratech.com/AR/BillingMethod/OnDemand"
+            },
+            {
+                "Value": "metratech.com/AR/BillingMethod/Owner",
+                "Name": "metratech.com/AR/BillingMethod/Owner"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/ CreditCardDisc",
+                "Name": "metratech.com/AR/ConfigTransactionType/ CreditCardDisc"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/ OutGoingDirectDebit",
+                "Name": "metratech.com/AR/ConfigTransactionType/ OutGoingDirectDebit"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/BadDebtWriteoffs",
+                "Name": "metratech.com/AR/ConfigTransactionType/BadDebtWriteoffs"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/BadDebtWriteoffsReversal",
+                "Name": "metratech.com/AR/ConfigTransactionType/BadDebtWriteoffsReversal"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/BankTransfer",
+                "Name": "metratech.com/AR/ConfigTransactionType/BankTransfer"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/Check",
+                "Name": "metratech.com/AR/ConfigTransactionType/Check"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/CrediCardMastercard",
+                "Name": "metratech.com/AR/ConfigTransactionType/CrediCardMastercard"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/CreditCardAmex",
+                "Name": "metratech.com/AR/ConfigTransactionType/CreditCardAmex"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/CreditCardDiners",
+                "Name": "metratech.com/AR/ConfigTransactionType/CreditCardDiners"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/CreditCardJCB",
+                "Name": "metratech.com/AR/ConfigTransactionType/CreditCardJCB"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/CreditCardMaestro",
+                "Name": "metratech.com/AR/ConfigTransactionType/CreditCardMaestro"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/CreditCardVisa",
+                "Name": "metratech.com/AR/ConfigTransactionType/CreditCardVisa"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/Credits",
+                "Name": "metratech.com/AR/ConfigTransactionType/Credits"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/CreditsReversal",
+                "Name": "metratech.com/AR/ConfigTransactionType/CreditsReversal"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/DebitNotes",
+                "Name": "metratech.com/AR/ConfigTransactionType/DebitNotes"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/DirectDebit",
+                "Name": "metratech.com/AR/ConfigTransactionType/DirectDebit"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/EmeaBadDebt",
+                "Name": "metratech.com/AR/ConfigTransactionType/EmeaBadDebt"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/GainLoss",
+                "Name": "metratech.com/AR/ConfigTransactionType/GainLoss"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/Goodwill",
+                "Name": "metratech.com/AR/ConfigTransactionType/Goodwill"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/GoodwillReversal",
+                "Name": "metratech.com/AR/ConfigTransactionType/GoodwillReversal"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/Intercompany",
+                "Name": "metratech.com/AR/ConfigTransactionType/Intercompany"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/IntercompanyTransfer",
+                "Name": "metratech.com/AR/ConfigTransactionType/IntercompanyTransfer"
+            },
+            {
+                "Value": "InterCompanyTransferAustralia",
+                "Name": "metratech.com/AR/ConfigTransactionType/InterCompanyTransferAustralia"
+            },
+            {
+                "Value": "InterCompanyTransferHongKong",
+                "Name": "metratech.com/AR/ConfigTransactionType/InterCompanyTransferHongKong"
+            },
+            {
+                "Value": "InterCompanyTransferIndia",
+                "Name": "metratech.com/AR/ConfigTransactionType/InterCompanyTransferIndia"
+            },
+            {
+                "Value": "InterCompanyTransferJapan",
+                "Name": "metratech.com/AR/ConfigTransactionType/InterCompanyTransferJapan"
+            },
+            {
+                "Value": "InterCompanyTransferSingapore",
+                "Name": "metratech.com/AR/ConfigTransactionType/InterCompanyTransferSingapore"
+            },
+            {
+                "Value": "InterCompanyTransferUK",
+                "Name": "metratech.com/AR/ConfigTransactionType/InterCompanyTransferUK"
+            },
+            {
+                "Value": "InterCompanyTransferWestIP",
+                "Name": "metratech.com/AR/ConfigTransactionType/InterCompanyTransferWestIP"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/IntercompanyWriteOff",
+                "Name": "metratech.com/AR/ConfigTransactionType/IntercompanyWriteOff"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/IntercompanyWriteOffReversal",
+                "Name": "metratech.com/AR/ConfigTransactionType/IntercompanyWriteOffReversal"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/LockBox",
+                "Name": "metratech.com/AR/ConfigTransactionType/LockBox"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/OutgoingPayment",
+                "Name": "metratech.com/AR/ConfigTransactionType/OutgoingPayment"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/OutGoingPaymentsBT",
+                "Name": "metratech.com/AR/ConfigTransactionType/OutGoingPaymentsBT"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/OutGoingPaymentsCC",
+                "Name": "metratech.com/AR/ConfigTransactionType/OutGoingPaymentsCC"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/OutGoingPaymentsCK",
+                "Name": "metratech.com/AR/ConfigTransactionType/OutGoingPaymentsCK"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/OutgoingPaymentsIC",
+                "Name": "metratech.com/AR/ConfigTransactionType/OutgoingPaymentsIC"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/OutGoingSmallBalance",
+                "Name": "metratech.com/AR/ConfigTransactionType/OutGoingSmallBalance"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/OutGoingUnRefundable",
+                "Name": "metratech.com/AR/ConfigTransactionType/OutGoingUnRefundable"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/PaymentFile",
+                "Name": "metratech.com/AR/ConfigTransactionType/PaymentFile"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/PaymentOrCreditUNAllocation",
+                "Name": "metratech.com/AR/ConfigTransactionType/PaymentOrCreditUNAllocation"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/PaymentReversal",
+                "Name": "metratech.com/AR/ConfigTransactionType/PaymentReversal"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/PaymentTCC",
+                "Name": "metratech.com/AR/ConfigTransactionType/PaymentTCC"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/Placeholder_DONOTUSE",
+                "Name": "metratech.com/AR/ConfigTransactionType/Placeholder_DONOTUSE"
+            },
+            {
+                "Value": "Placeholder1_DONOTUSE",
+                "Name": "metratech.com/AR/ConfigTransactionType/Placeholder1_DONOTUSE"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/RecurringInvoices",
+                "Name": "metratech.com/AR/ConfigTransactionType/RecurringInvoices"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/SmallBalanceWriteOff",
+                "Name": "metratech.com/AR/ConfigTransactionType/SmallBalanceWriteOff"
+            },
+            {
+                "Value": "metratech.com/AR/ConfigTransactionType/Wholesaler",
+                "Name": "metratech.com/AR/ConfigTransactionType/Wholesaler"
+            },
+            {
+                "Value": "metratech.com/AR/CreditCardType/ Visa",
+                "Name": "metratech.com/AR/CreditCardType/ Visa"
+            },
+            {
+                "Value": "metratech.com/AR/CreditCardType/AmericanExpress",
+                "Name": "metratech.com/AR/CreditCardType/AmericanExpress"
+            },
+            {
+                "Value": "metratech.com/AR/CreditCardType/DinersClub",
+                "Name": "metratech.com/AR/CreditCardType/DinersClub"
+            },
+            {
+                "Value": "metratech.com/AR/CreditCardType/Discover",
+                "Name": "metratech.com/AR/CreditCardType/Discover"
+            },
+            {
+                "Value": "metratech.com/AR/CreditCardType/JCB",
+                "Name": "metratech.com/AR/CreditCardType/JCB"
+            },
+            {
+                "Value": "metratech.com/AR/CreditCardType/Maestro",
+                "Name": "metratech.com/AR/CreditCardType/Maestro"
+            },
+            {
+                "Value": "metratech.com/AR/CreditCardType/MasterCard",
+                "Name": "metratech.com/AR/CreditCardType/MasterCard"
+            },
+            {
+                "Value": "metratech.com/AR/CreditStatus/Approved",
+                "Name": "metratech.com/AR/CreditStatus/Approved"
+            },
+            {
+                "Value": "metratech.com/AR/CreditStatus/Denied",
+                "Name": "metratech.com/AR/CreditStatus/Denied"
+            },
+            {
+                "Value": "metratech.com/AR/CreditStatus/Open",
+                "Name": "metratech.com/AR/CreditStatus/Open"
+            },
+            {
+                "Value": "metratech.com/AR/CreditType/BadDebt",
+                "Name": "metratech.com/AR/CreditType/BadDebt"
+            },
+            {
+                "Value": "metratech.com/AR/CreditType/Goodwill",
+                "Name": "metratech.com/AR/CreditType/Goodwill"
+            },
+            {
+                "Value": "metratech.com/AR/CreditType/Intercompany",
+                "Name": "metratech.com/AR/CreditType/Intercompany"
+            },
+            {
+                "Value": "metratech.com/AR/CreditType/Normal",
+                "Name": "metratech.com/AR/CreditType/Normal"
+            },
+            {
+                "Value": "metratech.com/AR/CurrencyView/Division",
+                "Name": "metratech.com/AR/CurrencyView/Division"
+            },
+            {
+                "Value": "metratech.com/AR/CurrencyView/Invoice",
+                "Name": "metratech.com/AR/CurrencyView/Invoice"
+            },
+            {
+                "Value": "metratech.com/AR/DfpStatus/Cancelled",
+                "Name": "metratech.com/AR/DfpStatus/Cancelled"
+            },
+            {
+                "Value": "metratech.com/AR/DfpStatus/Closed",
+                "Name": "metratech.com/AR/DfpStatus/Closed"
+            },
+            {
+                "Value": "metratech.com/AR/DfpStatus/Dispute",
+                "Name": "metratech.com/AR/DfpStatus/Dispute"
+            },
+            {
+                "Value": "metratech.com/AR/DfpStatus/Open",
+                "Name": "metratech.com/AR/DfpStatus/Open"
+            },
+            {
+                "Value": "metratech.com/AR/DfpStatus/Pending",
+                "Name": "metratech.com/AR/DfpStatus/Pending"
+            },
+            {
+                "Value": "metratech.com/AR/DfpStatus/Split",
+                "Name": "metratech.com/AR/DfpStatus/Split"
+            },
+            {
+                "Value": "metratech.com/AR/DfpStatus/Unallocated",
+                "Name": "metratech.com/AR/DfpStatus/Unallocated"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeCreationStatus/Approved",
+                "Name": "metratech.com/AR/DisputeCreationStatus/Approved"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeCreationStatus/Pending",
+                "Name": "metratech.com/AR/DisputeCreationStatus/Pending"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeExchangeRateFormat/CurrentDate",
+                "Name": "metratech.com/AR/DisputeExchangeRateFormat/CurrentDate"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeExchangeRateFormat/DivisionAmount",
+                "Name": "metratech.com/AR/DisputeExchangeRateFormat/DivisionAmount"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeExchangeRateFormat/Override",
+                "Name": "metratech.com/AR/DisputeExchangeRateFormat/Override"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeSearchMode/AllSessions",
+                "Name": "metratech.com/AR/DisputeSearchMode/AllSessions"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeSearchMode/Invoices",
+                "Name": "metratech.com/AR/DisputeSearchMode/Invoices"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeSearchMode/Offline",
+                "Name": "metratech.com/AR/DisputeSearchMode/Offline"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeSearchMode/OpenItems",
+                "Name": "metratech.com/AR/DisputeSearchMode/OpenItems"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeStatus/Approved",
+                "Name": "metratech.com/AR/DisputeStatus/Approved"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeStatus/Denied",
+                "Name": "metratech.com/AR/DisputeStatus/Denied"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeStatus/Failed",
+                "Name": "metratech.com/AR/DisputeStatus/Failed"
+            },
+            {
+                "Value": "metratech.com/AR/DisputeStatus/Open",
+                "Name": "metratech.com/AR/DisputeStatus/Open"
+            },
+            {
+                "Value": "metratech.com/AR/DocumentType/CreditNote",
+                "Name": "metratech.com/AR/DocumentType/CreditNote"
+            },
+            {
+                "Value": "metratech.com/AR/DocumentType/DFP",
+                "Name": "metratech.com/AR/DocumentType/DFP"
+            },
+            {
+                "Value": "metratech.com/AR/DocumentType/Invoice",
+                "Name": "metratech.com/AR/DocumentType/Invoice"
+            },
+            {
+                "Value": "metratech.com/AR/DocumentType/Payment",
+                "Name": "metratech.com/AR/DocumentType/Payment"
+            },
+            {
+                "Value": "metratech.com/AR/DocumentType/Refund",
+                "Name": "metratech.com/AR/DocumentType/Refund"
+            },
+            {
+                "Value": "metratech.com/AR/DocumentType/TransferIn",
+                "Name": "metratech.com/AR/DocumentType/TransferIn"
+            },
+            {
+                "Value": "metratech.com/AR/DocumentType/TransferOut",
+                "Name": "metratech.com/AR/DocumentType/TransferOut"
+            },
+            {
+                "Value": "metratech.com/AR/FeedType/Both",
+                "Name": "metratech.com/AR/FeedType/Both"
+            },
+            {
+                "Value": "metratech.com/AR/FeedType/CashFeed",
+                "Name": "metratech.com/AR/FeedType/CashFeed"
+            },
+            {
+                "Value": "metratech.com/AR/FeedType/GLFeed",
+                "Name": "metratech.com/AR/FeedType/GLFeed"
+            },
+            {
+                "Value": "metratech.com/AR/FileExtension/CSV",
+                "Name": "metratech.com/AR/FileExtension/CSV"
+            },
+            {
+                "Value": "metratech.com/AR/FileExtension/XLS",
+                "Name": "metratech.com/AR/FileExtension/XLS"
+            },
+            {
+                "Value": "metratech.com/AR/GLBatchDetailType/CreditNotes",
+                "Name": "metratech.com/AR/GLBatchDetailType/CreditNotes"
+            },
+            {
+                "Value": "metratech.com/AR/GLBatchDetailType/DebitNotes",
+                "Name": "metratech.com/AR/GLBatchDetailType/DebitNotes"
+            },
+            {
+                "Value": "metratech.com/AR/GLBatchDetailType/GainLoss",
+                "Name": "metratech.com/AR/GLBatchDetailType/GainLoss"
+            },
+            {
+                "Value": "metratech.com/AR/GLBatchDetailType/Payment",
+                "Name": "metratech.com/AR/GLBatchDetailType/Payment"
+            },
+            {
+                "Value": "metratech.com/AR/GLBatchDetailType/Refund",
+                "Name": "metratech.com/AR/GLBatchDetailType/Refund"
+            },
+            {
+                "Value": "metratech.com/AR/GLType/Credit",
+                "Name": "metratech.com/AR/GLType/Credit"
+            },
+            {
+                "Value": "metratech.com/AR/GLType/Debit",
+                "Name": "metratech.com/AR/GLType/Debit"
+            },
+            {
+                "Value": "metratech.com/AR/GLType/GainLoss",
+                "Name": "metratech.com/AR/GLType/GainLoss"
+            },
+            {
+                "Value": "metratech.com/AR/GLType/OutgoingPayment",
+                "Name": "metratech.com/AR/GLType/OutgoingPayment"
+            },
+            {
+                "Value": "metratech.com/AR/GLType/Payment",
+                "Name": "metratech.com/AR/GLType/Payment"
+            },
+            {
+                "Value": "metratech.com/AR/InvoiceDelivery/Email",
+                "Name": "metratech.com/AR/InvoiceDelivery/Email"
+            },
+            {
+                "Value": "metratech.com/AR/InvoiceDelivery/EmailLink",
+                "Name": "metratech.com/AR/InvoiceDelivery/EmailLink"
+            },
+            {
+                "Value": "metratech.com/AR/InvoiceDelivery/Mail",
+                "Name": "metratech.com/AR/InvoiceDelivery/Mail"
+            },
+            {
+                "Value": "metratech.com/AR/InvoiceDelivery/Paper",
+                "Name": "metratech.com/AR/InvoiceDelivery/Paper"
+            },
+            {
+                "Value": "metratech.com/AR/OneOffChargeStatus/Approved",
+                "Name": "metratech.com/AR/OneOffChargeStatus/Approved"
+            },
+            {
+                "Value": "metratech.com/AR/OneOffChargeStatus/Executed",
+                "Name": "metratech.com/AR/OneOffChargeStatus/Executed"
+            },
+            {
+                "Value": "metratech.com/AR/OneOffChargeStatus/Failed",
+                "Name": "metratech.com/AR/OneOffChargeStatus/Failed"
+            },
+            {
+                "Value": "metratech.com/AR/OneOffChargeStatus/Open",
+                "Name": "metratech.com/AR/OneOffChargeStatus/Open"
+            },
+            {
+                "Value": "metratech.com/AR/OneOffChargeStatus/PaymentCreated",
+                "Name": "metratech.com/AR/OneOffChargeStatus/PaymentCreated"
+            },
+            {
+                "Value": "metratech.com/AR/OneOffChargeStatus/Reviewed",
+                "Name": "metratech.com/AR/OneOffChargeStatus/Reviewed"
+            },
+            {
+                "Value": "metratech.com/AR/OneOffChargeStatus/Submitted",
+                "Name": "metratech.com/AR/OneOffChargeStatus/Submitted"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingDebitsType/CreditReversal",
+                "Name": "metratech.com/AR/OutgoingDebitsType/CreditReversal"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingDebitsType/InterCompanyTransfer",
+                "Name": "metratech.com/AR/OutgoingDebitsType/InterCompanyTransfer"
+            },
+            {
+                "Value": "InterCompanyTransferAustralia",
+                "Name": "metratech.com/AR/OutgoingDebitsType/InterCompanyTransferAustralia"
+            },
+            {
+                "Value": "InterCompanyTransferHongKong",
+                "Name": "metratech.com/AR/OutgoingDebitsType/InterCompanyTransferHongKong"
+            },
+            {
+                "Value": "InterCompanyTransferIndia",
+                "Name": "metratech.com/AR/OutgoingDebitsType/InterCompanyTransferIndia"
+            },
+            {
+                "Value": "InterCompanyTransferJapan",
+                "Name": "metratech.com/AR/OutgoingDebitsType/InterCompanyTransferJapan"
+            },
+            {
+                "Value": "InterCompanyTransferSingapore",
+                "Name": "metratech.com/AR/OutgoingDebitsType/InterCompanyTransferSingapore"
+            },
+            {
+                "Value": "InterCompanyTransferUK",
+                "Name": "metratech.com/AR/OutgoingDebitsType/InterCompanyTransferUK"
+            },
+            {
+                "Value": "InterCompanyTransferWestIP",
+                "Name": "metratech.com/AR/OutgoingDebitsType/InterCompanyTransferWestIP"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingDebitsType/PaymentReversal",
+                "Name": "metratech.com/AR/OutgoingDebitsType/PaymentReversal"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingDebitsType/Refundcheck",
+                "Name": "metratech.com/AR/OutgoingDebitsType/Refundcheck"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingDebitsType/RefundCreditCard",
+                "Name": "metratech.com/AR/OutgoingDebitsType/RefundCreditCard"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingDebitsType/RefundDirectDebit",
+                "Name": "metratech.com/AR/OutgoingDebitsType/RefundDirectDebit"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingDebitsType/UnrefundableCredit",
+                "Name": "metratech.com/AR/OutgoingDebitsType/UnrefundableCredit"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingPaymentType/CreditReversal",
+                "Name": "metratech.com/AR/OutgoingPaymentType/CreditReversal"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingPaymentType/InterCompanyTransfer",
+                "Name": "metratech.com/AR/OutgoingPaymentType/InterCompanyTransfer"
+            },
+            {
+                "Value": "InterCompanyTransferAustralia",
+                "Name": "metratech.com/AR/OutgoingPaymentType/InterCompanyTransferAustralia"
+            },
+            {
+                "Value": "InterCompanyTransferHongKong",
+                "Name": "metratech.com/AR/OutgoingPaymentType/InterCompanyTransferHongKong"
+            },
+            {
+                "Value": "InterCompanyTransferIndia",
+                "Name": "metratech.com/AR/OutgoingPaymentType/InterCompanyTransferIndia"
+            },
+            {
+                "Value": "InterCompanyTransferJapan",
+                "Name": "metratech.com/AR/OutgoingPaymentType/InterCompanyTransferJapan"
+            },
+            {
+                "Value": "InterCompanyTransferSingapore",
+                "Name": "metratech.com/AR/OutgoingPaymentType/InterCompanyTransferSingapore"
+            },
+            {
+                "Value": "InterCompanyTransferUK",
+                "Name": "metratech.com/AR/OutgoingPaymentType/InterCompanyTransferUK"
+            },
+            {
+                "Value": "InterCompanyTransferWestIP",
+                "Name": "metratech.com/AR/OutgoingPaymentType/InterCompanyTransferWestIP"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingPaymentType/PaymentReversal",
+                "Name": "metratech.com/AR/OutgoingPaymentType/PaymentReversal"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingPaymentType/RefundCheck",
+                "Name": "metratech.com/AR/OutgoingPaymentType/RefundCheck"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingPaymentType/RefundCreditCard",
+                "Name": "metratech.com/AR/OutgoingPaymentType/RefundCreditCard"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingPaymentType/RefundDirectDebit",
+                "Name": "metratech.com/AR/OutgoingPaymentType/RefundDirectDebit"
+            },
+            {
+                "Value": "metratech.com/AR/OutgoingPaymentType/UnRefundableCredit",
+                "Name": "metratech.com/AR/OutgoingPaymentType/UnRefundableCredit"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionOriginType/Adjustment",
+                "Name": "metratech.com/AR/PaymentDistributionOriginType/Adjustment"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionOriginType/Credit",
+                "Name": "metratech.com/AR/PaymentDistributionOriginType/Credit"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionOriginType/Payment",
+                "Name": "metratech.com/AR/PaymentDistributionOriginType/Payment"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionStatus/Cancelled",
+                "Name": "metratech.com/AR/PaymentDistributionStatus/Cancelled"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionStatus/Closed",
+                "Name": "metratech.com/AR/PaymentDistributionStatus/Closed"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionStatus/Open",
+                "Name": "metratech.com/AR/PaymentDistributionStatus/Open"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionStatus/Pending",
+                "Name": "metratech.com/AR/PaymentDistributionStatus/Pending"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionStatus/Refunded",
+                "Name": "metratech.com/AR/PaymentDistributionStatus/Refunded"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionStatus/Split",
+                "Name": "metratech.com/AR/PaymentDistributionStatus/Split"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionStatus/Transfered",
+                "Name": "metratech.com/AR/PaymentDistributionStatus/Transfered"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentDistributionStatus/Unallocated",
+                "Name": "metratech.com/AR/PaymentDistributionStatus/Unallocated"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/ACH",
+                "Name": "metratech.com/AR/PaymentMethod/ACH"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/Cash",
+                "Name": "metratech.com/AR/PaymentMethod/Cash"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/Check",
+                "Name": "metratech.com/AR/PaymentMethod/Check"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/CreditCard",
+                "Name": "metratech.com/AR/PaymentMethod/CreditCard"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/DirectDebit",
+                "Name": "metratech.com/AR/PaymentMethod/DirectDebit"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/InterCompany",
+                "Name": "metratech.com/AR/PaymentMethod/InterCompany"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/Lockbox",
+                "Name": "metratech.com/AR/PaymentMethod/Lockbox"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/TerminalCreditCard",
+                "Name": "metratech.com/AR/PaymentMethod/TerminalCreditCard"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/Wholesale",
+                "Name": "metratech.com/AR/PaymentMethod/Wholesale"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/WireTransfer",
+                "Name": "metratech.com/AR/PaymentMethod/WireTransfer"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethod/WriteOff",
+                "Name": "metratech.com/AR/PaymentMethod/WriteOff"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethodAccount/CashOrCheck",
+                "Name": "metratech.com/AR/PaymentMethodAccount/CashOrCheck"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethodAccount/CreditCard",
+                "Name": "metratech.com/AR/PaymentMethodAccount/CreditCard"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethodAccount/CreditOrACH",
+                "Name": "metratech.com/AR/PaymentMethodAccount/CreditOrACH"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentMethodAccount/None",
+                "Name": "metratech.com/AR/PaymentMethodAccount/None"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentStatus/Closed",
+                "Name": "metratech.com/AR/PaymentStatus/Closed"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentStatus/Open",
+                "Name": "metratech.com/AR/PaymentStatus/Open"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentSubmitStatus/Failed",
+                "Name": "metratech.com/AR/PaymentSubmitStatus/Failed"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentSubmitStatus/NotSubmitted",
+                "Name": "metratech.com/AR/PaymentSubmitStatus/NotSubmitted"
+            },
+            {
+                "Value": "metratech.com/AR/PaymentSubmitStatus/Succeeded",
+                "Name": "metratech.com/AR/PaymentSubmitStatus/Succeeded"
+            },
+            {
+                "Value": "metratech.com/AR/PreAllocationStatus/Finished",
+                "Name": "metratech.com/AR/PreAllocationStatus/Finished"
+            },
+            {
+                "Value": "metratech.com/AR/PreAllocationStatus/Pending",
+                "Name": "metratech.com/AR/PreAllocationStatus/Pending"
+            },
+            {
+                "Value": "metratech.com/AR/PreAllocationType/Invoice",
+                "Name": "metratech.com/AR/PreAllocationType/Invoice"
+            },
+            {
+                "Value": "metratech.com/AR/PreAllocationType/Regular",
+                "Name": "metratech.com/AR/PreAllocationType/Regular"
+            },
+            {
+                "Value": "metratech.com/AR/ReasonCode/BalanceMovedFromPayee",
+                "Name": "metratech.com/AR/ReasonCode/BalanceMovedFromPayee"
+            },
+            {
+                "Value": "metratech.com/AR/ReasonCode/BalanceMovedToPayer",
+                "Name": "metratech.com/AR/ReasonCode/BalanceMovedToPayer"
+            },
+            {
+                "Value": "metratech.com/AR/ReasonCode/Other",
+                "Name": "metratech.com/AR/ReasonCode/Other"
+            },
+            {
+                "Value": "metratech.com/AR/RefundStatus/Cancelled",
+                "Name": "metratech.com/AR/RefundStatus/Cancelled"
+            },
+            {
+                "Value": "metratech.com/AR/RefundStatus/Paid",
+                "Name": "metratech.com/AR/RefundStatus/Paid"
+            },
+            {
+                "Value": "metratech.com/AR/RefundStatus/Prepared",
+                "Name": "metratech.com/AR/RefundStatus/Prepared"
+            },
+            {
+                "Value": "metratech.com/AR/RefundType/Credit",
+                "Name": "metratech.com/AR/RefundType/Credit"
+            },
+            {
+                "Value": "metratech.com/AR/RefundType/Payment",
+                "Name": "metratech.com/AR/RefundType/Payment"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceStatus/Canceled",
+                "Name": "metratech.com/AR/RemittanceStatus/Canceled"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceStatus/Failed",
+                "Name": "metratech.com/AR/RemittanceStatus/Failed"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceStatus/Processed",
+                "Name": "metratech.com/AR/RemittanceStatus/Processed"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceStatus/ToBeProcessed",
+                "Name": "metratech.com/AR/RemittanceStatus/ToBeProcessed"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceType/Available",
+                "Name": "metratech.com/AR/RemittanceType/Available"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceType/Credit",
+                "Name": "metratech.com/AR/RemittanceType/Credit"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceType/DFP",
+                "Name": "metratech.com/AR/RemittanceType/DFP"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceType/Payment",
+                "Name": "metratech.com/AR/RemittanceType/Payment"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceType/PaymentOnAccount",
+                "Name": "metratech.com/AR/RemittanceType/PaymentOnAccount"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceType/WorkingPayment",
+                "Name": "metratech.com/AR/RemittanceType/WorkingPayment"
+            },
+            {
+                "Value": "metratech.com/AR/RemittanceType/WriteOff",
+                "Name": "metratech.com/AR/RemittanceType/WriteOff"
+            },
+            {
+                "Value": "metratech.com/AR/ReturnStatus/Delayed",
+                "Name": "metratech.com/AR/ReturnStatus/Delayed"
+            },
+            {
+                "Value": "metratech.com/AR/ReturnStatus/Failed",
+                "Name": "metratech.com/AR/ReturnStatus/Failed"
+            },
+            {
+                "Value": "metratech.com/AR/ReturnStatus/Succeeded",
+                "Name": "metratech.com/AR/ReturnStatus/Succeeded"
+            },
+            {
+                "Value": "metratech.com/AR/ScheduledPaymentStatus/Closed",
+                "Name": "metratech.com/AR/ScheduledPaymentStatus/Closed"
+            },
+            {
+                "Value": "metratech.com/AR/ScheduledPaymentStatus/Failed",
+                "Name": "metratech.com/AR/ScheduledPaymentStatus/Failed"
+            },
+            {
+                "Value": "metratech.com/AR/ScheduledPaymentStatus/Pending",
+                "Name": "metratech.com/AR/ScheduledPaymentStatus/Pending"
+            },
+            {
+                "Value": "metratech.com/AR/ScheduledPaymentStatus/Failed",
+                "Name": "metratech.com/AR/ScheduledPaymentStatus/RemitFailure"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/BadService",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/BadService"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/DroppedCall",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/DroppedCall"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/GeneralDissatisfaction",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/GeneralDissatisfaction"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/Other",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/Other"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/PoorConnection",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/PoorConnection"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC01",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC01"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC02",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC02"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC03",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC03"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC04",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC04"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC05",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC05"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC06",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC06"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC07",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC07"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC08",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC08"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC09",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC09"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC10",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC10"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC11",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC11"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC12",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC12"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC13",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC13"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC14",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC14"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC15",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC15"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC16",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC16"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC17",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC17"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC18",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC18"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC19",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC19"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC20",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC20"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC21",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC21"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC22",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC22"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC23",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC23"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC24",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC24"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC25",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC25"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC26",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC26"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC27",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC27"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC28",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC28"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC29",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC29"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC30",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC30"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC31",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC31"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC32",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC32"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC33",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC33"
+            },
+            {
+                "Value": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC47",
+                "Name": "metratech.com/AR/SubscriberCreditAccountRequestReason/RC47"
+            },
+            {
+                "Value": "metratech.com/AR/TransactionAdjustmentFormat/FullTransaction",
+                "Name": "metratech.com/AR/TransactionAdjustmentFormat/FullTransaction"
+            },
+            {
+                "Value": "metratech.com/AR/TransactionAdjustmentFormat/PreTaxOnly",
+                "Name": "metratech.com/AR/TransactionAdjustmentFormat/PreTaxOnly"
+            },
+            {
+                "Value": "metratech.com/AR/TransactionAdjustmentFormat/TaxOnly",
+                "Name": "metratech.com/AR/TransactionAdjustmentFormat/TaxOnly"
+            },
+            {
+                "Value": "metratech.com/AR/TransBatchType/CreditNote",
+                "Name": "metratech.com/AR/TransBatchType/CreditNote"
+            },
+            {
+                "Value": "metratech.com/AR/TransBatchType/CreditReversal",
+                "Name": "metratech.com/AR/TransBatchType/CreditReversal"
+            },
+            {
+                "Value": "metratech.com/AR/TransBatchType/DebitNote",
+                "Name": "metratech.com/AR/TransBatchType/DebitNote"
+            },
+            {
+                "Value": "metratech.com/AR/TransBatchType/InterCompanyTransfer",
+                "Name": "metratech.com/AR/TransBatchType/InterCompanyTransfer"
+            },
+            {
+                "Value": "InterCompanyTransferAustralia",
+                "Name": "metratech.com/AR/TransBatchType/InterCompanyTransferAustralia"
+            },
+            {
+                "Value": "InterCompanyTransferHongKong",
+                "Name": "metratech.com/AR/TransBatchType/InterCompanyTransferHongKong"
+            },
+            {
+                "Value": "InterCompanyTransferIndia",
+                "Name": "metratech.com/AR/TransBatchType/InterCompanyTransferIndia"
+            },
+            {
+                "Value": "InterCompanyTransferJapan",
+                "Name": "metratech.com/AR/TransBatchType/InterCompanyTransferJapan"
+            },
+            {
+                "Value": "InterCompanyTransferSingapore",
+                "Name": "metratech.com/AR/TransBatchType/InterCompanyTransferSingapore"
+            },
+            {
+                "Value": "InterCompanyTransferUK",
+                "Name": "metratech.com/AR/TransBatchType/InterCompanyTransferUK"
+            },
+            {
+                "Value": "InterCompanyTransferWestIP",
+                "Name": "metratech.com/AR/TransBatchType/InterCompanyTransferWestIP"
+            },
+            {
+                "Value": "metratech.com/AR/TransBatchType/RefundCheck",
+                "Name": "metratech.com/AR/TransBatchType/RefundCheck"
+            },
+            {
+                "Value": "metratech.com/AR/TransBatchType/RefundCreditCard",
+                "Name": "metratech.com/AR/TransBatchType/RefundCreditCard"
+            },
+            {
+                "Value": "metratech.com/AR/TransBatchType/RefundDirectDebit",
+                "Name": "metratech.com/AR/TransBatchType/RefundDirectDebit"
+            },
+            {
+                "Value": "metratech.com/AR/TransBatchType/RefundPaymentReversal",
+                "Name": "metratech.com/AR/TransBatchType/RefundPaymentReversal"
+            },
+            {
+                "Value": "metratech.com/AR/TransBatchType/UnrefundableCredit",
+                "Name": "metratech.com/AR/TransBatchType/UnrefundableCredit"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/AccountNumber",
+                "Name": "metratech.com/AR/UploadFields/AccountNumber"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/Amount",
+                "Name": "metratech.com/AR/UploadFields/Amount"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/CheckDate",
+                "Name": "metratech.com/AR/UploadFields/CheckDate"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/CheckName",
+                "Name": "metratech.com/AR/UploadFields/CheckName"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/CheckNumber",
+                "Name": "metratech.com/AR/UploadFields/CheckNumber"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/CheckTransitRoutingNumber",
+                "Name": "metratech.com/AR/UploadFields/CheckTransitRoutingNumber"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/Company",
+                "Name": "metratech.com/AR/UploadFields/Company"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/Description",
+                "Name": "metratech.com/AR/UploadFields/Description"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/DivisionAmount",
+                "Name": "metratech.com/AR/UploadFields/DivisionAmount"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/InvoiceNumber",
+                "Name": "metratech.com/AR/UploadFields/InvoiceNumber"
+            },
+            {
+                "Value": "metratech.com/AR/UploadFields/Order",
+                "Name": "metratech.com/AR/UploadFields/Order"
+            },
+            {
+                "Value": "metratech.com/AR/WorkingBatchStatus/Guided",
+                "Name": "metratech.com/AR/WorkingBatchStatus/Guided"
+            },
+            {
+                "Value": "metratech.com/AR/WorkingBatchStatus/Open",
+                "Name": "metratech.com/AR/WorkingBatchStatus/Open"
+            },
+            {
+                "Value": "metratech.com/AR/ScheduledPaymentStatus/PaymentDenied",
+                "Name": "metratech.com/AR/ScheduledPaymentStatus/PaymentDenied"
+            },
+            {
+                "Value": "metratech.com/AR/ScheduledPaymentStatus/PDCreateFailure",
+                "Name": "metratech.com/AR/ScheduledPaymentStatus/PDCreateFailure"
+            },
+            {
+                "Value": "metratech.com/AR/ScheduledPaymentStatus/Cancelled",
+                "Name": "metratech.com/AR/ScheduledPaymentStatus/Cancelled"
+            }
+        ]
+    }
+}}

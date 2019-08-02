@@ -1,0 +1,28 @@
+{"mt_config": {
+    "language_code": "da",
+    "locale_space": {
+        "name": "metratech.com/NonStandardCharge",
+        "locale_entry": [
+            {
+                "Value": "metratech.com/NonStandardCharge/AdditionalCode/Other",
+                "Name": "metratech.com/NonStandardCharge/AdditionalCode/Other"
+            },
+            {
+                "Value": "metratech.com/NonStandardCharge/NonStandardChargeReason/Credit",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Credit"
+            },
+            {
+                "Value": "metratech.com/NonStandardCharge/NonStandardChargeReason/Debit",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Debit"
+            },
+            {
+                "Value": "metratech.com/NonStandardCharge/NonStandardChargeReason/Other",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeReason/Other"
+            },
+            {
+                "Value": "metratech.com/NonStandardCharge/NonStandardChargeType/Other",
+                "Name": "metratech.com/NonStandardCharge/NonStandardChargeType/Other"
+            }
+        ]
+    }
+}}

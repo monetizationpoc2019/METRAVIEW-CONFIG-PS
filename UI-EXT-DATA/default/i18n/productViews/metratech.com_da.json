@@ -1,0 +1,184 @@
+{"mt_config": {
+    "language_code": "da",
+    "locale_space": {
+        "name": "metratech.com",
+        "locale_entry": [
+            {
+                "Value": "metratech.com/BillMessageType/FOOTER",
+                "Name": "metratech.com/BillMessageType/FOOTER"
+            },
+            {
+                "Value": "metratech.com/BillMessageType/HEADER",
+                "Name": "metratech.com/BillMessageType/HEADER"
+            },
+            {
+                "Value": "metratech.com/BillMessageType/INSERT",
+                "Name": "metratech.com/BillMessageType/INSERT"
+            },
+            {
+                "Value": "metratech.com/BillMessageType/OTHER",
+                "Name": "metratech.com/BillMessageType/OTHER"
+            },
+            {
+                "Value": "metratech.com/CreditCardType/American Express",
+                "Name": "metratech.com/CreditCardType/American Express"
+            },
+            {
+                "Value": "metratech.com/CreditCardType/Diners Club",
+                "Name": "metratech.com/CreditCardType/Diners Club"
+            },
+            {
+                "Value": "metratech.com/CreditCardType/Discover",
+                "Name": "metratech.com/CreditCardType/Discover"
+            },
+            {
+                "Value": "metratech.com/CreditCardType/JCB",
+                "Name": "metratech.com/CreditCardType/JCB"
+            },
+            {
+                "Value": "metratech.com/CreditCardType/Maestro",
+                "Name": "metratech.com/CreditCardType/Maestro"
+            },
+            {
+                "Value": "metratech.com/CreditCardType/MasterCard",
+                "Name": "metratech.com/CreditCardType/MasterCard"
+            },
+            {
+                "Value": "metratech.com/CreditCardType/None",
+                "Name": "metratech.com/CreditCardType/None"
+            },
+            {
+                "Value": "metratech.com/CreditCardType/Visa",
+                "Name": "metratech.com/CreditCardType/Visa"
+            },
+            {
+                "Value": "metratech.com/Operation/Add",
+                "Name": "metratech.com/Operation/Add"
+            },
+            {
+                "Value": "metratech.com/Operation/Delete",
+                "Name": "metratech.com/Operation/Delete"
+            },
+            {
+                "Value": "metratech.com/Operation/Update",
+                "Name": "metratech.com/Operation/Update"
+            },
+            {
+                "Value": "metratech.com/Position/Engineer",
+                "Name": "metratech.com/Position/Engineer"
+            },
+            {
+                "Value": "metratech.com/Position/Executive",
+                "Name": "metratech.com/Position/Executive"
+            },
+            {
+                "Value": "metratech.com/Position/Manager",
+                "Name": "metratech.com/Position/Manager"
+            },
+            {
+                "Value": "metratech.com/QuoteStatus/Complete",
+                "Name": "metratech.com/QuoteStatus/Complete"
+            },
+            {
+                "Value": "metratech.com/QuoteStatus/Converted",
+                "Name": "metratech.com/QuoteStatus/Converted"
+            },
+            {
+                "Value": "metratech.com/QuoteStatus/Failed",
+                "Name": "metratech.com/QuoteStatus/Failed"
+            },
+            {
+                "Value": "metratech.com/QuoteStatus/InProgress",
+                "Name": "metratech.com/QuoteStatus/InProgress"
+            },
+            {
+                "Value": "metratech.com/QuoteStatus/None",
+                "Name": "metratech.com/QuoteStatus/None"
+            },
+            {
+                "Value": "metratech.com/SaleForceRelationship/Account Development",
+                "Name": "metratech.com/SaleForceRelationship/Account Development"
+            },
+            {
+                "Value": "metratech.com/SaleForceRelationship/Account Executive",
+                "Name": "metratech.com/SaleForceRelationship/Account Executive"
+            },
+            {
+                "Value": "metratech.com/SaleForceRelationship/Channel Manager",
+                "Name": "metratech.com/SaleForceRelationship/Channel Manager"
+            },
+            {
+                "Value": "metratech.com/SaleForceRelationship/Executive Sponsor",
+                "Name": "metratech.com/SaleForceRelationship/Executive Sponsor"
+            },
+            {
+                "Value": "metratech.com/SaleForceRelationship/Operations Support",
+                "Name": "metratech.com/SaleForceRelationship/Operations Support"
+            },
+            {
+                "Value": "metratech.com/SaleForceRelationship/Program Manager",
+                "Name": "metratech.com/SaleForceRelationship/Program Manager"
+            },
+            {
+                "Value": "metratech.com/SaleForceRelationship/Project Manager",
+                "Name": "metratech.com/SaleForceRelationship/Project Manager"
+            },
+            {
+                "Value": "metratech.com/SaleForceRelationship/Sales Agent",
+                "Name": "metratech.com/SaleForceRelationship/Sales Agent"
+            },
+            {
+                "Value": "metratech.com/SaleForceRelationship/Technical Sales Support",
+                "Name": "metratech.com/SaleForceRelationship/Technical Sales Support"
+            },
+            {
+                "Value": "metratech.com/SubscriberCreditAccountRequestReason/BadService",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/BadService"
+            },
+            {
+                "Value": "metratech.com/SubscriberCreditAccountRequestReason/DroppedCall",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/DroppedCall"
+            },
+            {
+                "Value": "metratech.com/SubscriberCreditAccountRequestReason/GeneralDissatisfaction",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/GeneralDissatisfaction"
+            },
+            {
+                "Value": "metratech.com/SubscriberCreditAccountRequestReason/Other",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/Other"
+            },
+            {
+                "Value": "metratech.com/SubscriberCreditAccountRequestReason/PoorConnection",
+                "Name": "metratech.com/SubscriberCreditAccountRequestReason/PoorConnection"
+            },
+            {
+                "Value": "metratech.com/SubscriberCreditAccountRequestStatus/APPROVED",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/APPROVED"
+            },
+            {
+                "Value": "metratech.com/SubscriberCreditAccountRequestStatus/DENIED",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/DENIED"
+            },
+            {
+                "Value": "metratech.com/SubscriberCreditAccountRequestStatus/PENDING",
+                "Name": "metratech.com/SubscriberCreditAccountRequestStatus/PENDING"
+            },
+            {
+                "Value": "metratech.com/TransactionTypes/BeginDistributed",
+                "Name": "metratech.com/TransactionTypes/BeginDistributed"
+            },
+            {
+                "Value": "metratech.com/TransactionTypes/BeginLocal",
+                "Name": "metratech.com/TransactionTypes/BeginLocal"
+            },
+            {
+                "Value": "metratech.com/TransactionTypes/Commit",
+                "Name": "metratech.com/TransactionTypes/Commit"
+            },
+            {
+                "Value": "metratech.com/TransactionTypes/JoinDistributed",
+                "Name": "metratech.com/TransactionTypes/JoinDistributed"
+            }
+        ]
+    }
+}}

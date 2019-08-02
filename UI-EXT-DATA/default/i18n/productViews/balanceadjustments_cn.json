@@ -1,0 +1,36 @@
+{"mt_config": {
+    "language_code": "cn",
+    "locale_space": {
+        "name": "metratech.com/balanceadjustments",
+        "locale_entry": [
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/ACH",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/ACH"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/Cash",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Cash"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/Check",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/Check"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/PaymentMethod/CreditCard",
+                "Name": "metratech.com/balanceadjustments/PaymentMethod/CreditCard"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/ReasonCode/1",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/1"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/ReasonCode/2",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/2"
+            },
+            {
+                "Value": "metratech.com/balanceadjustments/ReasonCode/3",
+                "Name": "metratech.com/balanceadjustments/ReasonCode/3"
+            }
+        ]
+    }
+}}

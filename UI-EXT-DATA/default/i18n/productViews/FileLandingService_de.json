@@ -1,0 +1,272 @@
+{"mt_config": {
+    "language_code": "de",
+    "locale_space": {
+        "name": "metratech.com/FileLandingService",
+        "locale_entry": [
+            {
+                "Value": "BATCHID",
+                "Name": "metratech.com/FileLandingService/eArgumentType/BATCHID"
+            },
+            {
+                "Value": "Datei",
+                "Name": "metratech.com/FileLandingService/eArgumentType/FILE"
+            },
+            {
+                "Value": "Fest",
+                "Name": "metratech.com/FileLandingService/eArgumentType/FIXED"
+            },
+            {
+                "Value": "Schlüssel/Wert-Paar",
+                "Name": "metratech.com/FileLandingService/eArgumentType/KVP"
+            },
+            {
+                "Value": "SCRIPT",
+                "Name": "metratech.com/FileLandingService/eArgumentType/SCRIPT"
+            },
+            {
+                "Value": "TRACKINGID",
+                "Name": "metratech.com/FileLandingService/eArgumentType/TRACKINGID"
+            },
+            {
+                "Value": "Immer",
+                "Name": "metratech.com/FileLandingService/eConditionalType/ALWAYS"
+            },
+            {
+                "Value": "Nur für neue Aufträge",
+                "Name": "metratech.com/FileLandingService/eConditionalType/ON_NEW"
+            },
+            {
+                "Value": "Nur für wiederholte Aufträge",
+                "Name": "metratech.com/FileLandingService/eConditionalType/ON_RETRY"
+            },
+            {
+                "Value": "ONRESUBMIT",
+                "Name": "metratech.com/FileLandingService/eConditionalType/ONRESUBMIT"
+            },
+            {
+                "Value": "Abgeschlossen",
+                "Name": "metratech.com/FileLandingService/eDirectoryType/COMPLETED"
+            },
+            {
+                "Value": "Fehlgeschlagen",
+                "Name": "metratech.com/FileLandingService/eDirectoryType/FAILED"
+            },
+            {
+                "Value": "METERED",
+                "Name": "metratech.com/FileLandingService/eDirectoryType/METERED"
+            },
+            {
+                "Value": "TEMP",
+                "Name": "metratech.com/FileLandingService/eDirectoryType/TEMP"
+            },
+            {
+                "Value": "WATCHED",
+                "Name": "metratech.com/FileLandingService/eDirectoryType/WATCHED"
+            },
+            {
+                "Value": "ALL",
+                "Name": "metratech.com/FileLandingService/eEventFilterType/ALL"
+            },
+            {
+                "Value": "CHANGED",
+                "Name": "metratech.com/FileLandingService/eEventFilterType/CHANGED"
+            },
+            {
+                "Value": "CREATED",
+                "Name": "metratech.com/FileLandingService/eEventFilterType/CREATED"
+            },
+            {
+                "Value": "Gelöscht",
+                "Name": "metratech.com/FileLandingService/eEventFilterType/DELETED"
+            },
+            {
+                "Value": "RENAMED",
+                "Name": "metratech.com/FileLandingService/eEventFilterType/RENAMED"
+            },
+            {
+                "Value": "REGEX",
+                "Name": "metratech.com/FileLandingService/eFileNameFilterType/REGEX"
+            },
+            {
+                "Value": "WILDCARD",
+                "Name": "metratech.com/FileLandingService/eFileNameFilterType/WILDCARD"
+            },
+            {
+                "Value": "DEPENDENT",
+                "Name": "metratech.com/FileLandingService/eFileSetRequirementType/DEPENDENT"
+            },
+            {
+                "Value": "INDEPENDENT",
+                "Name": "metratech.com/FileLandingService/eFileSetRequirementType/INDEPENDENT"
+            },
+            {
+                "Value": "ASSIGNED",
+                "Name": "metratech.com/FileLandingService/eFileState/ASSIGNED"
+            },
+            {
+                "Value": "Ausstehend",
+                "Name": "metratech.com/FileLandingService/eFileState/PENDING"
+            },
+            {
+                "Value": "Abgelehnt",
+                "Name": "metratech.com/FileLandingService/eFileState/REJECTED"
+            },
+            {
+                "Value": "Active",
+                "Name": "metratech.com/FileLandingService/EInvocationState/ACTIVE"
+            },
+            {
+                "Value": "Abgeschlossen",
+                "Name": "metratech.com/FileLandingService/EInvocationState/COMPLETED"
+            },
+            {
+                "Value": "Fehlgeschlagen",
+                "Name": "metratech.com/FileLandingService/EInvocationState/FAILED"
+            },
+            {
+                "Value": "MATCHED",
+                "Name": "metratech.com/FileLandingService/EInvocationState/MATCHED"
+            },
+            {
+                "Value": "NEW",
+                "Name": "metratech.com/FileLandingService/EInvocationState/NEW"
+            },
+            {
+                "Value": "Ausstehend",
+                "Name": "metratech.com/FileLandingService/EInvocationState/PENDING"
+            },
+            {
+                "Value": "QUEUED",
+                "Name": "metratech.com/FileLandingService/EInvocationState/QUEUED"
+            },
+            {
+                "Value": "UNBEKANNT",
+                "Name": "metratech.com/FileLandingService/EInvocationState/UNKNOWN"
+            },
+            {
+                "Value": "UNMATCHED",
+                "Name": "metratech.com/FileLandingService/EInvocationState/UNMATCHED"
+            },
+            {
+                "Value": "CSHARP",
+                "Name": "metratech.com/FileLandingService/eLanguageType/CSHARP"
+            },
+            {
+                "Value": "VBASIC",
+                "Name": "metratech.com/FileLandingService/eLanguageType/VBASIC"
+            },
+            {
+                "Value": "Diese Kontrollnummer wurde bereits verwendet.",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/CONTROL_NUMBER_REUSED"
+            },
+            {
+                "Value": "Datei mit ungültigem Namen.",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/IMPROPERLY_NAMED"
+            },
+            {
+                "Value": "Datei mit ungültigem Namen.",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/ImproperlyNamed"
+            },
+            {
+                "Value": "ImproperN",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/ImproperN"
+            },
+            {
+                "Value": "Ein Auftrag mit dieser Kontrollnummer wird auf einem anderen Rechner bearbeitet.",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/INTERFERENCE"
+            },
+            {
+                "Value": "Es ist ein interner Fehler aufgetreten.",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/INTERNAL_ERROR"
+            },
+            {
+                "Value": "Kein Fehler",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/NO_ERROR"
+            },
+            {
+                "Value": "NoReason",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/NoReason"
+            },
+            {
+                "Value": "Für den Auftrag wurden nicht genügend Dateien bereitgestellt.",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/NOT_ENOUGH_FILES"
+            },
+            {
+                "Value": "Übereinstimmendes Ziel nicht gefunden.",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/TARGET_NOT_FOUND"
+            },
+            {
+                "Value": "Übereinstimmendes Ziel nicht gefunden.",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/TargetNotFound"
+            },
+            {
+                "Value": "Unbekannt",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/UNKNOWN"
+            },
+            {
+                "Value": "Unbekannt",
+                "Name": "metratech.com/FileLandingService/eRejectionReason/UNKOWN"
+            },
+            {
+                "Value": "MD5",
+                "Name": "metratech.com/FileLandingService/ESecurityTokenType/MD5"
+            },
+            {
+                "Value": "SHA1",
+                "Name": "metratech.com/FileLandingService/ESecurityTokenType/SHA1"
+            },
+            {
+                "Value": "TOKEN",
+                "Name": "metratech.com/FileLandingService/ESecurityTokenType/TOKEN"
+            },
+            {
+                "Value": "Active",
+                "Name": "metratech.com/FileLandingService/EServiceState/Active"
+            },
+            {
+                "Value": "Bereit",
+                "Name": "metratech.com/FileLandingService/EServiceState/READY"
+            },
+            {
+                "Value": "Active",
+                "Name": "metratech.com/FileLandingService/EServiceState/RUNNING"
+            },
+            {
+                "Value": "Initialisierung",
+                "Name": "metratech.com/FileLandingService/EServiceState/STARTING"
+            },
+            {
+                "Value": "Gestoppt",
+                "Name": "metratech.com/FileLandingService/EServiceState/Stopped"
+            },
+            {
+                "Value": "System wird heruntergefahren",
+                "Name": "metratech.com/FileLandingService/EServiceState/STOPPING"
+            },
+            {
+                "Value": "Synchronisierung läuft",
+                "Name": "metratech.com/FileLandingService/EServiceState/SYNCING"
+            },
+            {
+                "Value": "Aktualisieren",
+                "Name": "metratech.com/FileLandingService/EServiceState/Updating"
+            },
+            {
+                "Value": "Ausführbar",
+                "Name": "metratech.com/FileLandingService/eTargetType/EXECUTABLE"
+            },
+            {
+                "Value": "ASSEMBLY",
+                "Name": "metratech.com/FileLandingService/eTargetType/GENERATED"
+            },
+            {
+                "Value": "Datei",
+                "Name": "metratech.com/FileLandingService/ScriptArgumentType/FILE"
+            },
+            {
+                "Value": "Schlüssel/Wert-Paar",
+                "Name": "metratech.com/FileLandingService/ScriptArgumentType/KVP"
+            }
+        ]
+    }
+}}

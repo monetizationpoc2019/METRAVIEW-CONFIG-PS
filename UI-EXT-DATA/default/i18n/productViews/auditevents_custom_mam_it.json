@@ -1,0 +1,16 @@
+{"mt_config": {
+    "language_code": "it",
+    "locale_space": {
+        "name": "metratech.com/auditevents/custom/mam",
+        "locale_entry": [
+            {
+                "Value": "Nota CSR",
+                "Name": "metratech.com/auditevents/custom/mam/note"
+            },
+            {
+                "Value": "Abbonato contattato",
+                "Name": "metratech.com/auditevents/custom/mam/telephone"
+            }
+        ]
+    }
+}}

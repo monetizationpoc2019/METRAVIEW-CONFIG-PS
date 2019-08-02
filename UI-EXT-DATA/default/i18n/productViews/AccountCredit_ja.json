@@ -1,0 +1,120 @@
+{"mt_config": {
+    "language_code": "jp",
+    "locale_space": {
+        "name": "metratech.com/AccountCredit",
+        "locale_entry": [
+            {
+                "Value": "各種調整",
+                "Name": "metratech.com/AccountCredit"
+            },
+            {
+                "Value": "お客様 #",
+                "Name": "metratech.com/AccountCredit/_AccountID"
+            },
+            {
+                "Value": "金額",
+                "Name": "metratech.com/AccountCredit/_Amount"
+            },
+            {
+                "Value": "通貨",
+                "Name": "metratech.com/AccountCredit/_Currency"
+            },
+            {
+                "Value": "勘定コード",
+                "Name": "metratech.com/AccountCredit/AccountingCode"
+            },
+            {
+                "Value": "自動",
+                "Name": "metratech.com/AccountCredit/Auto"
+            },
+            {
+                "Value": "競合セッション ID",
+                "Name": "metratech.com/AccountCredit/ContentionSessionID"
+            },
+            {
+                "Value": "調整金額",
+                "Name": "metratech.com/AccountCredit/CreditAmount"
+            },
+            {
+                "Value": "返金タイミング",
+                "Name": "metratech.com/AccountCredit/CreditTime"
+            },
+            {
+                "Value": "対応窓口 ID",
+                "Name": "metratech.com/AccountCredit/CsrID"
+            },
+            {
+                "Value": "電子メール アドレス",
+                "Name": "metratech.com/AccountCredit/EmailAddress"
+            },
+            {
+                "Value": "電子メールによる通知",
+                "Name": "metratech.com/AccountCredit/EmailNotification"
+            },
+            {
+                "Value": "電子メール 本文",
+                "Name": "metratech.com/AccountCredit/EmailText"
+            },
+            {
+                "Value": "ガイド期間 ID",
+                "Name": "metratech.com/AccountCredit/GuideIntervalID"
+            },
+            {
+                "Value": "[JA]IgnorePaymentRedirection",
+                "Name": "metratech.com/AccountCredit/IgnorePaymentRedirection"
+            },
+            {
+                "Value": "[JA]Internal Description",
+                "Name": "metratech.com/AccountCredit/InternalComment"
+            },
+            {
+                "Value": "[JA]Invoice Description",
+                "Name": "metratech.com/AccountCredit/InvoiceComment"
+            },
+            {
+                "Value": "発信者",
+                "Name": "metratech.com/AccountCredit/Issuer"
+            },
+            {
+                "Value": "ネームスペース",
+                "Name": "metratech.com/AccountCredit/NameSpace"
+            },
+            {
+                "Value": "その他",
+                "Name": "metratech.com/AccountCredit/Other"
+            },
+            {
+                "Value": "支払者",
+                "Name": "metratech.com/AccountCredit/Payer"
+            },
+            {
+                "Value": "理由コード",
+                "Name": "metratech.com/AccountCredit/Reason"
+            },
+            {
+                "Value": "要求金額",
+                "Name": "metratech.com/AccountCredit/RequestAmount"
+            },
+            {
+                "Value": "要求 ID",
+                "Name": "metratech.com/AccountCredit/RequestID"
+            },
+            {
+                "Value": "お客様 ID との解決フラグ",
+                "Name": "metratech.com/AccountCredit/ResolveWithAccountIDFlag"
+            },
+            {
+                "Value": "戻りコード",
+                "Name": "metratech.com/AccountCredit/ReturnCode"
+            },
+            {
+                "Value": "状況",
+                "Name": "metratech.com/AccountCredit/Status"
+            },
+            {
+                "Value": "[JA]Subscriber Account ID",
+                "Name": "metratech.com/AccountCredit/SubscriberAccountID"
+            }
+        ]
+    }
+}}

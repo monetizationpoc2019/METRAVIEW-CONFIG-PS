@@ -1,0 +1,52 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "metratech.com/ServiceEndpoint",
+        "locale_entry": [
+            {
+                "Value": "AjouterMappageID",
+                "Name": "metratech.com/ServiceEndpoint/Operation/AddIDMapping"
+            },
+            {
+                "Value": "Connexion",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Connect"
+            },
+            {
+                "Value": "Créer",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Create"
+            },
+            {
+                "Value": "CréerEtConnecter",
+                "Name": "metratech.com/ServiceEndpoint/Operation/CreateAndConnect"
+            },
+            {
+                "Value": "Déconnexion",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Disconnect"
+            },
+            {
+                "Value": "DéconnecterEtTerminer",
+                "Name": "metratech.com/ServiceEndpoint/Operation/DisconnectAndEnd"
+            },
+            {
+                "Value": "Opération/Déplacer",
+                "Name": "metratech.com/ServiceEndpoint/Operation/Move"
+            },
+            {
+                "Value": "SupprimerMappageID",
+                "Name": "metratech.com/ServiceEndpoint/Operation/RemoveIDMapping"
+            },
+            {
+                "Value": "MàJDateValidité",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateEffectiveDate"
+            },
+            {
+                "Value": "MàJPropriétésÉtendues",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateExtendedProperties"
+            },
+            {
+                "Value": "MàJMappageID",
+                "Name": "metratech.com/ServiceEndpoint/Operation/UpdateIDMapping"
+            }
+        ]
+    }
+}}

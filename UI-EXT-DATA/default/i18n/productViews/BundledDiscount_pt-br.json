@@ -1,0 +1,24 @@
+{"mt_config": {
+    "language_code": "pt-br",
+    "locale_space": {
+        "name": "metratech.com/BundledDiscount",
+        "locale_entry": [
+            {
+                "Value": "Descontos",
+                "Name": "metratech.com/BundledDiscount"
+            },
+            {
+                "Value": "ID do produto",
+                "Name": "metratech.com/BundledDiscount/_ProductID"
+            },
+            {
+                "Value": "ID do desconto",
+                "Name": "metratech.com/BundledDiscount/DiscountID"
+            },
+            {
+                "Value": "Nome do desconto",
+                "Name": "metratech.com/BundledDiscount/DiscountName"
+            }
+        ]
+    }
+}}

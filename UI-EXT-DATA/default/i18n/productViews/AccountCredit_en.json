@@ -1,0 +1,120 @@
+{"mt_config": {
+    "language_code": "us",
+    "locale_space": {
+        "name": "metratech.com/AccountCredit",
+        "locale_entry": [
+            {
+                "Value": "Miscellaneous Adjustments",
+                "Name": "metratech.com/AccountCredit"
+            },
+            {
+                "Value": "Account #",
+                "Name": "metratech.com/AccountCredit/_AccountID"
+            },
+            {
+                "Value": "Amount",
+                "Name": "metratech.com/AccountCredit/_Amount"
+            },
+            {
+                "Value": "Currency",
+                "Name": "metratech.com/AccountCredit/_Currency"
+            },
+            {
+                "Value": "Accounting Code",
+                "Name": "metratech.com/AccountCredit/AccountingCode"
+            },
+            {
+                "Value": "Auto",
+                "Name": "metratech.com/AccountCredit/Auto"
+            },
+            {
+                "Value": "Contention Session ID",
+                "Name": "metratech.com/AccountCredit/ContentionSessionID"
+            },
+            {
+                "Value": "Adjustment Amount",
+                "Name": "metratech.com/AccountCredit/CreditAmount"
+            },
+            {
+                "Value": "Time of Credit",
+                "Name": "metratech.com/AccountCredit/CreditTime"
+            },
+            {
+                "Value": "Csr ID",
+                "Name": "metratech.com/AccountCredit/CsrID"
+            },
+            {
+                "Value": "E-Mail Address",
+                "Name": "metratech.com/AccountCredit/EmailAddress"
+            },
+            {
+                "Value": "E-Mail Notification",
+                "Name": "metratech.com/AccountCredit/EmailNotification"
+            },
+            {
+                "Value": "E-Mail Text",
+                "Name": "metratech.com/AccountCredit/EmailText"
+            },
+            {
+                "Value": "GuideIntervalID",
+                "Name": "metratech.com/AccountCredit/GuideIntervalID"
+            },
+            {
+                "Value": "IgnorePaymentRedirection",
+                "Name": "metratech.com/AccountCredit/IgnorePaymentRedirection"
+            },
+            {
+                "Value": "Internal Description",
+                "Name": "metratech.com/AccountCredit/InternalComment"
+            },
+            {
+                "Value": "Invoice Description",
+                "Name": "metratech.com/AccountCredit/InvoiceComment"
+            },
+            {
+                "Value": "Issuer",
+                "Name": "metratech.com/AccountCredit/Issuer"
+            },
+            {
+                "Value": "Namespace",
+                "Name": "metratech.com/AccountCredit/NameSpace"
+            },
+            {
+                "Value": "Other",
+                "Name": "metratech.com/AccountCredit/Other"
+            },
+            {
+                "Value": "Payer",
+                "Name": "metratech.com/AccountCredit/Payer"
+            },
+            {
+                "Value": "Reason Code",
+                "Name": "metratech.com/AccountCredit/Reason"
+            },
+            {
+                "Value": "RequestAmount",
+                "Name": "metratech.com/AccountCredit/RequestAmount"
+            },
+            {
+                "Value": "Request ID",
+                "Name": "metratech.com/AccountCredit/RequestID"
+            },
+            {
+                "Value": "Resolve With Account ID Flag",
+                "Name": "metratech.com/AccountCredit/ResolveWithAccountIDFlag"
+            },
+            {
+                "Value": "Return Code",
+                "Name": "metratech.com/AccountCredit/ReturnCode"
+            },
+            {
+                "Value": "Status",
+                "Name": "metratech.com/AccountCredit/Status"
+            },
+            {
+                "Value": "Subscriber Account ID",
+                "Name": "metratech.com/AccountCredit/SubscriberAccountID"
+            }
+        ]
+    }
+}}

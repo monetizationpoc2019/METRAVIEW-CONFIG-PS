@@ -1,0 +1,68 @@
+{"mt_config": {
+    "language_code": "US",
+    "locale_space": {
+        "name": "metratech.com/AccountCreditRequest",
+        "locale_entry": [
+            {
+                "Value": "Miscellaneous Adjustments",
+                "Name": "metratech.com/AccountCreditRequest"
+            },
+            {
+                "Value": "Account #",
+                "Name": "metratech.com/AccountCreditRequest/_AccountID"
+            },
+            {
+                "Value": "Amount",
+                "Name": "metratech.com/AccountCreditRequest/_Amount"
+            },
+            {
+                "Value": "Currency",
+                "Name": "metratech.com/AccountCreditRequest/_Currency"
+            },
+            {
+                "Value": "Automatically approved",
+                "Name": "metratech.com/AccountCreditRequest/Auto"
+            },
+            {
+                "Value": "Contention Session ID",
+                "Name": "metratech.com/AccountCreditRequest/ContentionSessionID"
+            },
+            {
+                "Value": "Adjustment Amount",
+                "Name": "metratech.com/AccountCreditRequest/CreditAmount"
+            },
+            {
+                "Value": "Description",
+                "Name": "metratech.com/AccountCreditRequest/Description"
+            },
+            {
+                "Value": "E-Mail Address",
+                "Name": "metratech.com/AccountCreditRequest/EmailAddress"
+            },
+            {
+                "Value": "E-Mail Notification",
+                "Name": "metratech.com/AccountCreditRequest/EmailNotification"
+            },
+            {
+                "Value": "Guide Interval ID",
+                "Name": "metratech.com/accountcreditrequest/guideintervalid"
+            },
+            {
+                "Value": "Other",
+                "Name": "metratech.com/AccountCreditRequest/Other"
+            },
+            {
+                "Value": "Reason",
+                "Name": "metratech.com/AccountCreditRequest/Reason"
+            },
+            {
+                "Value": "Status",
+                "Name": "metratech.com/AccountCreditRequest/Status"
+            },
+            {
+                "Value": "Subscriber Account ID",
+                "Name": "metratech.com/AccountCreditRequest/SubscriberAccountID"
+            }
+        ]
+    }
+}}

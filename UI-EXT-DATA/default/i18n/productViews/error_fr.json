@@ -1,0 +1,76 @@
+{"mt_config": {
+    "language_code": "fr",
+    "locale_space": {
+        "name": "pipeline/error",
+        "locale_entry": [
+            {
+                "Value": "Échecs système",
+                "Name": "pipeline/error"
+            },
+            {
+                "Value": "Code",
+                "Name": "pipeline/error/Code"
+            },
+            {
+                "Value": "Message d'erreur",
+                "Name": "pipeline/error/ErrorMessage"
+            },
+            {
+                "Value": "Échec ID composé",
+                "Name": "pipeline/error/FailureCompoundID"
+            },
+            {
+                "Value": "Échec ID",
+                "Name": "pipeline/error/FailureID"
+            },
+            {
+                "Value": "Échec nom de service",
+                "Name": "pipeline/error/FailureServiceName"
+            },
+            {
+                "Value": "Heure de l'échec",
+                "Name": "pipeline/error/FailureTime"
+            },
+            {
+                "Value": "Ligne",
+                "Name": "pipeline/error/Line"
+            },
+            {
+                "Value": "Temps chronométré",
+                "Name": "pipeline/error/MeteredTime"
+            },
+            {
+                "Value": "Méthode",
+                "Name": "pipeline/error/Method"
+            },
+            {
+                "Value": "Module",
+                "Name": "pipeline/error/Module"
+            },
+            {
+                "Value": "Plug-in",
+                "Name": "pipeline/error/PlugIn"
+            },
+            {
+                "Value": "ID de compte possible",
+                "Name": "pipeline/error/PossibleAccountID"
+            },
+            {
+                "Value": "Expéditeur",
+                "Name": "pipeline/error/Sender"
+            },
+            {
+                "Value": "Nom de l'étape",
+                "Name": "pipeline/error/StageName"
+            },
+            {
+                "Value": "État",
+                "Name": "pipeline/error/State"
+            },
+            {
+                "Value": "Lot",
+                "Name": "pipeline/error/tx_batch"
+            }
+        ]
+    }
+}}
